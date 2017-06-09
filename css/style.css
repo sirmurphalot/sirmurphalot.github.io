@@ -1734,12 +1734,12 @@ figure.clickImage .explrht {
 .contactpage {
     background-color: #e5e7e6 none repeat scroll 0 0;
     background-image: url("MurphBackground.png");
-    background-position: center top;
+    background-position: center;
     background-size: cover;
 }
 .landingpage {
     background-image: url("MurphBackground.png");
-    background-position: center top;
+    background-position: center;
     background-size: cover;
 }
 .link {
