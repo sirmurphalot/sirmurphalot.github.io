@@ -3317,7 +3317,7 @@ screen and (max-device-width: 660px) and (min-device-width: 400px) and (orientat
         display: block;
     }
 }
-@media (max-width: 1199px) {
+@media (max-width: 2000px) {
     .skill-fix {
         display: block;
     }
