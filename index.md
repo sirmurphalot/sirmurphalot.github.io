@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-title: Guna Prasaad
+title: Alexander Murph
 permalink: 
 ---
 <div class="banner">
@@ -12,24 +12,19 @@ permalink:
     </div>
     <div class="contact">
         <i>Graduate Student</i> <br>
-        Paul G Allen Center<br>
-        185 E Stevens Way NE<br>
-        Seattle, WA - 98195<br>
-        <a href="mailto:guna@cs.washington.edu"> <img src="{{site.url}}css/icons/gmail.jpg"  class="icon"> </a>
-        <a href="https://twitter.com/gunaprsd"><img src="{{site.url}}css/icons/twitter.jpg"  class="icon"> </a>
-        <a href="https://www.linkedin.com/in/guna-prasaad-1479a450"><img src="{{site.url}}css/icons/linkedin.jpg"  class="icon"> </a>
-        <a href="https://github.com/gunaprsd"><img src="{{site.url}}css/icons/github.png" class="icon"></a>
+        Statistics and Operations Research<br>
+        Chapel Hill, NC<br>
+        <a href="mailto:acmurph@live.unc.edu"> <img src="{{site.url}}css/icons/gmail.jpg"  class="icon"> </a>
+        <a href="https://twitter.com/sirmurphalot"><img src="{{site.url}}css/icons/twitter.jpg"  class="icon"> </a>
+        <a href="https://www.linkedin.com/in/alexander-murph-a39772b0/"><img src="{{site.url}}css/icons/linkedin.jpg"  class="icon"> </a>
+        <a href="https://github.com/sirmurphalot"><img src="{{site.url}}css/icons/github.png" class="icon"></a>
     </div>
 </div>
 <div class="homecontent">
     <p>
     <h3>Research Interests</h3>
-    I do data-intensive systems research. My research focuses on building efficient state-management support for cloud applications. I have designed and built systems that cater to different kinds of state management needs.
-    <ul>
-        <li> <b>Rille</b> is a scalable deterministic and ordered stream processing engine built for multicores. </li>
-        <li> <b>Faster</b> is a concurrent key-value store that supports larger-than-memory data while efficiently caching hot set in memory. </li> 
-        <li><b>Strife</b> is a novel transaction processing system that is designed to mostly avoid expensive concurrency control by scheduling transactions intelligently.</li>
-    </ul></p>
+    I develop novel fiducial approaches to classical inferential problems, and illustrate the usefulness in context to current methods.  I'm expecially interested in exploring recent work on admissibility of models used to enhance, and even replace, ubiquitous sparsity assumptions. I am further actively researching how to use the EAS methodology for model selection with Gaussian Graphical Models.
+</p>
     <p>
     <h3>Recent News</h3>
 <table class="news">
