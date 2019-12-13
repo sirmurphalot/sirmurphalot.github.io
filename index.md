@@ -11,8 +11,8 @@ permalink:
         <img src="https://sirmurphalot.github.io/assets/me.jpg" width="170px" height="200px">
     </div>
     <div class="contact">
-        <i>Graduate Student</i> <br>
-        Statistics and Operations Research<br>
+        <i>Alexander C. Murph</i> <br>
+        Statistics and Operations Research PhD Student<br>
         Chapel Hill, NC<br>
         <a href="mailto:acmurph@live.unc.edu"> <img src="{{site.url}}css/icons/gmail.jpg"  class="icon"> </a>
         <a href="https://twitter.com/sirmurphalot"><img src="{{site.url}}css/icons/twitter.jpg"  class="icon"> </a>
@@ -39,6 +39,6 @@ permalink:
     </p>
     <p>
     <h3>Brief Bio</h3>
-    Hey there.
+    I'm a born-and-raised Pittsburgh-er who traveled down south to pursue my dream of being a Statistics professor.  When I'm not thinking about math and coding, I'm singing, dancing, and singly loudly in the shower.
     </p>
 </div>
