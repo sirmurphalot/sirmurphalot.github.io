@@ -1,17 +1,23 @@
 ---
 layout: default
-title: Guna Prasaad | Publications
+title: Alexander Murph | Publications
 ---
 <div class="publications">
 <h3>Preprint/Under Submission</h3>
 <ul>
   <li>
-    Handling Highly Contended OLTP Workloads using Fast Dynamic Partitioning<br>
-    Guna Prasaad, Alvin Cheung, Dan Suciu<br>
+    Comparing Finite Sequences of Discrete States with Non-Uniform Time Intervals<br>
+    A. Murph, A. Flynt, and B. K. King<br>
+    <i>On Request</i> 
+  </li>
+      <li>
+    Mr. Hulot’s Invisible Gorilla: Jacques Tati and Inattentional Blindness<br>
+    E. Faden, A. Mitchell, A. Murph, and N. Ryan<br>
     <i>On Request</i> 
   </li>
   </ul>
 <br>
+<!--
 <h3>Peer-reviewed Conferences</h3>
 <ul>
   <li>
@@ -65,4 +71,5 @@ title: Guna Prasaad | Publications
   <i>USPTO Appl. No. 14/566,181, filed on 10 Dec 2014</i>
   </li>
 </ul>
+-->
 </div>
