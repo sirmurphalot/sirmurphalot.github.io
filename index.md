@@ -8,7 +8,7 @@ permalink:
 ---
 <div class="banner">
     <div class="photo">
-        <img src="{{site.url}}assets/me.jpg" width="140px" height="140px">
+        <img src="https://sirmurphalot.github.io/assets/me.jpg" width="140px" height="140px">
     </div>
     <div class="contact">
         <i>Graduate Student</i> <br>
