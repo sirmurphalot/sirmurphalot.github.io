@@ -6,6 +6,7 @@ layout: default
 title: Alexander Murph
 permalink: 
 ---
+---?image={{site.url}}background.png
 <div class="banner">
     <div class="photo">
         <img src="https://sirmurphalot.github.io/assets/me.jpg" width="170px" height="200px">
