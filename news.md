@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Guna Prasaad | News
+title: Alexander Murph | News
 ---
 <h3>News</h3>
 <table class="news">

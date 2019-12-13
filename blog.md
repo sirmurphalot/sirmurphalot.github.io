@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Guna Prasaad | Blog
+title: Alexander Murph | Blog
 ---
 <h3>Newest</h3>
 <p>Most recent blog posts.</p>
