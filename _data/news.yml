@@ -1,0 +1,65 @@
+- date: 2019-11-25
+  description: Our [work](https://scholar.google.com/citations?user=nPuXokoAAAAJ&hl=en) on approximate relational schemas was accepted at SIGMOD 2020!
+
+- date: 2019-10-07
+  description: Our paper on [CPR](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/cpr-sigmod19.pdf) has been selected as one of the Best of SIGMOD 2019 and is invited to ACM TODS! 
+
+- date: 2019-09-20
+  description: Wrapped up my internship at Facebook. A very different experience from Google, loved it equally! 
+
+- date: 2019-09-11
+  description: Had coffee with [Alon](https://homes.cs.washington.edu/~alon/) today! :D  
+  
+- date: 2019-08-26
+  description: Pesented our [work](https://arxiv.org/pdf/1803.11328.pdf) on deterministic stream processing at VLDB 2019 in Los Angeles. Slides can be found [here](https://gunaprsd.org/assets/birte-2019.pdf). 
+  
+- date: 2019-07-09
+  description: Our [paper](https://arxiv.org/pdf/1803.11328.pdf) on deterministic stream processing on multicore machines was accepted at [BIRTE](https://birte-conf.github.io/birte2019/index.html) 2019! 
+  
+- date: 2019-07-08
+  description: Started my internship at Facebook with the [LogDevice](https://code.fb.com/core-data/logdevice-a-distributed-data-store-for-logs/) team.
+  
+- date: 2019-06-28
+  description: Wrapped up my internship at Google. Loved the experience! Learned a ton!
+
+- date: 2019-06-11
+  description: Had an one-on-one with the super awesome [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist))! :D
+
+- date: 2019-03-25
+  description: Started my internship at Google with the [Slicer](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/adya) team! 
+
+- date: 2018-11-26
+  description: Our [paper](https://dl.acm.org/citation.cfm?id=3300090) _Concurrent Prefix Recovery - Performing CPR on a Database_ was accepted at SIGMOD 2019!
+  
+- date: 2018-08-17
+  description: Passed my qualifying examination based on research on the Strife protocol. Slides can be found [here](https://gunaprsd.org/assets/STRIFE-quals.pptx). 
+  
+- date: 2018-05-03
+  description: A demo [paper](http://www.vldb.org/pvldb/vol11/p1930-chandramouli.pdf) on FASTER was accepted at VLDB 2018.
+  
+- date: 2018-01-16
+  description: Lectured on cyrpto-currencies and mechanics of blockchain at the seminar. Slides can be found [here](https://drive.google.com/file/d/1-1ZzOnhRJCxkgzcAORqyH55HiIdB_jFc/view?usp=sharing).
+  
+- date: 2018-01-04
+  description: Kick-started the [seminar](http://db.cs.washington.edu/seminars/cse590q/18wi/index.html) on Blockchains and Databases that I and Shumo Chu are organizing. 
+
+- date: 2017-12-04
+  description: Delivered a [presentation](https://docs.google.com/presentation/d/1BGFPxbQ7LGjo1M74uEi8Qpy0FWvXg3N9ZUQhg8mbusI/edit?usp=sharing) with Laurel on "Database meets Deep Learning" in the database seminar. 
+  
+- date: 2017-09-08
+  description: Completed my internship at MSR successfully. End of a productive summer!
+  
+- date: 2017-06-09
+  description: Started my internship at Microsoft Research with Badrish Chandramouli.
+  
+- date: 2017-01-30
+  description: Myself and Brandon talked about the early write-visibility [paper](http://www.vldb.org/pvldb/vol10/p613-faleiro.pdf) from Yale in DB seminar today.
+  
+- date: 2018-03-05
+  description: Our [paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/faster-sigmod18.pdf) _FASTER - A Concurrent Key-Value Store with In-Place Updates_ was accepted at SIGMOD 2018.
+
+- date: 2016-11-21
+  description: I talked about the wonderful FAQ paper in the database seminar today. Slides can be found [here](https://gunaprsd.org/assets/faq-seminar.pdf). 
+  
+- date: 2016-09-15
+  description: Got back to school for a Ph.D. in Computer Science at the University of Washington!
