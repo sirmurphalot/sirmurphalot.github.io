@@ -16,7 +16,7 @@ permalink: research
   
   If you're interested, check out these papers:
   <span><a href="https://arxiv.org/abs/1906.04812">[arXiv]</a></span>
-  <span><a href="https://projecteuclid.org/euclid.aos/1550026855">[arXiv]</a></span>
+  <span><a href="https://projecteuclid.org/euclid.aos/1550026855">[AOS]</a></span>
 </li>
 <br><hr><br>
 </ul>
