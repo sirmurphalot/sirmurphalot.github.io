@@ -71,8 +71,11 @@ body {
     word-spacing: 0em;
     min-height: 100%;
 }
+---
+---
+
 header {
-  background-image: url('{{ site.baseurl }}bakcground.png');
+  background-image: url('{{ site.baseurl }}/img/bicycle.jpg');
 }
 
 /*****************************************************************************/

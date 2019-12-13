@@ -38,6 +38,12 @@ table {
 @media screen and (max-device-width: 480px){
   body { -webkit-text-size-adjust: 100%; }
 }
+---
+---
+
+header {
+  background-image: url('{{ site.baseurl }}/img/bicycle.jpg');
+}
 
 /*****************************************************************************/
 /*
