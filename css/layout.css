@@ -65,7 +65,7 @@ html { height: fit-content; }
 
 body {
     font-family: var(--default-font-family);
-    background-image: 'background.png';
+    background-image: url('background.png');
     color:var(--default-font-color);
     font-size: var(--default-font-size);
     word-spacing: 0em;
@@ -75,7 +75,7 @@ body {
 ---
 
 header {
-  background-image: 'background.png';
+  background-image: url('background.png');
 }
 
 /*****************************************************************************/

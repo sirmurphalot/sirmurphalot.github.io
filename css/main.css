@@ -41,10 +41,10 @@ table {
 ---
 ---
 body {
-  background-image: 'background.png';
+  background-image: url('background.png');
 }
 header {
-  background-image: 'background.png';
+  background-image: url('background.png');
 }
 
 /*****************************************************************************/
