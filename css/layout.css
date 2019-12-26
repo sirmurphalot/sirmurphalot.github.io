@@ -66,8 +66,6 @@ html { height: fit-content; }
 body {
     font-family: var(--default-font-family);
     background-image: url('background.png');
-    background-size: 100% auto;
-  	background-repeat: repeat-y;
     color:var(--default-font-color);
     font-size: var(--default-font-size);
     word-spacing: 0em;
@@ -78,8 +76,6 @@ body {
 
 header {
   background-image: url('background.png');
-  background-size: 100% auto;
-  background-repeat: repeat-y;
 }
 
 /*****************************************************************************/
@@ -91,6 +87,17 @@ header {
     /* dimensions */
     max-width: 950px;
     margin: auto;
+}
+
+.bgSizeCover {
+  background-image: url('background.png');
+  background-size: cover;
+  width: 160px;
+  height: 160px;
+  border: 2px solid;
+  color: pink;
+  resize: both;
+  overflow: scroll;
 }
 
 /* Site */

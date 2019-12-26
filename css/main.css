@@ -42,13 +42,9 @@ table {
 ---
 body {
   background-image: url('background.png');
-  background-size: 100% auto;
-  background-repeat: repeat-y;
 }
 header {
   background-image: url('background.png');
-  background-size: 100% auto;
-  background-repeat: repeat-y;
 }
 
 /*****************************************************************************/
@@ -59,6 +55,17 @@ header {
 .news {
   border:0;
   table-layout:auto;
+}
+
+.bgSizeCover {
+  background-image: url('background.png');
+  background-size: cover;
+  width: 160px;
+  height: 160px;
+  border: 2px solid;
+  color: pink;
+  resize: both;
+  overflow: scroll;
 }
 
 .date {
