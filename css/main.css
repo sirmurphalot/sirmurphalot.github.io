@@ -40,9 +40,11 @@ table {
 }
 ---
 ---
-
+body {
+  background-image: 'background.png';
+}
 header {
-  background-image: url('{{ site.baseurl }}/img/bicycle.jpg');
+  background-image: 'background.png';
 }
 
 /*****************************************************************************/
