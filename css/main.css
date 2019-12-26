@@ -42,9 +42,11 @@ table {
 ---
 body {
   background-image: url('background.png');
+  background-size: cover;
 }
 header {
   background-image: url('background.png');
+  background-size: cover;
 }
 
 /*****************************************************************************/
