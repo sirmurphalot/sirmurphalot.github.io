@@ -6,9 +6,8 @@ layout: default
 title: Alexander Murph
 permalink: 
 ---
----?image=background.png
 <style>
-div {
+body {
   background-image: 'background.png';
 }
 </style>
