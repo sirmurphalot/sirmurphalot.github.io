@@ -42,9 +42,13 @@ table {
 ---
 body {
   background-image: url('background.png');
+  background-size: 100% auto;
+  background-repeat: repeat-y;
 }
 header {
   background-image: url('background.png');
+  background-size: 100% auto;
+  background-repeat: repeat-y;
 }
 
 /*****************************************************************************/
