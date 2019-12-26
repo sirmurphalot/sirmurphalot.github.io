@@ -6,6 +6,12 @@ layout: default
 title: Alexander Murph
 permalink: 
 ---
+---?image=background.png
+<style>
+div {
+  background-image: 'background.png';
+}
+</style>
 <div class="banner">
     <div class="photo">
         <img src="https://sirmurphalot.github.io/assets/me.jpg" width="170px" height="200px">
@@ -20,11 +26,6 @@ permalink:
         <a href="https://github.com/sirmurphalot"><img src="{{site.url}}css/icons/github.png" class="icon"></a>
     </div>
 </div>
-<style>
-div {
-  background-image: 'background.png';
-}
-</style>
 <div class="homecontent">
     <p>
     <h3>Research Interests</h3>
@@ -32,7 +33,7 @@ div {
 </p>
 <p>
     <h3>Teaching</h3>
-    This semester, I am assisting with UNC's Machine Learning class in the Statistics and Operations Research Department.  My office hours are Tuesdays from 9:30am-10:30am, and Fridays from 10:30am-11:30am in Hanes B46.
+    This semester, I am assisting with UNC's Machine Learning class in the Statistics and Operations Research Department.  My office hours are Tuesdays from 9:30am-10:30am, and Fridays from 10:30am-11:30am in Hanes B46.  While I am very responsive to emails, I prefer to answer most questions on content in person since I believe it more effective for both my time and the time of my students.
 </p>
     <p>
     <h3>Recent News</h3>
