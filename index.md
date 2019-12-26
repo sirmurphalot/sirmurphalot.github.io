@@ -20,6 +20,11 @@ permalink:
         <a href="https://github.com/sirmurphalot"><img src="{{site.url}}css/icons/github.png" class="icon"></a>
     </div>
 </div>
+<style>
+div {
+  background-image: 'background.png';
+}
+</style>
 <div class="homecontent">
     <p>
     <h3>Research Interests</h3>
