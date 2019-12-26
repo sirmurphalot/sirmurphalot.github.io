@@ -25,6 +25,10 @@ permalink:
     <h3>Research Interests</h3>
     I develop novel fiducial approaches to classical inferential problems, and illustrate the usefulness in context to current methods.  I'm expecially interested in exploring recent work on admissibility of models used to enhance, and even replace, ubiquitous sparsity assumptions. I am further actively researching how to use the EAS methodology for model selection with Gaussian Graphical Models.
 </p>
+<p>
+    <h3>Teaching</h3>
+    This semester, I am assisting with UNC's Machine Learning class in the Statistics and Operations Research Department.  My office hours are Tuesdays from 9:30am-10:30am, and Fridays from 10:30am-11:30am in Hanes B46.
+</p>
     <p>
     <h3>Recent News</h3>
 <table class="news">
@@ -39,6 +43,6 @@ permalink:
     </p>
     <p>
     <h3>Brief Bio</h3>
-    I'm a born-and-raised Pittsburgh-er who traveled down south to pursue my dream of being a Statistics professor.  When I'm not thinking about math and coding, I'm singing, dancing, and singly loudly in the shower.
+    I'm a born-and-raised Pittsburgh-er who traveled down south to pursue my dream of being a Statistics professor.  When I'm not thinking about math and coding, I'm swimming, dancing, and singing loudly in the shower.
     </p>
 </div>
