@@ -6,7 +6,6 @@ title: Alexander Murph | teaching
 <h3>STOR 565: Machine Learning, Spring 2020</h3><br>
     The following are the computing assignments (CAs) used for the course I am teaching with Dr. Andrew Nobel during Spring 2020.  These assignments are written by myself, with the occasional (shameless) stealing of exercises from my collegues <a href="https://www.kelly-bodwin.com/">Kelly Bodwin</a>,  <a href="https://idc9.github.io/">Ian Carmichael</a>, and <a href="http://jdwilson-statistics.com/">James Wilson</a>.<br>
     <br>
-    <br>
     <strong>Computer Assignments:</strong>
 <ul>
     <li>
