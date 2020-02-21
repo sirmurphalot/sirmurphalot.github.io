@@ -3,17 +3,28 @@ layout: default
 title: Alexander Murph | teaching
 ---
 <div class="teaching">
-<h3>Preprint/Under Submission</h3>
+<h3>STOR 565: Machine Learning, Spring 2020</h3>
 <ul>
-  <li>
-    Comparing Finite Sequences of Discrete States with Non-Uniform Time Intervals<br>
-    A. Murph, A. Flynt, and B. K. King<br>
-    <i>On Request</i> 
+    <li>
+    [Computer Assignment 00](subpro/CA00.zip)
   </li>
-      <li>
-    Mr. Hulot’s Invisible Gorilla: Jacques Tati and Inattentional Blindness<br>
-    E. Faden, A. Mitchell, A. Murph, and N. Ryan<br>
-    <i>On Request</i> 
+  <li>
+    [Computer Assignment 01](subpro/CA01.zip)
+  </li>
+  <li>
+    [Computer Assignment 02](subpro/CA02.zip)
+  </li>
+    <li>
+    [Computer Assignment 03](subpro/CA03.zip)
+  </li>
+    <li>
+    [Computer Assignment 04](subpro/CA04.zip)
+  </li>
+    <li>
+    [Computer Assignment 05](subpro/CA05.zip)
+  </li>
+    <li>
+    [Computer Assignment 06](subpro/CA06.zip)
   </li>
   </ul>
 <br>
