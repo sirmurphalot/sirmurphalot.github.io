@@ -6,25 +6,25 @@ title: Alexander Murph | teaching
 <h3>STOR 565: Machine Learning, Spring 2020</h3>
 <ul>
     <li>
-    [Computer Assignment 00](subpro/CA00.zip)
+    [Computer Assignment 00](_assignments/CA00.zip)
   </li>
   <li>
-    [Computer Assignment 01](subpro/CA01.zip)
+    [Computer Assignment 01](_assignments/CA01.zip)
   </li>
   <li>
-    [Computer Assignment 02](subpro/CA02.zip)
+    [Computer Assignment 02](_assignments/CA02.zip)
   </li>
     <li>
-    [Computer Assignment 03](subpro/CA03.zip)
+    [Computer Assignment 03](_assignments/CA03.zip)
   </li>
     <li>
-    [Computer Assignment 04](subpro/CA04.zip)
+    [Computer Assignment 04](_assignments/CA04.zip)
   </li>
     <li>
-    [Computer Assignment 05](subpro/CA05.zip)
+    [Computer Assignment 05](_assignments/CA05.zip)
   </li>
     <li>
-    [Computer Assignment 06](subpro/CA06.zip)
+    [Computer Assignment 06](_assignments/CA06.zip)
   </li>
   </ul>
 <br>
