@@ -6,7 +6,7 @@ title: Alexander Murph | teaching
 <h3>STOR 565: Machine Learning, Spring 2020</h3>
 <ul>
     <li>
-    <a href="_assignments/CA00.zip" download="_assignments/CA00.zip">Computer Assignment 00</a>
+    <a href="../_assignments/CA00.zip" download="CA00.zip">Computer Assignment 00</a>
   </li>
   <li>
     [Computer Assignment 01](_assignments/CA01.zip)
