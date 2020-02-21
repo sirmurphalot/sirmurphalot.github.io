@@ -6,26 +6,25 @@ title: Alexander Murph | teaching
 <h3>STOR 565: Machine Learning, Spring 2020</h3>
 <ul>
     <li>
-    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA00.zip">Download FILE UPDATED 3</a>
-        <a class="extra" href="{{site.url}}_assignments/CA00.zip"> CA download!!! <a/>
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA00.zip">Computer Assignment 00</a>
   </li>
   <li>
-    [Computer Assignment 01](_assignments/CA01.zip)
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA01.zip">Computer Assignment 01</a>
   </li>
   <li>
-    [Computer Assignment 02](_assignments/CA02.zip)
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA02.zip">Computer Assignment 02</a>
   </li>
     <li>
-    [Computer Assignment 03](_assignments/CA03.zip)
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA03.zip">Computer Assignment 03</a>
   </li>
     <li>
-    [Computer Assignment 04](_assignments/CA04.zip)
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA04.zip">Computer Assignment 04</a>
   </li>
     <li>
-    [Computer Assignment 05](_assignments/CA05.zip)
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA05.zip">Computer Assignment 05</a>
   </li>
     <li>
-    [Computer Assignment 06](_assignments/CA06.zip)
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA06.zip">Computer Assignment 06</a>
   </li>
   </ul>
 <br>
