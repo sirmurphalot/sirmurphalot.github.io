@@ -6,7 +6,7 @@ title: Alexander Murph | teaching
 <h3>STOR 565: Machine Learning, Spring 2020</h3>
 <ul>
     <li>
-    <a id="raw-url" href="https://github.com/sirmurphalot/sirmurphalot.github.io/tree/master/_assignments/CA00.zip">Download FILE UPDATED</a>
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/tree/master/_assignments/CA00.zip">Download FILE UPDATED</a>
   </li>
   <li>
     [Computer Assignment 01](_assignments/CA01.zip)
