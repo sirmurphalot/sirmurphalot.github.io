@@ -7,7 +7,6 @@ title: Alexander Murph | teaching
 <ul>
     <li>
     <a href="_assignments/CA00.zip" download="_assignments/CA00.zip">Computer Assignment 00</a>
-    [Computer Assignment 00](_assignments/CA00.zip)
   </li>
   <li>
     [Computer Assignment 01](_assignments/CA01.zip)
