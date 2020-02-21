@@ -227,6 +227,12 @@ h3 {
     padding-bottom: 10px;
 }
 
+h7 {
+    font-family: var(--sub-title-font-family);
+    font-size: var(--sub-title-font-size);
+    padding-bottom: 10px;
+}
+
 .icon {
     height: 24px;
     width: 24px;
