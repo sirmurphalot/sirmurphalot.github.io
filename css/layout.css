@@ -137,7 +137,7 @@ header {
 /* Navbar */
 .navbar {
     font-family: var(--navbar-font-family);
-    font-size: 20px; 
+    font-size: 16px; 
     background-color: var(--navbar-default-bg-color);
     color: var(--navbar-default-font-color);
     width: 100%;
