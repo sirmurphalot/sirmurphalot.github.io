@@ -21,6 +21,7 @@ permalink:
     </div>
 </div>
 <div class="homecontent">
+    <br>
     <p>
     <h3>Research Interests</h3>
     I develop novel fiducial approaches to classical inferential problems and illustrate the usefulness in context to current methods.  I'm especially interested in exploring recent work on admissibility of models used to enhance, and even replace, ubiquitous sparsity assumptions. I am further actively researching how to use the EAS methodology for model selection with Gaussian Graphical Models.
