@@ -29,6 +29,9 @@ title: Alexander Murph | teaching
     <li>
     <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA06.zip">Computer Assignment 06</a>
   </li>
+    <li>
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA07.zip">Computer Assignment 07</a>
+  </li>
   </ul>
 <br>
 <!--
