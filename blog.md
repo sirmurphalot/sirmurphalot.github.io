@@ -6,7 +6,7 @@ title: Alexander Murph | Blog
 <style>
 .grid-container {
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: auto auto;
   padding: 10px;
 }
 
@@ -23,15 +23,8 @@ title: Alexander Murph | Blog
 
 <h3>Personal</h3>
 <div class="grid-container">
-  <div class="grid-item">1</div>
-  <div class="grid-item">2</div>
-  <div class="grid-item">3</div>  
-  <div class="grid-item">4</div>
-  <div class="grid-item">5</div>
-  <div class="grid-item">6</div>  
-  <div class="grid-item">7</div>
-  <div class="grid-item">8</div>
-  <div class="grid-item">9</div>  
+  <div class="grid-item"><img src="https://sirmurphalot.github.io/assets/GreatBall.png"></div>
+  <div class="grid-item"><img src="https://sirmurphalot.github.io/assets/AntiguaMap.png" width="70" height="90"></div>  
 </div>
 <!--
 <div class="row"> 
