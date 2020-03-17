@@ -23,8 +23,8 @@ title: Alexander Murph | Blog
 
 <h3>Personal</h3>
 <div class="grid-container">
-  <div class="grid-item"><img src="https://sirmurphalot.github.io/assets/GreatBall.png"></div>
-  <div class="grid-item"><img src="https://sirmurphalot.github.io/assets/AntiguaMap.png" width="70" height="90"></div>  
+  <div class="grid-item"> <a href="https://www.google.com/"> <img src="https://sirmurphalot.github.io/assets/GreatBall.png"></div>
+  <div class="grid-item"> <a href="https://www.google.com/"> <img src="https://sirmurphalot.github.io/assets/AntiguaMap.png" width="90" height="110"></div>  
 </div>
 <!--
 <div class="row"> 
