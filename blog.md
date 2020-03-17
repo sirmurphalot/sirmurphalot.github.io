@@ -25,7 +25,7 @@ title: Alexander Murph | Blog
 <div class="grid-container">
   <div class="grid-item"> <a href="https://www.google.com/"> <img src="https://sirmurphalot.github.io/assets/GreatBall.png"></a></div>
   <div class="grid-item"> <a href="https://www.google.com/"> <img src="https://sirmurphalot.github.io/assets/AntiguaMap.png" width="100" height="130"></a></div>
-  <div class="grid-item"> <a href="https://www.google.com/"> <img src="https://sirmurphalot.github.io/assets/Tati.png" width="70" height="60"></a></div>  
+  <div class="grid-item"> <a href="https://www.google.com/"> <img src="https://sirmurphalot.github.io/assets/Tati.png" width="100" height="140"></a></div>  
 </div>
 <!--
 <div class="row"> 
