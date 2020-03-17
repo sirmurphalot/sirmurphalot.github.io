@@ -12,7 +12,7 @@ title: Alexander Murph | Blog
     <img src="https://sirmurphalot.github.io/assets/GreatBall.png">
   </div>
   <div class="column">
-    <img src="https://sirmurphalot.github.io/assets/AntiguaMap.png">
+    <img src="https://sirmurphalot.github.io/assets/AntiguaMap.png" width="50" height="70">
   </div> 
 </div>
 <!--
