@@ -12,7 +12,7 @@ title: Alexander Murph | Blog
 
 .grid-item {
   padding: 15px;
-  font-size: 13px;
+  font-size: 14px;
   text-align: center;
 }
 </style>
