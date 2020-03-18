@@ -20,7 +20,7 @@ title: Alexander Murph | Blog
 <h3>Professional</h3>
 <p>Since all of my papers are currently under review, the code I've written for these projects is not yet available.  When it is, I will release it here.  For now, check out my github page!! </p>
 <li> <a href="https://github.com/sirmurphalot">@sirmurphalot</a> </li>
-<br/>
+<br>
 <h3>Personal (click images) </h3>
 <div class="grid-container">
   <div class="grid-item"> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/assets/PokemonOrangeAndBlue.jar"> <img src="https://sirmurphalot.github.io/assets/GreatBall.png"></a></div>
