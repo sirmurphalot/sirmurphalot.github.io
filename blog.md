@@ -12,13 +12,13 @@ title: Alexander Murph | Blog
 
 .grid-item {
   padding: 15px;
-  font-size: 12px;
+  font-size: 13px;
   text-align: center;
 }
 </style>
 </head>
 <h3>Professional</h3>
-<p>More coming soon!  For now -- check out my GitHub page.</p>
+<p>Since all of my papers are currently under review, the code I've written for these projects is not yet available.  When it is, I will release it here.  For now, check out my github page!! </p>
 <li> <a href="https://github.com/sirmurphalot">@sirmurphalot</a> </li>
 
 <h3>Personal (click images) </h3>
