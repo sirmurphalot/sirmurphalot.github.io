@@ -38,6 +38,9 @@ title: Alexander Murph | teaching
     <li>
     <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA09.zip">Computer Assignment 09</a>
   </li>
+    <li>
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA10.zip">Computer Assignment 10</a>
+  </li>
   </ul>
 <b>Update as of March 18th, 2020:</b>
     Due to the Coronavirus pandemic, submission of all future Computer Assignments (CA08 and onward) should be done using the online portal <a href="https://www.gradescope.com/">gradescope</a>.  Stay safe!
