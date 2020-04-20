@@ -5,7 +5,7 @@ permalink: research
 ---
 
 <div><h2>Research Interests</h2><br></div>
-<p>I want to develop novel approaches to data analysis that are mathematically sound and can be applied in generality. </p>
+<p>I develop novel approaches to data analysis that are mathematically sound and can be applied in generality. </p>
 <div><br><hr><hr><br><h2>Current Projects</h2></div>
 <ul>
 <br>
