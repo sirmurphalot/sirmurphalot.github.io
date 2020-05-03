@@ -4,49 +4,53 @@ title: Alexander Murph | teaching
 ---
 <div class="teaching">
 <h3>STOR 565: Machine Learning, Spring 2020</h3><br>
-    The following are the computing assignments (CAs) used for the course I am teaching with Dr. Andrew Nobel during Spring 2020.  These assignments are written by myself, with the occasional (shameless) stealing of exercises from my collegues <a href="https://www.kelly-bodwin.com/">Kelly Bodwin</a>,  <a href="https://idc9.github.io/">Iain Carmichael</a>, and <a href="http://jdwilson-statistics.com/">James Wilson</a>.<br>
+    The following are the computing assignments (CAs) used for the course I am taught with Dr. Andrew Nobel during Spring 2020.  These assignments are written by myself, with the occasional (shameless) stealing of exercises from my collegues <a href="https://www.kelly-bodwin.com/">Kelly Bodwin</a>,  <a href="https://idc9.github.io/">Iain Carmichael</a>, and <a href="http://jdwilson-statistics.com/">James Wilson</a>.<br>
     <br>
     <strong>Computer Assignments:</strong>
 <ul>
     <li>
-    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA00.zip">Computer Assignment 00</a>
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA00.zip">Computer Assignment 00</a>.  This assignment was mostly written by <a href="https://idc9.github.io/">Iain Carmichael</a>.
   </li>
   <li>
-    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA01.zip">Computer Assignment 01</a>
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA01.zip">Computer Assignment 01</a>.
   </li>
   <li>
-    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA02.zip">Computer Assignment 02</a>
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA02.zip">Computer Assignment 02</a>.
   </li>
     <li>
-    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA03.zip">Computer Assignment 03</a>
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA03.zip">Computer Assignment 03</a>.
   </li>
     <li>
-    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA04.zip">Computer Assignment 04</a>
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA04.zip">Computer Assignment 04</a>.  Thank you to <a href="https://www.kelly-bodwin.com/">Kelly Bodwin</a> for the federalist papers question and data!
   </li>
     <li>
-    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA05.zip">Computer Assignment 05</a>
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA05.zip">Computer Assignment 05</a>.
   </li>
     <li>
-    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA06.zip">Computer Assignment 06</a>
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA06.zip">Computer Assignment 06</a>.
   </li>
     <li>
-    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA07.zip">Computer Assignment 07</a>
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA07.zip">Computer Assignment 07</a>.
   </li>
     <li>
-    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA08.zip">Computer Assignment 08</a>
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA08.zip">Computer Assignment 08</a>.
   </li>
     <li>
-    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA09.zip">Computer Assignment 09</a>
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA09.zip">Computer Assignment 09</a>.
   </li>
     <li>
-    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA10.zip">Computer Assignment 10</a>
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA10.zip">Computer Assignment 10</a>.
   </li>
     <li>
-    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA11.zip">Computer Assignment 11</a>
+    <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/CA11.zip">Computer Assignment 11</a>.
   </li>
   </ul>
 <b>Update as of March 18th, 2020:</b>
     Due to the Coronavirus pandemic, submission of all future Computer Assignments (CA08 and onward) should be done using the online portal <a href="https://www.gradescope.com/">gradescope</a>.  Stay safe!
+<br>
+<br>  
+<b>Final Project:</b>
+    Teaching while dealing with a global pandemic was a tremulous affair.  Dr. Andrew Nobel and I were very careful to balance the work load required to really learn the material with what we believed to be a reasonable work load to give to students in distress.  In the end, I wrote two projects: the <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/Final_Project_Original.pdf">full draft</a>, which would have been given under regular circumstances, and the <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/Final_Project_Updated.pdf">second draft</a>, which we believed was more manageable for our students.
 <br>
 <!--
 <h3>Peer-reviewed Conferences</h3>
