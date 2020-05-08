@@ -3,6 +3,10 @@ layout: default
 title: Alexander Murph | teaching
 ---
 <div class="teaching">
+    <h3>STOR 155: Introduction to Data Analysis, Summer Session I 2020</h3><br>
+    As they become available to my students, I will post my lecture notes and videos here.  Unfortunately, the homework assignments I have written are only available through <a href="https://www.webassign.net">WebAssign</a>.  Please reach out if you would like any advice on writeing self-grading questions with perl (to be used on <a href="https://www.webassign.net">WebAssign</a>) since this is something that I have studied extensively.
+    <br>
+    <br>
 <h3>STOR 565: Machine Learning, Spring 2020</h3><br>
     The following are the computing assignments (CAs) used for the course I am taught with Dr. Andrew Nobel during Spring 2020.  These assignments are written by myself, with the occasional (shameless) stealing of exercises from my collegues <a href="https://www.kelly-bodwin.com/">Kelly Bodwin</a>,  <a href="https://idc9.github.io/">Iain Carmichael</a>, and <a href="http://jdwilson-statistics.com/">James Wilson</a>.<br>
     <br>
