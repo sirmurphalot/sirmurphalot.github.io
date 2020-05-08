@@ -50,7 +50,7 @@ title: Alexander Murph | teaching
   </li>
   </ul>
 <b>Update as of March 18th, 2020:</b>
-    Due to the Coronavirus pandemic, submission of all future Computer Assignments (CA08 and onward) should be done using the online portal <a href="https://www.gradescope.com/">gradescope</a>.  Stay safe!
+    Due to the Coronavirus pandemic, submission of all Computer Assignments from CA08 and onward were submitted using the online portal <a href="https://www.gradescope.com/">gradescope</a>.  Furthermore, all instruction was quickly adapted to be remote.
 <br>
 <br>  
 <b>Final Project:</b>
