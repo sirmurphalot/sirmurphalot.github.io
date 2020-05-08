@@ -4,7 +4,7 @@ title: Alexander Murph | teaching
 ---
 <div class="teaching">
     <h3>STOR 155: Introduction to Data Analysis, Summer Session I 2020</h3><br>
-    As they become available to my students, I will post my lecture notes and videos here.  Unfortunately, the homework assignments I have written are only available through <a href="https://www.webassign.net">WebAssign</a>.  Please reach out if you would like any advice on writeing self-grading questions with perl (to be used on <a href="https://www.webassign.net">WebAssign</a>) since this is something that I have studied extensively.
+    As they become available to my students, I will post my lecture notes and videos here.  Unfortunately, the homework assignments I have written are only available through <a href="https://www.webassign.net">WebAssign</a>.  Please reach out if you would like any advice on writeing self-grading questions with perl (to be used on <a href="https://www.webassign.net">WebAssign</a>) since this is something that I have studied extensively.  <br>The open-access textbook I am using for this course is the second addition of <a href="https://drive.google.com/file/d/0B2lwGKhIFjYYX1pJelpHa0NMUWM/view">OpenIntro Statistics</a> that was modified for UNC by my collegue <a href="https://stat-or.unc.edu/people/faculty/robin-cunningham">Robin Cunningham</a>.  I follow things pretty closely for the first three chapters, then take things mostly in my own direction for Chapter 4 onward.
     <br>
     <br>
 <h3>STOR 565: Machine Learning, Spring 2020</h3><br>
