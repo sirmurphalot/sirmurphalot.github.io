@@ -29,7 +29,6 @@ title: Alexander Murph | teaching
     <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/Perl3.txt">Webassign Perl Code Example 3: Celebration of Diversity Question</a>
   </li>
     </ul>
-    <br>
     <u>Statement about Diversity in the Statistics Classroom:</u> While leveraging the diverse perspectives of students in the classroom is one of UNC's pillars of teaching, this can be a tricky thing to do in a quantitative class.  In an attempt to integrate the many exciting perspectives brought by my students into our learning, I incorporated each of my students' worldviews into our homework/exam questions and our in-class examples.  See <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_assignments/Perl1.txt">Webassign Perl Code Example 3</a> for a question I used on our first homework assignment to garner this information from my students.  This semester was certainly a trial run of this idea; I can say now that I am very pleased with the results!  Besides making my students feel more included, it was quite enjoyable to learn more about what is important to each of them.
     <br>
     <br>
