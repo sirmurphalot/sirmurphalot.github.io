@@ -1,0 +1,207 @@
+Copyright [2020] [Alexander Craig Murph] Licensed under the
+	Educational Community License, Version 2.0 (the "License"); you may
+	not use this file except in compliance with the License. You may
+	obtain a copy of the License at
+	
+	http://www.osedu.org/licenses/ECL-2.0
+
+	Unless required by applicable law or agreed to in writing,
+	software distributed under the License is distributed on an "AS IS"
+	BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+	or implied. See the License for the specific language governing
+	permissions and limitations under the License.
+
+
+####### QUESTION AREA
+
+<eqn>
+
+########################
+### Set General Params #
+########################
+# Country X and Y
+$placeX = "Ireland";
+$placeY = "US";
+# Note that in Perl, 0=FALSE and 1=TRUE.
+$reject = 0;
+$alpha_level = 0.05;
+$conf_level = (1 - $alpha_level)*100;
+$alpha = $alpha_level/2;
+if ($reject) {
+  $reject_answer_false = "Fail to reject the null hypothesis";
+  $reject_answer_true = "Reject the null hypothesis in favor of the mean.";
+  $lower_fail = 1;
+  $upper_fail = $alpha*1000 - 5;
+} else {
+  $reject_answer_true = "Fail to reject the null hypothesis";
+  $reject_answer_false = "Reject the null hypothesis in favor of the mean.";
+  $lower_fail = $alpha*1000 + 5;
+  $upper_fail = $alpha*1000 + 250;
+}
+
+
+# Info for X: uniformly distributed
+$lower_bound1 = 55;
+$upper_bound1 = 90; 
+$n1 = randnum(50, 75, 1);
+
+# Info for Y: uniformly distributed
+$lower_bound2 = 55;
+$upper_bound2 = 90; 
+$temp_n = $n1-1;
+$n2 = randnum(30, $temp_n, 1);
+
+$xincrement = ($upper_bound1 - $lower_bound1) / $n1;
+$yincrement = ($upper_bound2 - $lower_bound2) / $n2;
+
+$temp_n1 = $n1 - 1;
+@index1 = (0..$temp_n1);
+$temp_n2 = $n2 - 1;
+@index2 = (0..$temp_n2);
+my @includex; $includex[$n1] =' ';
+my @includey; $includey[$n2] =' ';
+my @datalist; $datalist[$n1] =' ';
+my @datalisty; $datalisty[$n2] =' ';
+
+for( $a = 0; $a < $n1; $a = $a + 1 ) {
+   if ($index1[$a] <= $n1-1) {$includex[$a]=1};
+}
+for( $a = 0; $a < $n2; $a = $a + 1 ) {
+   if ($index2[$a] <= $n2-1) {$includey[$a]=1};
+}
+
+my @x; $x[$n1] =0;
+my @y; $y[$n2] =0;
+my @d2; $d2[$n1] =0;
+my @dy2; $dy2[$n2] =0;
+
+for( $a =0; $a < $n1; $a = $a + 1 ) {
+   $x[$a] = ((randnum(0,99,1)/100)*($upper_bound1 - $lower_bound1)/$n1)+$lower_bound1+($xincrement*$a);
+   if ($includex[$a]==1) {$datalist[$a]=decform($x[$a],2)};
+   if ($includex[$a]==1) {$d2[$a]=$datalist[$a]**2};
+}
+
+for( $a =0; $a < $n2; $a = $a + 1 ) {
+   $y[$a]=((randnum(0,99,1)/100)*($upper_bound2 - $lower_bound2)/$n2)+$lower_bound2+($yincrement*$a);
+   if ($includey[$a]==1) {$datalisty[$a]=decform($y[$a],2)};
+   if ($includey[$a]==1) {$dy2[$a]=$datalisty[$a]**2};
+}
+
+
+
+# difference between means will fail a two sided p-value test 
+$xbar = sum(@datalist)/$n1;
+$ybar = sum(@datalisty)/$n2;
+$ssx = sum(@d2) - ($n1*($xbar**2));
+$ssy = sum(@dy2) - ($n2*($ybar**2));
+$sdx = sqrt($ssx/($n1-1));
+$sdy = sqrt($ssy/($n2-1));
+$sd_mean = sqrt( (($sdx**2)/$n1) + (($sdy**2)/$n2) );
+$diff_mean = $xbar - $ybar;
+
+
+$lower_extreme_prob = randnum($lower_fail,$upper_fail,1)/1000;
+$upper_tail = 1 - $lower_extreme_prob;
+$mu_full = distr("cdf=normal, mu= 0 , s= 1 , prob= $upper_tail")*$sd_mean + $diff_mean;
+$mu_full = decform($mu_full, 2) + 0.01;
+$cdf_string = qq/cdf=normal, mu= $mu_full , s= $sd_mean , x= $diff_mean/;
+$p_val = 2*(distr($cdf_string));
+
+
+for( $a =0; $a < $n2; $a = $a + 1 ) {
+   if ($includey[$a]==1) {$datalisty[$a]=$datalisty[$a] + $mu_full};
+   if ($includey[$a]==1) {$dy2[$a]=$datalisty[$a]**2};
+}
+
+$xbar = sum(@datalist)/$n1;
+$ybar = sum(@datalisty)/$n2;
+$ssx = sum(@d2) - ($n1*($xbar**2));
+$ssy = sum(@dy2) - ($n2*($ybar**2));
+$sdx = sqrt($ssx/($n1-1));
+$sdy = sqrt($ssy/($n2-1));
+$sd_mean = sqrt( (($sdx**2)/$n1) + (($sdy**2)/$n2) );
+$diff_mean = $xbar - $ybar;
+$c = -distr("cdf=normal, mu=0, s=1, prob=$alpha");
+$lower_ci = $diff_mean - $c*$sd_mean;
+$upper_ci = $diff_mean + $c*$sd_mean;
+
+$full_data = '';
+for( $a =0; $a < $n1; $a = $a + 1 ) {
+   if ($a <= $n2) {$full_data=$full_data . $datalist[$a] . ' ' . $datalisty[$a] . '<br>';};
+   if ($a > $n2) {$full_data=$full_data . $datalist[$a] . '<br>';};
+}
+
+" "
+</eqn>
+
+
+Now you wish to know if the average height of people in the <eqn $placeY> is different than the average height of people in <eqn $placeX>.  You take a simple random sample of <eqn $n1> people from <eqn $placeX> (X) and <eqn $n2> people from the <eqn $placeY> (Y). <br><br>
+a) What statistical test is appropriate for this research question? <_>
+<br><br>
+<SECTION>b) Let us choose a confidence level <latex>$\alpha = ${alpha_level}$ </latex> Choose the correct hypothesis: <_>
+<br><br>
+<SECTION>c) What conditions are required for inference? (Select all that apply)
+<br><br>
+<SECTION>d) Are these conditions all met?
+<br><br>
+<SECTION>e) What is our point estimate for difference in average height of people from these two areas? (for this entire problem, assume that you are performing inference on <latex> $\mu_X - \mu_Y$ </latex>) <_>
+<br><br>
+f) What is the sample standard deviation of the heights of people in <eqn $placeY>? <_><br>
+What is the sample standard deviation of the heights of people in <eqn $placeX>? <_>
+<br><br>
+g) What is our approximation of the standard deviation of the difference between the average height of people in <eqn $placeY> and the average height of people in <eqn $placeX> (i.e. the standard error)? <_>
+<br><br>
+h) What is the p-value for this hypothesis test? <_>
+<br><br>
+<SECTION>i) What is your conclusion? <_>
+<br><br>
+<SECTION>j) Make a <EQN $conf_level>% confidence interval for the difference in the average heights between these two areas.<br> (<_>, <_>) <br>
+<br>
+<SECTION>k) Perform the hypothesis using your confidence interval.  Is your conclusion the same as the conclusion you made with your p-value? <_>
+<br><br>
+<u>Sample Data: (X, Y) in in:</u><br>
+<eqn $full_data>
+<br>
+<br>
+
+
+
+
+
+
+########### ANSWER AREA
+
+Difference of the means for non-paired data.
+Difference of the means for paired data.
+Hypothesis test on heights of people in <EQN $placeX>.
+Hypothesis test on heights of people in <EQN $placeY>.
+<SECTION> <latex>$H_0: \mu_{X} = \mu_{Y}; H_a: \mu_{X} \neq \mu_{Y} $</latex>
+<latex>$H_0: \mu_{X} \neq \mu_{Y}; H_a: \mu_{X} = \mu_{Y} $</latex>
+<latex>$H_0: \mu_{X} > \mu_{Y}; H_a: \mu_{X} < \mu_{Y} $</latex>
+<latex>$H_0: \mu_{X} < \mu_{Y}; H_a: \mu_{X} > \mu_{Y} $</latex>
+<latex>$H_0: \mu_{X} \geq \mu_{Y}; H_a: \mu_{X} < \mu_{Y} $</latex>
+<latex>$H_0: \mu_{X} \leq \mu_{Y}; H_a: \mu_{X} > \mu_{Y} $</latex>
+<latex>$H_0: \mu_{X} > \mu_{Y}; H_a: \mu_{X} \leq \mu_{Y} $</latex>
+<latex>$H_0: \mu_{X} < \mu_{Y}; H_a: \mu_{X} \geq \mu_{Y} $</latex>
+<SECTION> Your sample of heights of people in EQN $placeY> is sufficiently large.
+Your sample of heights of people in <EQN $placeX> is sufficiently large.
+Your sample of heights of people in <EQN $placeY> is not strongly skewed.
+Your sample of heights of people in <EQN $placeX> is not strongly skewed.
+The observations in your sample of heights of people in <EQN $placeX> are independent.
+The observations in your sample of heights of people in <EQN $placeY> are independent.
+<SECTION> Yes.
+No.
+Not enough information.
+<SECTION> <EQN $diff_mean> {tab} 0.001
+<EQN $sdx> {tab} 0.001
+<EQN $sdy> {tab} 0.001
+<EQN $sd_mean> {tab} 0.001
+<EQN $p_val> {tab} 0.001
+<SECTION> <EQN $reject_answer_true>
+<EQN $reject_answer_false>
+Not enough information to make a conclusion.
+<SECTION> <EQN $lower_ci> {tab} 0.001
+<EQN $upper_ci> {tab} 0.001
+<SECTION> Yes.
+No.
+Not enough information.
