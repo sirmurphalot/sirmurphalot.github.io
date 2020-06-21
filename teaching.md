@@ -33,7 +33,7 @@ title: Alexander Murph | teaching
     <br>
     <br>
 <h3>STOR 565: Machine Learning, Spring 2020</h3><br>
-    The following are the computing assignments (CAs) used for the course I am taught with Dr. Andrew Nobel during Spring 2020.  These assignments are written by myself, with the occasional (shameless) stealing of exercises from my collegues <a href="https://www.kelly-bodwin.com/">Kelly Bodwin</a>,  <a href="https://idc9.github.io/">Iain Carmichael</a>, and <a href="http://jdwilson-statistics.com/">James Wilson</a>.<br>
+    The following are the computing assignments (CAs) used for the course I am taught with Dr. Andrew Nobel during Spring 2020.  These assignments are written by myself, with the occasional (shameless) stealing of exercises from my collegues <a href="https://www.kelly-bodwin.com/">Kelly Bodwin</a>,  <a href="https://idc9.github.io/">Iain Carmichael</a>, and <a href="http://jdwilson-statistics.com/">James Wilson</a>.  The course evaluations of our class are available <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/assests/STOR565_StudentFeedback.pdf">here</a>.  <br>
     <br>
     <strong>Computer Assignments:</strong>
 <ul>
