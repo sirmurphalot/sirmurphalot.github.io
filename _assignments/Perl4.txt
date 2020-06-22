@@ -1,0 +1,282 @@
+Copyright [2020] [Alexander Craig Murph] Licensed under the
+	Educational Community License, Version 2.0 (the "License"); you may
+	not use this file except in compliance with the License. You may
+	obtain a copy of the License at
+	
+	http://www.osedu.org/licenses/ECL-2.0
+
+	Unless required by applicable law or agreed to in writing,
+	software distributed under the License is distributed on an "AS IS"
+	BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+	or implied. See the License for the specific language governing
+	permissions and limitations under the License.
+
+
+
+############ QUESTION SECTION
+
+<eqn>
+# This will fail a hypothesis for the average difference being
+# zero for paired data.
+# Names to things
+$X_name = "Age of first car";
+$Y_name = "Age of first kiss";
+$W_name = "Shoe Size";
+$Z_name = "Heart Rate";
+$B_name = "Blood Pressure";
+$place = "Korea";
+
+$orderings = randnum(1,3,1);
+if($orderings == 1){
+   $first_var = $Y_name;
+   $second_var = $W_name;
+   $third_var = $Z_name;
+   $correct_first = "Yes. All conditions for least squares regression are met.";
+   $correct_second = "No.  These two data sets would appear to have a non-linear relationship.  This breeches the linearity assumption";
+   $correct_third = "No.  There is fanning in the residual plot.  This phenomenon, called heteroskedasticity, breeches the constant variability assumption.";
+}elsif($orderings == 2){
+   $first_var = $Z_name;
+   $second_var = $W_name;
+   $third_var = $Y_name;
+   $correct_first = "No.  There is fanning in the residual plot.  This phenomenon, called heteroskedasticity, breeches the constant variability assumption.";
+   $correct_second = "No.  These two data sets would appear to have a non-linear relationship.  This breeches the linearity assumption";
+   $correct_third = "Yes. All conditions for least squares regression are met.";
+}else{
+   $first_var = $W_name;
+   $second_var = $Y_name;
+   $third_var = $Z_name;
+   $correct_first = "No.  These two data sets would appear to have a non-linear relationship.  This breeches the linearity assumption";
+   $correct_second = "Yes. All conditions for least squares regression are met.";
+   $correct_third = "No.  There is fanning in the residual plot.  This phenomenon, called heteroskedasticity, breeches the constant variability assumption.";
+}
+
+
+$lower_bound = 17;
+$upper_bound = 40; 
+$n = randnum(40,90,1);
+$xincrement = ($upper_bound - $lower_bound) / $n;
+#$chooseslopesign = randnum(-1,1,1,0);
+$chooseslopesign = 1;
+$beta1 = $chooseslopesign*randnum(2,8,1)/4;
+if ($chooseslopesign==-1) {$whichextreme=$upper_bound};
+if ($chooseslopesign==+1) {$whichextreme=$lower_bound};
+
+$sde = randnum(1,2,1)/10;
+$beta0 = randnum(1,12,1);
+
+$temp_n = $n - 1;
+@index = (0..$temp_n);
+my @include; $include[$n] =' ';
+my @datalist; $datalist[$n] =' ';
+my @datalistw; $datalistw[$n] =' ';
+my @datalisty; $datalisty[$n] =' ';
+my @datalistz; $datalistz[$n] =' ';
+my @datalistb; $datalistb[$n] =' ';
+
+for( $a = 0; $a < $n; $a = $a + 1 ) {
+   if ($index[$a] <=$n-1) {$include[$a]=1};
+}
+
+
+my @x; $x[$n] =0;
+my @y; $y[$n] =0;
+my @w; $w[$n] =0;
+my @z; $z[$n] =0;
+my @b; $b[$n] =0;
+my @u; $u[$n] =0;
+my @d2; $d2[$n] =0;
+my @dy2; $dy2[$n] =0;
+my @diffs2; $diffs2[$n] =0;
+my @dxy; $dxy[$n] =0;
+my @diffs; $diffs[$n] =0;
+my @yfitted; $yfitted[$n] =0;
+my @res; $res[$n] =0;
+my @res2; $res2[$n] =0;
+
+$max_value = (($upper_bound - $lower_bound)/$n)+$lower_bound+($xincrement*$n);
+
+for( $a =0; $a < $n; $a = $a + 1 ) {
+   $x[$a] = ((randnum(0,99,1)/100)*($upper_bound - $lower_bound)/$n)+$lower_bound+($xincrement*$a);
+   $u[$a]=randnum(1,99,1)/100;
+   $y[$a]=$beta0+($beta1*$x[$a])+distr("cdf=normal,mu=0,s=$sde,prob=$u[$a]");
+   $my_prob = 1 - $u[$a];
+   $b[$a]=$beta0+($beta1*$x[$a])+distr("cdf=normal,mu=0,s=$sde,prob=$my_prob");
+   $w[$a]=$beta0+(($beta1*($x[$a]**2))/$max_value)+distr("cdf=normal,mu=0,s=$sde,prob=$u[$a]");
+   $newsd = ($a)*$sde;
+   $z[$a]=$beta0+($beta1*$x[$a])+distr("cdf=normal,mu=0,s=$newsd,prob=$u[$a]");
+
+   if ($include[$a]==1) {$datalist[$a]=decform($x[$a],2)};
+   if ($include[$a]==1) {$datalisty[$a]=decform($y[$a],2)};
+   if ($include[$a]==1) {$datalistw[$a]=decform($w[$a],2)};
+   if ($include[$a]==1) {$datalistz[$a]=decform($z[$a],2)};
+   if ($include[$a]==1) {$datalistb[$a]=decform($b[$a],2)};
+   if ($include[$a]==1) {$d2[$a]=$datalist[$a]**2};
+   if ($include[$a]==1) {$dy2[$a]=$datalisty[$a]**2};
+   if ($include[$a]==1) {$dxy[$a]=$datalist[$a]*$datalisty[$a]};
+   if ($include[$a]==1) {$diffs[$a]=$datalist[$a]-$datalisty[$a]};
+   if ($include[$a]==1) {$diffs2[$a]=$diffs[$a]**2};
+}
+
+$temp_n2 = $n - 2;
+$temp_n1 = $n - 1;
+$datalistb[$temp_n2] = $datalistb[$temp_n2] + 100;
+$datalistb[$temp_n1] = $datalistb[$temp_n1] + 100;
+
+# mean differences will reject null 
+$num_games = $n * 10;
+$alpha = 0.01/2;
+$xbar = sum(@diffs)/$n;
+$lower_extreme_prob = randnum(1,45,1)/10000;
+$ssx = sum(@diffs2) - ($n*($xbar**2));
+$sdx = sqrt($ssx/($n-1));
+$sd_mean = $sdx / sqrt($n);
+$lower_tail = $lower_extreme_prob;
+$mu_full = distr("cdf=normal, mu= 0 , s= 1 , prob= $lower_extreme_prob")*$sd_mean + $xbar;
+$mu_full = decform($mu_full, 2) - 0.01;
+$cdf_string = qq/cdf=normal, mu= $mu_full , s= $sd_mean , x= $xbar/;
+$p_val = 2*(1 - distr($cdf_string));
+
+for( $a =0; $a < $n; $a = $a + 1 ) {
+   if ($include[$a]==1) {$datalisty[$a]=$datalisty[$a] + $mu_full};
+   if ($include[$a]==1) {$dy2[$a]=$datalisty[$a]**2};
+   if ($include[$a]==1) {$dxy[$a]=$datalist[$a]*$datalisty[$a]};
+   if ($include[$a]==1) {$diffs[$a]=$datalist[$a]-$datalisty[$a]};
+   if ($include[$a]==1) {$diffs2[$a]=$diffs[$a]**2};
+}
+
+$diff_bar = sum(@diffs)/$n;
+$lower_extreme_prob = randnum(1,45,1)/10000;
+$ssdiff = sum(@diffs2) - ($n*($diff_bar**2));
+$sddiff = sqrt($ssdiff/($n-1));
+$sd_mean = $sddiff / sqrt($n);
+$c = -distr("cdf=normal, mu=0, s=1, prob=$alpha");
+$lower_ci = $xbar - $c*$sd_mean;
+$upper_ci = $xbar + $c*$sd_mean;
+
+
+$xbar = sum(@datalist)/$n;
+$ybar = sum(@datalisty)/$n;
+$ssx = sum(@d2) - ($n*($xbar**2));
+$ssy = sum(@dy2) - ($n*($ybar**2));
+$ssxy = sum(@dxy) - ($n*$ybar*$xbar);
+$b1 = $ssxy/$ssx;
+$b0 = $ybar - ($b1*$xbar);
+$sdx = sqrt($ssx/($n-1));
+$sdy = sqrt($ssy/($n-1));
+
+$x_observed = randnum($lower_bound, $upper_bound, 1);
+$y_hat = $x_observed*$b1 + $b0;
+$resid = randnum(1,20, 1)/10;
+$y_observed = $y_hat + $resid;
+
+$full_data = "";
+if($orderings==1){
+   for( $a =0; $a < $n; $a = $a + 1 ) {
+   $full_data = $full_data . $datalist[$a] . ' ' . $datalisty[$a] . ' ' . $datalistw[$a] . ' ' . $datalistz[$a] . ' ' . $datalistb[$a] . '<br>';
+   }
+}elsif($orderings==2){
+   for( $a =0; $a < $n; $a = $a + 1 ) {
+   $full_data = $full_data . $datalist[$a] . ' ' . $datalistz[$a] . ' ' . $datalistw[$a] . ' ' . $datalisty[$a] . ' ' . $datalistb[$a] . '<br>';
+   }
+}else{
+    for( $a =0; $a < $n; $a = $a + 1 ) {
+   $full_data = $full_data . $datalist[$a] . ' ' . $datalistw[$a] . ' ' . $datalisty[$a] . ' ' . $datalistz[$a] . ' ' . $datalistb[$a] . '<br>';
+   }
+}
+
+" "
+</eqn>
+
+Hoping to learn more about the people of <eqn $place>, you take a simple random sample of <eqn $n> people and record their <eqn $X_name> (V), <eqn $first_var> (W), <eqn $second_var> (X), <eqn $third_var> (Y), and <eqn $B_name> (Z).  I would suggest using the "ResidualPlot" excel sheet found on the Sakai page for this problem. <br><br>
+
+a) Are the conditions met for regressing <eqn $X_name> onto <eqn $first_var>? <_>
+<br><br>
+<SECTION>b) Are the conditions met for regressing <eqn $X_name> onto <eqn $second_var>? <_>
+<br><br>
+<SECTION>c) Are the conditions met for regressing <eqn $X_name> onto <eqn $third_var>? <_>
+<br><br>
+<SECTION>d) Are the conditions met for regressing <eqn $X_name> onto <eqn $B_name>? <_>
+<br><br>
+You meet a person from <eqn $place> who has a <eqn $X_name> of <eqn $x_observed>.  Since you don't know this person's <eqn $Y_name>, you decide to develop your own "best guess" at what this might be.
+<br>
+<br>
+<SECTION>e) Build a least squares regression line on these data.  Report the following regression metrics:<br>
+<latex>$b_0 = $ </latex> <_><br>
+<latex>$b_1 = $ </latex> <_><br>
+<latex>$R^2 = $ </latex> <_>
+<br>
+<br>
+f) What is your "best guess" at this person's <eqn $Y_name>? <_>
+<br>
+<br>
+g) Suppose you discover later that this person's <eqn $Y_name> is actually <eqn $y_observed>.  What is your residual for this estimate? <_>
+<br>
+<br>
+
+You are interested in knowing if there is any difference between the average <eqn $X_name> and <eqn $Y_name> of people in <eqn $place>.<br><br>
+
+<SECTION>h) What statistical test is appropriate for this research question? <_>
+<br><br>
+<SECTION>i) Let us choose a confidence level <latex>$\alpha = 0.01$ </latex> Choose the correct hypothesis: <_>
+<br><br>
+<SECTION>j) What is the sample average of the differences between <eqn $X_name> and <eqn $Y_name> of people in <eqn $place> (for this entire problem, use <eqn $X_name> - <eqn $Y_name>)? <_>
+<br><br>
+k) What is the sample standard deviation of the differences between <eqn $X_name> and <eqn $Y_name> of people in <eqn $place>? <_>
+<br><br>
+l) What is our approximation of the standard deviation of the average difference between <eqn $X_name> and <eqn $Y_name> of people in <eqn $place> (i.e. the standard error)? <_>
+<br><br>
+m) What is the p-value for this hypothesis test? <_>
+<br><br>
+<SECTION>n) What is your conclusion? <_>
+<br><br>
+<u>Sample Data: (V W X Y Z):</u> <br>
+<eqn $full_data>
+<br>
+<br>
+
+
+
+############ ANSWER SECTION
+
+<EQN $correct_first>
+<EQN $correct_second>
+<EQN $correct_third>
+No. There are some significant outliers.  This is a breech of the condition that states that the residuals must be "nearly normal".
+<SECTION> <EQN $correct_second>
+<EQN $correct_first>
+<EQN $correct_third>
+No. There are some significant outliers.  This is a breech of the condition that states that the residuals must be "nearly normal".
+<SECTION> <EQN $correct_third>
+<EQN $correct_second>
+<EQN $correct_first>
+No. There are some significant outliers.  This is a breech of the condition that states that the residuals must be "nearly normal".
+<SECTION> No. There are some significant outliers.  This is a breech of the condition that states that the residuals must be "nearly normal".
+<EQN $correct_third>
+<EQN $correct_second>
+<EQN $correct_first>
+<SECTION> <EQN $b0> {tab} 0.001
+<EQN $b1> {tab} 0.001
+<EQN ($ssxy/(sqrt($ssx*$ssy)))**2> {tab} 0.001
+<EQN $y_hat> {tab} 0.003
+<EQN $resid> {tab} 0.003
+<SECTION>Difference of the means for paired data.
+Difference of the means for non-paired data.
+Hypothesis test on dog's torsos.
+Hypothesis test on dog's tail lengths.
+<SECTION> <latex>$H_0: \mu_{\text{${X_name}}} = \mu_{\text{${Y_name}}}; H_a: \mu_{\text{${X_name}}} \neq \mu_{\text{${Y_name}}} $</latex>
+<latex>$H_0: \mu_{\text{${X_name}}} \neq \mu_{\text{${Y_name}}}; H_a: \mu_{\text{${X_name}}} = \mu_{\text{${Y_name}}} $</latex>
+<latex>$H_0: \mu_{\text{${X_name}}} > \mu_{\text{${Y_name}}}; H_a: \mu_{\text{${X_name}}} < \mu_{\text{${Y_name}}} $</latex>
+<latex>$H_0: \mu_{\text{${X_name}}} < \mu_{\text{${Y_name}}}; H_a: \mu_{\text{${X_name}}} > \mu_{\text{${Y_name}}} $</latex>
+<latex>$H_0: \mu_{\text{${X_name}}} \geq \mu_{\text{${Y_name}}}; H_a: \mu_{\text{${X_name}}} < \mu_{\text{${Y_name}}} $</latex>
+<latex>$H_0: \mu_{\text{${X_name}}} \leq \mu_{\text{${Y_name}}}; H_a: \mu_{\text{${X_name}}} > \mu_{\text{${Y_name}}} $</latex>
+<latex>$H_0: \mu_{\text{${X_name}}} > \mu_{\text{${Y_name}}}; H_a: \mu_{\text{${X_name}}} \leq \mu_{\text{${Y_name}}} $</latex>
+<latex>$H_0: \mu_{\text{${X_name}}} < \mu_{\text{${Y_name}}}; H_a: \mu_{\text{${X_name}}} \geq \mu_{\text{${Y_name}}} $</latex>
+<SECTION> <EQN $diff_bar> {tab} 0.001
+<EQN $sddiff> {tab} 0.001
+<EQN $sd_mean> {tab} 0.001
+<EQN $p_val> {tab} 0.001
+<SECTION> Reject the null hypothesis in favor of the alternative.
+Fail to reject the null hypothesis.
+Not enough information to make a conclusion.
+
+
