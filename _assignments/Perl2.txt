@@ -12,4 +12,100 @@ Copyright [2020] [Alexander Craig Murph] Licensed under the
 	permissions and limitations under the License.
 
 
-Code will be available following my midterm June 2020.  (I'm using this question on said midterm).
+####### QUESTION AREA
+
+<eqn>
+sub NBcumulativeprob {
+my ($r, $p, $k) = @_;
+$total_prob = 0;
+for( $a = $r; $a <= $k; $a = $a + 1 ) {
+   $first = $a - 1;
+   $second = $r - 1;
+   $probability = combination($first,$second)*($p**$r)*((1-$p)**($a-$r));
+   $total_prob = $total_prob + $probability;
+}
+return $total_prob;
+}
+" "
+</eqn>
+
+<eqn>
+# Stuff for binomial question
+$prob = randnum(35, 80, 1)/100;
+$binom_n = randnum(8,15,1);
+$temp_n = $binom_n - 1;
+$binom_x = randnum(5,$temp_n,1);
+$bin_pdf_answer = distr("pdf=bin, n=$binom_n, p=$prob, x=$binom_x");
+$prob_comp = 1 - $prob;
+$bin_pdfcomplement_answer = distr("pdf=bin, n=$binom_n, p=$prob_comp, x=$binom_x");
+$bin_cdf_answer = 1 - distr("cdf=bin, n=$binom_n, p=$prob, x=$binom_x");
+
+# Stuff for negative binomial
+$nb_k = randnum(7, 25, 1);
+$temp_nb_k = $nb_k -2;
+$nb_r = randnum(2, $temp_nb_k, 1);
+$first = $nb_k - 1;
+$second = $nb_r - 1;
+$equal_to_k_prob = combination($first,$second)*($prob**$nb_r)*((1-$prob)**($nb_k-$nb_r));
+$more_than_k_prob = 1 - NBcumulativeprob($nb_r, $prob, $nb_k);
+
+
+
+$lambda = randnum(1,8,1);
+$pois_x = randnum(3,8,1);
+$less_than = $pois_x - 1;
+$less_than_x = distr("cdf=poi, lambda=$lambda, x=$less_than");
+$sd = sqrt($lambda);
+" "
+</eqn>
+
+Schoolyard jeers can sting and bruise, but perhaps not as much as a 5-man tackle.  It is best to turn the cheek when face-to-face with an adolescent tormentor.  Unless, of course, that villain is holding the ball on the rugby field.  In that case...full speed ahead!!  
+<br>
+<br>
+You've practiced all summer and you are ready to kick-butt this coming rugby season.  From all your summer skirmishes, you know that the probability that you win any game is <eqn $prob>.  Suppose the probability that you win a given game is independent of your victory (or lack thereof) in any other game, and that ties are not possible.
+<br>
+<br>
+a) What's the probability that, during the next <eqn $binom_n> games, you win <eqn $binom_x> of them? <_>
+<br>
+<br>
+b) What's the probability that, during the next <eqn $binom_n> games, you lose <eqn $binom_x> of them? <_>
+<br>
+<br>
+c) What's the probability that, during the next <eqn $binom_n> games, you win more than <eqn $binom_x> of them? <_>
+<br>
+<br>
+d) What's the probability that you have your <eqn $nb_r>th win on the <eqn $nb_k>th game you play? <_>
+<br>
+<br>
+e) What's the probability that you have your <eqn $nb_r>th win sometime after the <eqn $nb_k>th game you play? <_>
+<br>
+<br>
+<SECTION>f) All of the questions up until now are applications of various probability distributions we have discussed in this class.  What are the assumptions needed for <i>all</i> of these probability distributions? <_>
+<br>
+<br>
+<SECTION>g) Say the average number of trys (the means of scoring points in Rugby) your team scores in an hour is <eqn $lambda>.  What is the probability that your team scores less than <eqn $pois_x> trys in the next hour? <_><br>
+<br>
+h) What is the standard deviation of trys in the next hour? <_>
+
+
+
+####### ANSWER AREA
+
+
+<EQN $bin_pdf_answer> {tab} 0.001
+<EQN $bin_pdfcomplement_answer> {tab} 0.001
+<EQN $bin_cdf_answer> {tab} 0.001
+<EQN $equal_to_k_prob> {tab} 0.001
+<EQN $more_than_k_prob> {tab} 0.001
+<SECTION>The individual trials are independent, each trial has an equal probability of success, and each outcome is binary: only one of two possible things can happen.
+The individual trials are independent, each trial has an equal probability of success, and there are a fixed total number of trials.
+The trials must happen in a fixed unit of time, each trial has an equal probability of success, and each outcome is binary: only one of two possible things can happen.
+The individual trials are independent, the trials must happen in a fixed unit of time, and each outcome is binary: only one of two possible things can happen.
+The individual trials are independent, the trials must happen in a fixed unit of time, and there are a fixed total number of trials.
+Each trial has an equal probability of success, the trials must happen in a fixed unit of time, and there are a fixed total number of trials.
+<SECTION><EQN $less_than_x> {tab} 0.001
+<EQN $sd> {tab} 0.001
+
+
+
+
