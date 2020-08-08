@@ -28,7 +28,7 @@ permalink:
 </p>
 <p>
     <h3>Teaching</h3>
-    This summer I will be teaching STOR 155: Introduction to Data Analysis at UNC.  This course is meant to be a broad introduction to topics in Statistics and Probability.  My primary aims in teaching it are to develop data literacy in my students and empower them with the tools needed to investigate data.  My office hours this summer are every weekday from 08:00-10:00.  While I am very responsive to emails, I prefer to answer most questions on content in person since I believe it more effective for both my time and the time of my students.
+    For Fall semester 2020, I am teaching a first-year seminar course on the data science of COVID 19.  This class was developed in a relatively short time by myself and my colleagues in the STOR Department.  See my Teaching page for more details on this exciting new course offering.
 </p>
     <p>
     <h3>Recent News</h3>
