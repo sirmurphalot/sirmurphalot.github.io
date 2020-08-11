@@ -14,6 +14,7 @@ div.gallery {
   border: 1px solid #ccc;
   float: left;
   width: 180px;
+  columns: 100px 3
 }
 div.gallery:hover {
   border: 1px solid #777;
