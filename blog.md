@@ -72,10 +72,59 @@ div.desc {
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="assets/carrot.JPG">
-    <img src="assets/carrot.JPG" alt="Carrot Cake" width="400">
+  <a target="_blank" href="assets/carrot.JPEG">
+    <img src="assets/carrot.JPEG" alt="Carrot Cake" width="400">
   </a>
   <div class="desc">Carrot Cake with cream cheese icing and marzipan carrots. </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/StoutCake.JPG">
+    <img src="assets/StoutCake.JPG" alt="Stout Cake" width="400">
+  </a>
+  <div class="desc">Guiness Stout Cake: Deep chocolate layer cake. </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/SmoresCake.JPG">
+    <img src="assets/SmoresCake.JPG" alt="Smores Cake" width="400">
+  </a>
+  <div class="desc">S'mores Cake: Chocolate cake with marshmallow fluff buttercream and graham cracker crumble. </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/EspressoCake.JPG">
+    <img src="assets/EspressoCake.JPG" alt="Espresso Cake" width="400">
+  </a>
+  <div class="desc">Tiramisu Cake: Chocolate cake soaked in fresh espresso and iced with whipped cream. </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/Croquembouche.JPG">
+    <img src="assets/Croquembouche.JPG" alt="Croquembouche" width="400">
+  </a>
+  <div class="desc">Croquembouche: tower of homemade cream puffs held together by caramel. </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/BlackForest.JPG">
+    <img src="assets/BlackForest.JPG" alt="Black Forest" width="400">
+  </a>
+  <div class="desc">Black Forest Cake: Chocolate cake with a cherry compote, cherry liquor, and whipped cream icing. </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/WeddingCake.JPG">
+    <img src="assets/WeddingCake.JPG" alt="Wedding Cake" width="400">
+  </a>
+  <div class="desc">My first wedding cake!  Chocolate cake with peppermint Swiss meringue buttercream and chocolate ganache.  Congrats Meredith and Mario! </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/RaspberryChocolate.JPEG">
+    <img src="assets/RaspberryChocolate.JPEG" alt="Raspberry Chocolate" width="400">
+  </a>
+  <div class="desc">Chocolate with chocolate buttercream and chocolate ganache.  A small cake made with the scraps leftover from the wedding cake. </div>
 </div>
 
 </body>
