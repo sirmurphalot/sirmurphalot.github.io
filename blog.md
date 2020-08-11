@@ -31,6 +31,25 @@ div.desc {
   padding: 15px;
   text-align: center;
 }
+.row {
+  margin: 8px -16px;
+}
+/* Add padding BETWEEN each column */
+.row,
+.row > .column {
+  padding: 8px;
+}
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+}
+/* Clear floats after rows */ 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 </style>
 </head>
 <h3>Personal Projects and Media (click images) </h3>
@@ -48,84 +67,102 @@ div.desc {
 </div>
 <h3>Cakes</h3>
 <body>
-
+<div class="row">
+    <div class="column">
 <div class="gallery">
   <a target="_blank" href="assets/GingerbreadCake.JPG">
     <img src="assets/GingerbreadCake.JPG" alt="Gingerbread Cake" width="400">
   </a>
   <div class="desc">Gingerbread cake with spiced Italian meringue buttercream and candied cranberries. </div>
 </div>
-<br>
+    </div>
+    <div class="column">
 <div class="gallery">
   <a target="_blank" href="assets/PrincessCake.JPG">
     <img src="assets/PrincessCake.JPG" alt="Princess Cake" width="400">
   </a>
   <div class="desc">Prinsesstårta: Swedish vanilla sponge with pastry cream and homemade raspberry jam. </div>
 </div>
-<br>
+</div>
+    <div class="column">
 <div class="gallery">
   <a target="_blank" href="assets/PrincessInside.JPG">
     <img src="assets/PrincessInside.JPG" alt="Princess Inside" width="400">
   </a>
   <div class="desc">Prinsesstårta (inside). </div>
 </div>
-<br>
+    </div>
+</div>
+    
+  <div class="row">
+    <div class="column">  
 <div class="gallery">
   <a target="_blank" href="assets/carrot.png">
     <img src="assets/carrot.png" alt="Carrot Cake" width="400">
   </a>
   <div class="desc">Carrot Cake with cream cheese icing and marzipan carrots. </div>
 </div>
-<br>
+    </div>
+    <div class="column">  
 <div class="gallery">
   <a target="_blank" href="assets/StoutCake.JPG">
     <img src="assets/StoutCake.JPG" alt="Stout Cake" width="400">
   </a>
   <div class="desc">Guiness Stout Cake: Deep chocolate layer cake. </div>
 </div>
-<br>
+</div>
+    <div class="column">
 <div class="gallery">
   <a target="_blank" href="assets/SmoresCake.JPG">
     <img src="assets/SmoresCake.JPG" alt="Smores Cake" width="400">
   </a>
   <div class="desc">S'mores Cake: Chocolate cake with marshmallow fluff buttercream and graham cracker crumble. </div>
 </div>
-<br>
+</div>
+    <div class="column">
 <div class="gallery">
   <a target="_blank" href="assets/EspressoCake.JPG">
     <img src="assets/EspressoCake.JPG" alt="Espresso Cake" width="400">
   </a>
   <div class="desc">Tiramisu Cake: Chocolate cake soaked in fresh espresso and iced with whipped cream. </div>
 </div>
-<br>
+    </div>
+</div>
+
+<div class="row">
+    <div class="column">
 <div class="gallery">
   <a target="_blank" href="assets/Croquembouche.JPG">
     <img src="assets/Croquembouche.JPG" alt="Croquembouche" width="400">
   </a>
   <div class="desc">Croquembouche: tower of homemade cream puffs held together by caramel. </div>
 </div>
-<br>
+    </div>
+    <div class="column">
 <div class="gallery">
   <a target="_blank" href="assets/BlackForest.JPG">
     <img src="assets/BlackForest.JPG" alt="Black Forest" width="400">
   </a>
   <div class="desc">Black Forest Cake: Chocolate cake with a cherry compote, cherry liquor, and whipped cream icing. </div>
 </div>
-<br>
+</div>
+    <div class="column">
 <div class="gallery">
   <a target="_blank" href="assets/WeddingCake.JPG">
     <img src="assets/WeddingCake.JPG" alt="Wedding Cake" width="400">
   </a>
   <div class="desc">My first wedding cake!  Chocolate cake with peppermint Swiss meringue buttercream and chocolate ganache.  Congrats Meredith and Mario! </div>
 </div>
-<br>
+</div>
+    <div class="column">
 <div class="gallery">
   <a target="_blank" href="assets/RaspberryChocolate.png">
     <img src="assets/RaspberryChocolate.png" alt="Raspberry Chocolate" width="400">
   </a>
   <div class="desc">Chocolate with chocolate buttercream and chocolate ganache.  A small cake made with the scraps leftover from the wedding cake. </div>
 </div>
-<br>
+    </div>
+</div>
 </body>
 <!--
 <div class="row"> 
