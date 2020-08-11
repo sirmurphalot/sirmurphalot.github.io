@@ -21,7 +21,7 @@ div.gallery:hover {
   border: 1px solid #777;
 }
 div.gallery img {
-  width: 100%;
+  width: 400px;
   height: auto;
 }
 div.desc {
@@ -36,13 +36,13 @@ div.desc {
   float: left;
   width: 24.99999%;
 }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 400px) {
   .responsive {
     width: 49.99999%;
     margin: 6px 0;
   }
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 400px) {
   .responsive {
     width: 100%;
   }
