@@ -30,6 +30,7 @@ div.desc {
 }
 * {
   box-sizing: border-box;
+  width: 400px;
 }
 .responsive {
   padding: 0 6px;
