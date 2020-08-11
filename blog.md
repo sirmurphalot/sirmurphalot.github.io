@@ -15,7 +15,10 @@ title: Alexander Murph | Blog
   text-align: center;
 }
 div.gallery {
+  margin: 5px;
   border: 1px solid #ccc;
+  float: left;
+  width: 180px;
 }
 div.gallery:hover {
   border: 1px solid #777;
@@ -27,30 +30,6 @@ div.gallery img {
 div.desc {
   padding: 15px;
   text-align: center;
-}
-* {
-  box-sizing: border-box;
-}
-.responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
-}
-@media only screen and (max-width: 400px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-@media only screen and (max-width: 400px) {
-  .responsive {
-    width: 100%;
-  }
-}
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
 }
 </style>
 </head>
@@ -69,94 +48,84 @@ div.desc {
 </div>
 <h3>Cakes</h3>
 <body>
-<div class="responsive">
+
 <div class="gallery">
   <a target="_blank" href="assets/GingerbreadCake.JPG">
     <img src="assets/GingerbreadCake.JPG" alt="Gingerbread Cake" width="400">
   </a>
   <div class="desc">Gingerbread cake with spiced Italian meringue buttercream and candied cranberries. </div>
 </div>
-    </div>
-<div class="responsive">
+<br>
 <div class="gallery">
   <a target="_blank" href="assets/PrincessCake.JPG">
     <img src="assets/PrincessCake.JPG" alt="Princess Cake" width="400">
   </a>
   <div class="desc">Prinsesstårta: Swedish vanilla sponge with pastry cream and homemade raspberry jam. </div>
 </div>
-    </div>
-<div class="responsive">
+<br>
 <div class="gallery">
   <a target="_blank" href="assets/PrincessInside.JPG">
     <img src="assets/PrincessInside.JPG" alt="Princess Inside" width="400">
   </a>
   <div class="desc">Prinsesstårta (inside). </div>
 </div>
-    </div>
-<div class="responsive">
+<br>
 <div class="gallery">
   <a target="_blank" href="assets/carrot.png">
     <img src="assets/carrot.png" alt="Carrot Cake" width="400">
   </a>
   <div class="desc">Carrot Cake with cream cheese icing and marzipan carrots. </div>
 </div>
-    </div>
-<div class="responsive">
+<br>
 <div class="gallery">
   <a target="_blank" href="assets/StoutCake.JPG">
     <img src="assets/StoutCake.JPG" alt="Stout Cake" width="400">
   </a>
   <div class="desc">Guiness Stout Cake: Deep chocolate layer cake. </div>
 </div>
-    </div>
-<div class="responsive">
+<br>
 <div class="gallery">
   <a target="_blank" href="assets/SmoresCake.JPG">
     <img src="assets/SmoresCake.JPG" alt="Smores Cake" width="400">
   </a>
   <div class="desc">S'mores Cake: Chocolate cake with marshmallow fluff buttercream and graham cracker crumble. </div>
 </div>
-    </div>
-<div class="responsive">
+<br>
 <div class="gallery">
   <a target="_blank" href="assets/EspressoCake.JPG">
     <img src="assets/EspressoCake.JPG" alt="Espresso Cake" width="400">
   </a>
   <div class="desc">Tiramisu Cake: Chocolate cake soaked in fresh espresso and iced with whipped cream. </div>
 </div>
-    </div>
-<div class="responsive">
+<br>
 <div class="gallery">
   <a target="_blank" href="assets/Croquembouche.JPG">
     <img src="assets/Croquembouche.JPG" alt="Croquembouche" width="400">
   </a>
   <div class="desc">Croquembouche: tower of homemade cream puffs held together by caramel. </div>
 </div>
-    </div>
-<div class="responsive">
+<br>
 <div class="gallery">
   <a target="_blank" href="assets/BlackForest.JPG">
     <img src="assets/BlackForest.JPG" alt="Black Forest" width="400">
   </a>
   <div class="desc">Black Forest Cake: Chocolate cake with a cherry compote, cherry liquor, and whipped cream icing. </div>
 </div>
-    </div>
-<div class="responsive">
+<br>
 <div class="gallery">
   <a target="_blank" href="assets/WeddingCake.JPG">
     <img src="assets/WeddingCake.JPG" alt="Wedding Cake" width="400">
   </a>
   <div class="desc">My first wedding cake!  Chocolate cake with peppermint Swiss meringue buttercream and chocolate ganache.  Congrats Meredith and Mario! </div>
 </div>
-    </div>
-<div class="responsive">
+<br>
 <div class="gallery">
   <a target="_blank" href="assets/RaspberryChocolate.png">
     <img src="assets/RaspberryChocolate.png" alt="Raspberry Chocolate" width="400">
   </a>
   <div class="desc">Chocolate with chocolate buttercream and chocolate ganache.  A small cake made with the scraps leftover from the wedding cake. </div>
 </div>
-</div>
+<br>
 </body>
 <!--
 <div class="row"> 
