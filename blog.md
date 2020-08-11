@@ -36,28 +36,28 @@ title: Alexander Murph | Blog
 <body>
 <div class="gallery">
   <a target="_blank" href="assets/GingerbreadCake.JPG">
-    <img src="assets/GingerbreadCake.JPG" alt="Gingerbread Cake" width="600" height="400">
+    <img src="assets/GingerbreadCake.JPG" alt="Gingerbread Cake" width="400">
   </a>
   <div class="desc">Gingerbread cake with spiced Italian meringue buttercream and candied cranberries. </div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="assets/PrincessCake.JPG">
-    <img src="assets/PrincessCake.JPG" alt="Princess Cake" width="600" height="400">
+    <img src="assets/PrincessCake.JPG" alt="Princess Cake" width="400">
   </a>
   <div class="desc">Prinsesstårta: Swedish vanilla sponge with pastry cream and homemade raspberry jam. </div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="assets/PrincessInside.JPG">
-    <img src="assets/PrincessInside.JPG" alt="Princess Inside" width="600" height="400">
+    <img src="assets/PrincessInside.JPG" alt="Princess Inside" width="400">
   </a>
   <div class="desc">Prinsesstårta (inside). </div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="assets/carrot.jpg">
-    <img src="assets/carrot.jpg" alt="Mountains" width="600" height="400">
+  <a target="_blank" href="assets/carrot.JPG">
+    <img src="assets/carrot.JPG" alt="Carrot Cake" width="400">
   </a>
   <div class="desc">Carrot Cake with cream cheese icing and marzipan carrots. </div>
 </div>
