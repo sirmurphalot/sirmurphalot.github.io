@@ -9,12 +9,13 @@ title: Alexander Murph | Blog
   grid-template-columns: auto auto auto;
   padding: 10px;
 }
-div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 180px;
-  columns: 100px 3
+.grid-item {
+  padding: 15px;
+  font-size: 14px;
+  text-align: center;
+}
+    div.gallery {
+border: 1px solid #ccc;
 }
 div.gallery:hover {
   border: 1px solid #777;
@@ -27,10 +28,29 @@ div.desc {
   padding: 15px;
   text-align: center;
 }
-.grid-item {
-  padding: 15px;
-  font-size: 14px;
-  text-align: center;
+* {
+  box-sizing: border-box;
+}
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 </style>
 </head>
