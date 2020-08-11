@@ -90,19 +90,16 @@ div.desc {
   </a>
   <div class="desc">Prinsesstårta (inside). </div>
 </div>
-    </div>
-
-    
-  <div class="row">
-
 <div class="gallery">
   <a target="_blank" href="assets/carrot.png">
     <img src="assets/carrot.png" alt="Carrot Cake" width="400">
   </a>
   <div class="desc">Carrot Cake with cream cheese icing and marzipan carrots. </div>
 </div>
+    </div>
 
-
+    
+  <div class="row">
 <div class="gallery">
   <a target="_blank" href="assets/StoutCake.JPG">
     <img src="assets/StoutCake.JPG" alt="Stout Cake" width="400">
@@ -123,17 +120,16 @@ div.desc {
   </a>
   <div class="desc">Tiramisu Cake: Chocolate cake soaked in fresh espresso and iced with whipped cream. </div>
 </div>
-    </div>
-
-
-<div class="row">
-
 <div class="gallery">
   <a target="_blank" href="assets/Croquembouche.JPG">
     <img src="assets/Croquembouche.JPG" alt="Croquembouche" width="400">
   </a>
   <div class="desc">Croquembouche: tower of homemade cream puffs held together by caramel. </div>
 </div>
+    </div>
+
+
+<div class="row">
 
 <div class="gallery">
   <a target="_blank" href="assets/BlackForest.JPG">
@@ -154,6 +150,13 @@ div.desc {
     <img src="assets/RaspberryChocolate.png" alt="Raspberry Chocolate" width="400">
   </a>
   <div class="desc">Chocolate with chocolate buttercream and chocolate ganache.  A small cake made with the scraps leftover from the wedding cake. </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/Croquembouche.JPG">
+    <img src="assets/Croquembouche.JPG" alt="Croquembouche" width="400">
+  </a>
+  <div class="desc">Dutch Apple Pie.  Not a cake, I know, but still noteworthy (and my new yearly duty for friends and family). </div>
 </div>
 
 </div>
