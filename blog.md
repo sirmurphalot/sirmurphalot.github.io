@@ -153,8 +153,8 @@ div.desc {
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="assets/Croquembouche.JPG">
-    <img src="assets/Croquembouche.JPG" alt="Croquembouche" width="400">
+  <a target="_blank" href="assets/DutchApple.jpeg">
+    <img src="assets/DutchApple.jpeg" alt="Dutch Apple Pie" width="400">
   </a>
   <div class="desc">Dutch Apple Pie.  Not a cake, I know, but still noteworthy (and my new yearly duty for friends and family). </div>
 </div>
