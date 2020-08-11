@@ -54,8 +54,6 @@ div.desc {
 }
 </style>
 </head>
-<li> <a href="https://github.com/sirmurphalot">@sirmurphalot</a> </li>
-<br>
 <h3>Personal Projects and Media (click images) </h3>
 <div class="grid-container">
   <div class="grid-item"> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/assets/PokemonOrangeAndBlue.jar"> <img src="https://sirmurphalot.github.io/assets/GreatBall.png"></a></div>
