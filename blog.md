@@ -72,8 +72,8 @@ div.desc {
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="assets/carrot.JPEG">
-    <img src="assets/carrot.JPEG" alt="Carrot Cake" width="400">
+  <a target="_blank" href="assets/carrot.png">
+    <img src="assets/carrot.png" alt="Carrot Cake" width="400">
   </a>
   <div class="desc">Carrot Cake with cream cheese icing and marzipan carrots. </div>
 </div>
@@ -121,8 +121,8 @@ div.desc {
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="assets/RaspberryChocolate.JPEG">
-    <img src="assets/RaspberryChocolate.JPEG" alt="Raspberry Chocolate" width="400">
+  <a target="_blank" href="assets/RaspberryChocolate.png">
+    <img src="assets/RaspberryChocolate.png" alt="Raspberry Chocolate" width="400">
   </a>
   <div class="desc">Chocolate with chocolate buttercream and chocolate ganache.  A small cake made with the scraps leftover from the wedding cake. </div>
 </div>
