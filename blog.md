@@ -67,7 +67,7 @@ div.desc {
 </div>
 <h3>Cakes</h3>
 <br>
-The intense coursework of my first year at Chapel Hill caused a lot of steam build-up.  To relieve it, I picked up a new hobby: cake baking.  Here are some of my creations.
+My first year at Chapel Hill was pretty stressful; I found baking to be a relaxing hobby.  Here are some of my creations.
 <br>
 <body>
 <div class="row">
