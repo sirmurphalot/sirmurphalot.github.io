@@ -9,6 +9,9 @@ title: Alexander Murph | teaching
     <li>
     <a href="https://drive.google.com/drive/folders/1DCpbqkFQ7XbPVZSjGwYE00zEeu-axzhI?usp=sharing">Podcasts</a>
     </li>
+    <li>
+    <a href="https://covidconversations.unc.edu/2020/04/herd-immunity/">Additional Podcast: Dr. Paul Delamater</a>
+    </li>
     <br> <br>
     Videos of select lecturers, and further podcasts, will be posted here as they become available. 
     <br><br>
