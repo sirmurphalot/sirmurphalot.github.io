@@ -14,6 +14,9 @@ title: Alexander Murph | teaching
     </li>
     <br> <br>
     Videos of select lecturers, and further podcasts, will be posted here as they become available. 
+    <li>
+    <a href="https://www.youtube.com/playlist?list=PLZHJr0DPMAkquDAKBNKsP7aHON3LI9Kb7">Lecture Recordings</a>
+    </li>
     <br><br>
 <h3>STOR 155: Introduction to Data Analysis, Summer Session I 2020</h3><br>
     In the wake of the COVID-19 pandemic, I lost my internship at the <a href="https://www.mayoclinic.org/">Mayo Clinic</a> and in turn signed onto a teaching position for UNC's Summer Session I.  Due to health concerns related to the pandemic, all teaching was remote.  I designed my course in a way that I believed would make the difficult and sudden transition to remote learning as painless as possible for my students, while still demanding diligence and genuine mastery of the material.  <br><br>
@@ -24,7 +27,7 @@ title: Alexander Murph | teaching
 <strong>STOR 155 Materials:</strong>
 <ul>
     <li>
-    <a href="https://www.youtube.com/channel/UCCg_CkJFa3iPa50KpXdpzAA?view_as=subscriber">Lecture Videos</a>
+    <a href="https://www.youtube.com/playlist?list=PLZHJr0DPMAkqnU4XTBxmmrjPA9I1reG7O">Lecture Videos</a>
   </li>
     <li>
     <a href="https://drive.google.com/drive/folders/1nzJR6PWMwxhsXJUN6t1Z3SeYpHmYgJU_?usp=sharing">Lecture Notes</a>
