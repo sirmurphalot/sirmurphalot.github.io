@@ -161,6 +161,10 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   </a>
   <div class="desc">Dutch Apple Pie. </div>
 </div>
+</div>
+
+
+<div class="row">
 <div class="gallery">
   <a target="_blank" href="assets/appletart.JPG">
     <img src="assets/appletart.JPG" alt="Apple Tart" width="400">
