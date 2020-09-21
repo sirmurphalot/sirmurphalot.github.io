@@ -142,6 +142,13 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
 </div>
 
 <div class="gallery">
+  <a target="_blank" href="assets/BlackForest.JPG">
+    <img src="assets/BlackForest2.JPG" alt="Black Forest 2" width="400">
+  </a>
+  <div class="desc">Black Forest Cake 2: Although I felt this one looks better, it did not taste as good. </div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="assets/WeddingCake.JPG">
     <img src="assets/WeddingCake.JPG" alt="Wedding Cake" width="400">
   </a>
@@ -155,16 +162,16 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   <div class="desc">Chocolate with chocolate buttercream and chocolate ganache.  A small cake made with the scraps leftover from the wedding cake. </div>
 </div>
 
-<div class="gallery">
+</div>
+
+
+<div class="row">
+    <div class="gallery">
   <a target="_blank" href="assets/DutchApple.jpeg">
     <img src="assets/DutchApple.jpeg" alt="Dutch Apple Pie" width="400">
   </a>
   <div class="desc">Dutch Apple Pie. </div>
 </div>
-</div>
-
-
-<div class="row">
 <div class="gallery">
   <a target="_blank" href="assets/appletart.JPG">
     <img src="assets/appletart.JPG" alt="Apple Tart" width="400">
