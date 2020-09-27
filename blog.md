@@ -142,7 +142,7 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="assets/BlackForest.JPG">
+  <a target="_blank" href="assets/BlackForest2.JPG">
     <img src="assets/BlackForest2.JPG" alt="Black Forest 2" width="400">
   </a>
   <div class="desc">Black Forest Cake 2: Although I felt this one looks better, it did not taste as good. </div>
