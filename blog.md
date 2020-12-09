@@ -168,6 +168,8 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
 
 </div>
 </body>
+<br>
+<br>
 <h3>Personal Projects and Media (click images) </h3>
 <div class="grid-container">
   <div class="grid-item"> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/assets/PokemonOrangeAndBlue.jar"> <img src="https://sirmurphalot.github.io/assets/GreatBall.png"></a></div>
