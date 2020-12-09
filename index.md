@@ -28,7 +28,7 @@ permalink:
 </p>
 <p>
     <h3>Teaching</h3>
-    For Fall semester 2020, I am teaching a first-year seminar course on the data science of COVID 19.  This class was developed in a relatively short time by myself and my colleagues in the STOR Department.  See my Teaching page for more details on this exciting new course offering.
+    For Spring semester 2021, I received funding to take the semester off to focus on my research.  I hope to get back to teaching Fall 2021.
 </p>
     <p>
     <h3>Recent News</h3>

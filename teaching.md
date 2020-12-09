@@ -13,10 +13,10 @@ title: Alexander Murph | teaching
     <li>
     <a href="https://www.youtube.com/playlist?list=PLZHJr0DPMAkquDAKBNKsP7aHON3LI9Kb7">Lecture Recordings</a>
     </li>
-    <br>
     The course evaluations for my class are available <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/assets/idst290fall2020.pdf">here</a>
     <br>
-    <u>Statement about Diversity in the Statistics Classroom:</u> We celebrated diversity in our virtual classroom in two ways.  First, our guest speakers were intentionally gathered from all over the world; we heard talks from South Korea, England, and South Africa -- as well as local scholars from the US.  This international roster of speakers mirrored what was a fully international classroom; we had over 100 students hailing from 12 countries taking the class in 12 different timezones.  Second, our podcast series and subsequent podcast talks all tackled issues of diversity and identity.  We used these "breaks from data science" as a way to get the students to engage with these topics while also learning more about each other.
+    <br>
+    <u>Statement about Diversity in the Statistics Classroom:</u> We celebrated diversity in our virtual classroom in two ways.  First, our guest speakers were intentionally gathered from all over the world; we heard talks from South Korea, England, and South Africa -- as well as local scholars from the US.  This international roster of speakers mirrored what was a fully international classroom; we had over 100 students hailing from 12 countries taking the class in 12 different timezones.  Second, many of our podcasts and subsequent podcast talks tackled issues of diversity and identity.  We used these ``breaks from data science" as a way to get the students to engage with these topics while also learning more about each other.
     <br>
     <br>
 <h3>STOR 155: Introduction to Data Analysis, Summer Session I 2020</h3><br>
