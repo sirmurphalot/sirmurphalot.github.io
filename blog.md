@@ -165,6 +165,12 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   </a>
   <div class="desc">Apple tart with an apricot glaze and an almond meal crust. </div>
 </div>
+<div class="gallery">
+  <a target="_blank" href="assets/RaspberryChocolate2.jpeg">
+    <img src="assets/RaspberryChocolate2.jpeg" alt="Raspberry Chocolate 2" width="400">
+  </a>
+  <div class="desc">Another Raspberry Chocolate cake.  This one has homemade jam in the center. </div>
+</div>
 
 </div>
 </body>
