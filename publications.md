@@ -5,13 +5,12 @@ title: Alexander Murph | Publications
 <div class="publications">
 <h3>Preprint/Under Submission</h3>
 <ul>
-Graduate Papers:
+<u>Graduate Papers</u>:
   <li>
-    A Murph, J Hannig, and J P Williams (2021). Introduction to Generalized Fiducial Inference. In review. <i><a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IntroductionGFI.pdf">Preprint</a></i> <br>
-    <i>On Request</i> 
+    A Murph, J Hannig, and J P Williams (2021). Introduction to Generalized Fiducial Inference. In review. <i><a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IntroductionGFI.pdf">Preprint</a></i>
   </li>
     <br>
-Undergraduate Papers:
+<u>Undergraduate Papers</u>:
   <li>
     Comparing Finite Sequences of Discrete States with Non-Uniform Time Intervals<br>
     A. Murph, A. Flynt, and B. K. King<br>
