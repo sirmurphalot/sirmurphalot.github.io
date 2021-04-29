@@ -171,6 +171,12 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   </a>
   <div class="desc">Another Raspberry Chocolate cake.  This one has homemade jam in the center. </div>
 </div>
+<div class="gallery">
+  <a target="_blank" href="assets/hummingbird.JPG">
+    <img src="assets/hummingbird.JPG" alt="Hummingbird Cake" width="400">
+  </a>
+  <div class="desc">Hummingbird Cake. </div>
+</div>
 
 </div>
 </body>
