@@ -177,8 +177,20 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   </a>
   <div class="desc">Hummingbird Cake. </div>
 </div>
-
 </div>
+
+
+<div class="row">
+    <div class="gallery">
+  <a target="_blank" href="assets/MintChocChip.jpeg">
+    <img src="assets/MintChocChip.jpeg" alt="Mint Chocolate Chip Cake" width="400">
+  </a>
+  <div class="desc">Mint Chocolate Chip Cake. </div>
+</div>
+</div>
+
+
+
 </body>
 <br>
 <br>
