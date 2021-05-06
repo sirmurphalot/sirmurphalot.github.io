@@ -13,11 +13,10 @@ permalink: research
   
 <h3>Generalized Fiducial Inference</h3> 
   <p>As famously put by J. Savage in his 1961 paper, fiducial statistics was R.A. Fisher's <q>bold attempt to make the Bayesian omelet without breaking the Bayesian eggs.</q>  Fisher's fiducial school is precisely that.  One can define a posterior-like distribution of a target parameter (i.e. the omelet) without having to arbitrary select a prior distribution (i.e. breaking the eggs). After Fisher's death, some statisticians declared the approach to be "largely of historical importance" or, put more directly, "dead."  While a whole generation of statisticians abandoned Fisher's "biggest blunder," the approach has seen modern success with updates to Fisher's original switching principle. As Bradley Efron put it in his 1996 Fisher lecture, "maybe Fisher’s biggest blunder will become a big hit in the 21st century!" </p>
-  <p>Many of my projects involve fiducial inference in some way.  I was able to express my enthusiasm for the fiducial method in an early project during my Ph.D., which involved writing a paper on new fiducial approaches to classical inferential problems (see publications). </p><br>
+  <p>Many of my projects involve fiducial inference in some way.  I was able to express my enthusiasm for the fiducial method in an early project during my Ph.D., which involved writing a paper on new fiducial approaches to classical inferential problems (see publications). </p>
 </li>
 <br>
 <li>
-  
   <h3>Fiducial Statistics on Riemannian Manifolds</h3> 
   <p>I am broadly interested in the intersection between classical Geometry and modern Statistics.  My current project explores this intersection by developing a Generalized Fiducial Distribution (GFD) on constrained parameter spaces.  Specifically, I am interested in the case where the parameter space can be expressed as a differentiable level set.  The general form of the GFD developed by <i><a href="https://hannig.cloudapps.unc.edu/publications/HannigIyerLaiLee2016.pdf">Hannig et. al 2016</a></i> can be naturally constrained to a such space.  This "constrained GFD" inherits many desirable asymptotic qualities from the original GFD, and has shown promising results on simulated data.</p>
   </li>
