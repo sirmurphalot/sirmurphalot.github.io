@@ -18,7 +18,7 @@ permalink: research
 <br>
 <li>
   <h3>Fiducial Statistics on Riemannian Manifolds</h3> 
-  <p>I am broadly interested in the intersection between classical Geometry and modern Statistics.  My current project explores this intersection by developing a Generalized Fiducial Distribution (GFD) on constrained parameter spaces.  Specifically, I am interested in the case where the parameter space can be expressed as a differentiable level set.  The general form of the GFD developed by <i><a href="https://hannig.cloudapps.unc.edu/publications/HannigIyerLaiLee2016.pdf">Hannig et. al 2016</a></i> can be naturally constrained to a such space.  This "constrained GFD" inherits many desirable asymptotic qualities from the original GFD, and has shown promising results on simulated data.</p>
+  <p>I am broadly interested in the intersection between classical Geometry and modern Statistics.  My current project explores this intersection by developing a Generalized Fiducial Distribution (GFD) on constrained parameter spaces.  Specifically, I am interested in the case where the parameter space can be expressed as a differentiable level set.  The general form of the GFD developed by <a href="https://hannig.cloudapps.unc.edu/publications/HannigIyerLaiLee2016.pdf">Hannig et. al 2016</a> can be naturally constrained to a such space.  This "constrained GFD" inherits many desirable asymptotic qualities from the original GFD, and has shown promising results on simulated data.</p>
   </li>
 <br>
 <li>
