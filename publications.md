@@ -20,12 +20,10 @@ title: Alexander Murph | Publications
   <li>
     Comparing Finite Sequences of Discrete States with Non-Uniform Time Intervals<br>
     A. Murph, A. Flynt, and B. K. King<br>
-    <i>On Request</i> 
+    <i><a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/SAWNUTI.pdf">Accepted to Sequential Analysis.</a></i> 
   </li>
       <li>
-    Mr. Hulot’s Invisible Gorilla: Jacques Tati and Inattentional Blindness<br>
-    E. Faden, A. Mitchell, A. Murph, and N. Ryan<br>
-    <i>On Request</i> 
+    Faden, E., Mitchel, <b>A., Murph</b>, A., Myers, T., and Ryan, N. C. (2021). Mr. Hulot’s Invisible Gorilla, <i>Projections</i>, 15(2), 1-29.  
   </li>
   </ul>
 <br>
