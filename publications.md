@@ -23,7 +23,7 @@ title: Alexander Murph | Publications
     <i><a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/SAWNUTI.pdf">Accepted to Sequential Analysis.</a></i> 
   </li>
       <li>
-    Faden, E., Mitchel, <b>A., Murph</b>, A., Myers, T., and Ryan, N. C. (2021). Mr. Hulot’s Invisible Gorilla, <i>Projections</i>, 15(2), 1-29.  
+    Faden, E., Mitchel, <b>A., Murph</b>, A., Myers, T., and Ryan, N. C. (2021). Mr. Hulot’s Invisible Gorilla, <i><a id="raw-url" href="https://doi.org/10.3167/proj.2021.150201%20">Projections.</a></i>, 15(2), 1-29.  
   </li>
   </ul>
 <br>
