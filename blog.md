@@ -187,6 +187,12 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   </a>
   <div class="desc">Mint Chocolate Chip Cake. </div>
 </div>
+    <div class="gallery">
+  <a target="_blank" href="assets/smorescake2.JPG">
+    <img src="assets/smorescake2.JPG" alt="S'mores Cake Number 2" width="400">
+  </a>
+  <div class="desc">S'mores Cake, take 2. </div>
+</div>
 </div>
 
 
