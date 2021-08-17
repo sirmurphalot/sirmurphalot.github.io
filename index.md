@@ -24,11 +24,11 @@ permalink:
     <br>
     <p>
     <h3>Research Interests</h3>
-    I develop novel fiducial approaches to classical inferential problems and illustrate the usefulness in context to current methods.  I'm especially interested in exploring recent work on admissibility of models used to enhance, and even replace, ubiquitous sparsity assumptions. I am further actively researching how to use the EAS methodology for model selection with Gaussian Graphical Models.
+    I develop novel fiducial approaches to classical inferential problems and illustrate the usefulness in context to current methods.  I am broadly interested in the intersection between classical Geometry and modern Statistics, especially from the fiducial perspective.  My research often also involves Gaussian Graphical Models; under this wide umbrella, I am currently engaged in projects that are both purely theoretical, and applied.
 </p>
 <p>
     <h3>Teaching</h3>
-    For Spring semester 2021, I received funding to take the semester off to focus on my research.  I hope to get back to teaching Fall 2021.
+    It is with great enthusiasm, yet still with some melancholy, to report that I will not be teaching for the remainder of my PhD program.  However, teaching is a passion of mine, and I know that it will be in my future.
 </p>
     <p>
     <h3>Recent News</h3>
