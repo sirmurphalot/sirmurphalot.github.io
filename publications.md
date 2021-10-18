@@ -11,7 +11,7 @@ title: Alexander Murph | Publications
     <b>A. Murph</b>, J Hannig, and J P Williams (2021+). Generalized Fiducial Inference on Differentiable Manifolds. <br> <i>Early draft.</i>
   </li>
   <li>
-    <b>A. Murph</b>, J Hannig, and J P Williams (2021). Introduction to Generalized Fiducial Inference. In review. <br> <i><a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IntroductionGFI.pdf">Preprint.</a></i>
+    <b>A. Murph</b>, J Hannig, and J P Williams (2021). Introduction to Generalized Fiducial Inference. Accepted to Chapman &#38; Hall <i>Handbook on Bayesian, Frequentist, and Fiducial Inference.</i> <i><a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IntroductionGFI.pdf">Preprint.</a></i>
   </li>
     <br>
     </ul>
