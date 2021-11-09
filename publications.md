@@ -14,17 +14,17 @@ title: Alexander Murph | Publications
     <b>A. Murph</b>, J. Hannig, and J. P. Williams (2021+). Generalized Fiducial Inference on Differentiable Manifolds. <br> <i>Late draft.</i>
   </li>
   <li>
-    <b>A. Murph</b>, J. Hannig, and J. P. Williams (2021). Introduction to Generalized Fiducial Inference. Accepted to Chapman &#38; Hall <i>Handbook on Bayesian, Frequentist, and Fiducial Inference.</i> <i><a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IntroductionGFI.pdf">Preprint.</a></i> <i><a id="raw-url" href="https://github.com/sirmurphalot/IntroductionGFI">Code Repository.</a></i>
+    <b>A. Murph</b>, J. Hannig, and J. P. Williams (2021). Introduction to Generalized Fiducial Inference. Accepted to Chapman &#38; Hall <i>Handbook on Bayesian, Frequentist, and Fiducial Inference.</i> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IntroductionGFI.pdf">Preprint.</a> <a id="raw-url" href="https://github.com/sirmurphalot/IntroductionGFI">Code Repository.</a>
   </li>
     <br>
     </ul>
 <u>Undergraduate Papers</u>:
 <ul>
   <li>
-      <b>A. Murph</b>, A. Flynt, B. R. King (2021). Comparing finite sequences of discrete events with non-uniform time intervals, <i><a id="raw-url" href="https://www.tandfonline.com/toc/lsqa20/40/3">Sequential Analysis</a></i>,  40(3), 291-313.  <i><a id="raw-url" href="https://github.com/sirmurphalot/sawnuti">Code Repository.</a></i>
+      <b>A. Murph</b>, A. Flynt, B. R. King (2021). Comparing finite sequences of discrete events with non-uniform time intervals, <i><a id="raw-url" href="https://www.tandfonline.com/toc/lsqa20/40/3">Sequential Analysis</a></i>,  40(3), 291-313.  <a id="raw-url" href=" https://github.com/cran/sawnuti">Code Repository.</a> <a id="raw-url" href="https://cran.r-project.org/web/packages/sawnuti/sawnuti.pdf">CRAN Package.</a>
   </li>
       <li>
-    Faden, E., Mitchel, <b>A., Murph</b>, A., Myers, T., and Ryan, N. C. (2021). Mr. Hulot’s Invisible Gorilla, <i><a id="raw-url" href="https://doi.org/10.3167/proj.2021.150201%20">Projections</a></i>, 15(2), 1-29.  <i><a id="raw-url" href="https://github.com/sirmurphalot/VisualDisturbances">Code Repository.</a></i>
+    Faden, E., Mitchel, <b>A., Murph</b>, A., Myers, T., and Ryan, N. C. (2021). Mr. Hulot’s Invisible Gorilla, <i><a id="raw-url" href="https://doi.org/10.3167/proj.2021.150201%20">Projections</a></i>, 15(2), 1-29.  <a id="raw-url" href="https://github.com/sirmurphalot/VisualDisturbances">Code Repository.</a>
   </li>
   </ul>
 <br>
