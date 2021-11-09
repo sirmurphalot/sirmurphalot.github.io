@@ -21,7 +21,7 @@ title: Alexander Murph | Publications
 <u>Undergraduate Papers</u>:
 <ul>
   <li>
-      <b>A. Murph</b>, A. Flynt, B. R. King (2021). Comparing finite sequences of discrete events with non-uniform time intervals, <i><a id="raw-url" href="https://www.tandfonline.com/toc/lsqa20/40/3">Sequential Analysis</a></i>,  40(3), 291-313.  <a id="raw-url" href=" https://github.com/cran/sawnuti">Code Repository.</a> <a id="raw-url" href="https://cran.r-project.org/web/packages/sawnuti/sawnuti.pdf">CRAN Package.</a>
+      <b>A. Murph</b>, A. Flynt, B. R. King (2021). Comparing finite sequences of discrete events with non-uniform time intervals, <i><a id="raw-url" href="https://www.tandfonline.com/doi/full/10.1080/07474946.2021.1940491">Sequential Analysis</a></i>,  40(3), 291-313.  <a id="raw-url" href=" https://github.com/cran/sawnuti">Code Repository.</a> <a id="raw-url" href="https://cran.r-project.org/web/packages/sawnuti/sawnuti.pdf">CRAN Package.</a>
   </li>
       <li>
     Faden, E., Mitchel, <b>A., Murph</b>, A., Myers, T., and Ryan, N. C. (2021). Mr. Hulot’s Invisible Gorilla, <i><a id="raw-url" href="https://doi.org/10.3167/proj.2021.150201%20">Projections</a></i>, 15(2), 1-29.  <a id="raw-url" href="https://github.com/sirmurphalot/VisualDisturbances">Code Repository.</a>
