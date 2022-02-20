@@ -15,9 +15,9 @@ permalink:
         Statistics and Operations Research PhD Student<br>
         Chapel Hill, NC<br>
         <a href="mailto:acmurph@live.unc.edu"> <img src="{{site.url}}css/icons/gmail.jpg"  class="icon"> </a>
-        <a href="https://twitter.com/sirmurphalot"><img src="{{site.url}}css/icons/twitter.jpg"  class="icon"> </a>
         <a href="https://www.linkedin.com/in/alexander-murph-a39772b0/"><img src="{{site.url}}css/icons/linkedin.jpg"  class="icon"> </a>
         <a href="https://github.com/sirmurphalot"><img src="{{site.url}}css/icons/github.png" class="icon"></a>
+        <a href="https://www.imdb.com/name/nm7015552/"><img src="{{site.url}}css/icons/imdb.png" class="icon"></a>
     </div>
 </div>
 <div class="homecontent">
