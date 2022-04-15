@@ -27,43 +27,51 @@
 
     #myNavbar { padding: 0; }
     
-    .modal.left .modal-dialog {
-	width: 320px;
-	height: 100%;
-	-webkit-transform: translate3d(0%, 0, 0);
-	-ms-transform: translate3d(0%, 0, 0);
-	-o-transform: translate3d(0%, 0, 0);
-	transform: translate3d(0%, 0, 0);
-}
+    .mobile-container {
+      max-width: 480px;
+      margin: auto;
+      background-color: #555;
+      height: 500px;
+      color: white;
+      border-radius: 10px;
+    }
 
-.modal.left .modal-content {
-	overflow-y: auto;
-}
+    .topnav {
+      overflow: hidden;
+      background-color: #333;
+      position: relative;
+    }
 
-.modal.left.fade .modal-dialog {
-	left: -320px;
-	-webkit-transition: opacity 0.3s linear, left 0.3s ease-out;
-	-moz-transition: opacity 0.3s linear, left 0.3s ease-out;
-	-o-transition: opacity 0.3s linear, left 0.3s ease-out;
-	transition: opacity 0.3s linear, left 0.3s ease-out;
-}
+    .topnav #myLinks {
+      display: none;
+    }
 
-.modal.left.fade.show .modal-dialog {
-	left: 0;
-}
+    .topnav a {
+      color: white;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+      display: block;
+    }
 
-/* ----- MODAL STYLE ----- */
-.modal-content {
-	border-radius: 0;
-	border: none;
-}
+    .topnav a.icon {
+      background: black;
+      display: block;
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
 
-.modal-header {
-	border-bottom-color: #eeeeee;
-	background-color: #fafafa;
-}
-    
-    
+    .topnav a:hover {
+      background-color: #ddd;
+      color: black;
+    }
+
+    .active {
+      background-color: #04AA6D;
+      color: white;
+    }
+ 
     
 /*
     .navbar-collapse.collapsing .navbar-nav {
