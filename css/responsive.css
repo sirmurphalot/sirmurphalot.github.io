@@ -26,7 +26,29 @@
     }
 
     #myNavbar { padding: 0; }
+    
+    .navbar-collapse.collapsing .navbar-nav {
+        display: block;
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: -45%;
+        transition: all 0.2s ease;
+    }
+
+    .navbar-collapse.show .navbar-nav {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        flex-direction: column;
+        height: auto;
+        width: 45%;
+        transition: left 0.35s ease;
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    }
  
+/*
     .navbar li a { display: none; } 
  
     .navbar-icon {
@@ -51,6 +73,7 @@
      .navbar.responsive li {
          padding: 0em;
      }
+*/
      
      .edit-link {
          float:none;
