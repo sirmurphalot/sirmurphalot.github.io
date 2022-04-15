@@ -28,7 +28,7 @@
     }
     
     .site .content .background {
-        
+        color: white;
     }
 
     #myNavbar { padding: 10; }
@@ -62,6 +62,7 @@
       display: block;
     }
 
+/*
     .topnav a.icon {
       background: black;
       display: block;
@@ -79,6 +80,7 @@
       background-color: #04AA6D;
       color: white;
     }
+*/
  
     
 /*
@@ -131,9 +133,11 @@
      }
 */
      
+/*
      .edit-link {
          float:none;
          padding-top: 0.5em;
          display: block;
      }
+*/
  }

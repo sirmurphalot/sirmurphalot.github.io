@@ -22,6 +22,7 @@ permalink:
 </div>
 <div class="homecontent">
     <br>
+    <br>
     <p>
     <h3>Research Interests</h3>
     I develop novel fiducial approaches to classical inferential problems and illustrate the usefulness in context to current methods.  I am broadly interested in the intersection between classical Geometry and modern Statistics, especially from the fiducial perspective.  My research often also involves Gaussian Graphical Models (GGMs); under this wide umbrella, I am currently engaged in projects that are both purely theoretical and applied.  My applied work on GGMs is with the Mayo Clinic and involves detecting drift or abrupt changes to data.
