@@ -31,6 +31,7 @@
     .mobile-container {
       max-width: 480px;
       margin: 100px;
+      padding-left: 50px;
 /*      margin: auto;*/
       background-color: #555;
       height: 500px;
