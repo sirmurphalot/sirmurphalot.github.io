@@ -1,5 +1,6 @@
 @media screen and (max-width: 900px) {
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+/*    <meta name="viewport" content="width=device-width, initial-scale=1">*/
+    <body style="background-color:white;">
     .site {
         text-align: left;
     }
@@ -25,13 +26,17 @@
     .site .header .name {
         text-align: center;
     }
+    
+    .site .content .background {
+        
+    }
 
     #myNavbar { padding: 10; }
     
     .mobile-container {
-      max-width: 480px;
-      margin: 100px;
-      padding-left: 50px;
+/*      max-width: 480px;*/
+      margin: 10px;
+      padding-left: 100px;
 /*      margin: auto;*/
       background-color: #555;
       height: 500px;
