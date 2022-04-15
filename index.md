@@ -12,8 +12,8 @@ permalink:
     </div>
     <div class="contact">
         <font size="+2">Alexander C. Murph</font> <br>
-        Statistics and Operations Research PhD Student<br>
-        Chapel Hill, NC<br>
+        Statistics and Operations Research PhD Candidate<br>
+        Visiting Graduate Student at the Mayo Clinic<br>
         <a href="mailto:acmurph@live.unc.edu"> <img src="{{site.url}}css/icons/gmail.jpg"  class="icon"> </a>
         <a href="https://www.linkedin.com/in/alexander-murph-a39772b0/"><img src="{{site.url}}css/icons/linkedin.jpg"  class="icon"> </a>
         <a href="https://github.com/sirmurphalot"><img src="{{site.url}}css/icons/github.png" class="icon"></a>
@@ -24,11 +24,11 @@ permalink:
     <br>
     <p>
     <h3>Research Interests</h3>
-    I develop novel fiducial approaches to classical inferential problems and illustrate the usefulness in context to current methods.  I am broadly interested in the intersection between classical Geometry and modern Statistics, especially from the fiducial perspective.  My research often also involves Gaussian Graphical Models; under this wide umbrella, I am currently engaged in projects that are both purely theoretical, and applied.
+    I develop novel fiducial approaches to classical inferential problems and illustrate the usefulness in context to current methods.  I am broadly interested in the intersection between classical Geometry and modern Statistics, especially from the fiducial perspective.  My research often also involves Gaussian Graphical Models (GGMs); under this wide umbrella, I am currently engaged in projects that are both purely theoretical and applied.  My applied work on GGMs is with the Mayo Clinic and involves detecting drift or abrupt changes to data.
 </p>
 <p>
     <h3>Teaching</h3>
-    It is with great enthusiasm, yet still with some melancholy, to report that I will not be teaching for the remainder of my PhD program.  However, teaching is a passion of mine, and I know that it will be in my future.
+    Due to funding from the Mayo Clinic, I will not be teaching for the remainder of my PhD program.  I report this news with great enthusiasm, yet still with some melancholy.  Teaching is a passion of mine and I know that it will be in my future.
 </p>
     <p>
     <h3>Recent News</h3>
