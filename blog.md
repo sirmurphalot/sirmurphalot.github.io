@@ -6,7 +6,7 @@ title: Alexander Murph | Blog
 <style>
 .grid-container {
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: auto auto auto auto auto;
   padding: 10px;
 }
 .grid-item {
@@ -44,7 +44,7 @@ div.desc {
 /* Create four equal columns that floats next to each other */
 .column {
   float: left;
-  width: 25%;
+  width: 20%;
 }
 /* Clear floats after rows */ 
 .row:after {
