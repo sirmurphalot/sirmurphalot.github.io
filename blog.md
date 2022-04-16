@@ -199,7 +199,7 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   <a target="_blank" href="assets/blackberry_pie.JPG">
     <img src="assets/blackberry_pie.JPG" alt="Blackberry Pie" width="400">
   </a>
-  <div class="desc">Blackberry Pie with a Buttermilk Crust.  I was really proud of this one :) </div>
+  <div class="desc">Blackberry Pie with a Buttermilk Crust.  I was really proud of this one  :) </div>
 </div>
     <div class="gallery">
   <a target="_blank" href="assets/bourbon_stout.JPG">
