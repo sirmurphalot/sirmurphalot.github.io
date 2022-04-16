@@ -52,6 +52,19 @@ div.desc {
   display: table;
   clear: both;
 }
+.bgSizeCover {
+  background-image: url('background.png');
+  background-size: contain;
+/*
+  width: 160px;
+  height: 160px;
+*/
+  border: 2px solid;
+  color: white;
+  resize: horizontal;
+  overflow: scroll;
+}
+    
 </style>
 </head>
 <h3>Baking</h3>
