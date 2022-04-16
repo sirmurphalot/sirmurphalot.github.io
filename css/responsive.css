@@ -33,16 +33,6 @@
 
     #myNavbar { padding: 0; }
     
-    .mobile-container {
-/*      max-width: 480px;*/
-/*      margin: 10px;*/
-/*      padding-left: 100px;*/
-/*      margin: auto;*/
-      background-color: #555;
-/*      height: 0px;*/
-      color: white;
-      border-radius: 0px;
-    }
 
     .topnav {
       overflow: hidden;
@@ -54,13 +44,38 @@
       display: none;
     }
 
-    .topnav a {
-      color: white;
-      padding: 0px 0px;
-      text-decoration: none;
-      font-size: 17px;
-      display: block;
+    .navbar li {
+        padding: 0em 0em 0em 0em;
+        display:inline;
     }
+
+    .navbar-icon {
+        display:none;
+        color: black;
+        float:right;
+    }
+
+    .navbar li a.extra {
+        padding: 0em 0em 0em 0em;
+    }
+    
+    .container {
+        /* dimensions */
+        max-width: 950px;
+        margin: auto;
+    }
+
+    .bgSizeCover {
+      background-image: none;
+      background-size: cover;
+      width: 160px;
+      height: 160px;
+      border: 2px solid;
+      color: white;
+      resize: both;
+      overflow: scroll;
+    }
+    
 
 /*
     .topnav a.icon {
