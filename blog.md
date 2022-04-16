@@ -31,9 +31,11 @@ div.desc {
   padding: 15px;
   text-align: center;
 }
+/*
 .row {
   margin: 8px -16px;
 }
+*/
 /* Add padding BETWEEN each column */
 .row,
 .row > .column {
