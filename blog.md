@@ -115,11 +115,6 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   </a>
   <div class="desc">Croquembouche: tower of homemade cream puffs held together by caramel. </div>
 </div>
-    </div>
-
-
-<div class="row">
-
 <div class="gallery">
   <a target="_blank" href="assets/BlackForest.JPG">
     <img src="assets/BlackForest.JPG" alt="Black Forest" width="400">
@@ -133,6 +128,12 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   </a>
   <div class="desc">Black Forest Cake 2: Although I felt this one looks better, it did not taste as good. </div>
 </div>
+
+
+    </div>
+
+
+<div class="row">
 
 <div class="gallery">
   <a target="_blank" href="assets/WeddingCake.JPG">
@@ -148,10 +149,6 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   <div class="desc">Chocolate with chocolate buttercream and chocolate ganache.  A small cake made with the scraps leftover from the wedding cake. </div>
 </div>
 
-</div>
-
-
-<div class="row">
     <div class="gallery">
   <a target="_blank" href="assets/DutchApple.jpeg">
     <img src="assets/DutchApple.jpeg" alt="Dutch Apple Pie" width="400">
@@ -170,17 +167,20 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   </a>
   <div class="desc">Another Raspberry Chocolate cake.  This one has homemade jam in the center. </div>
 </div>
+
+</div>
+
+
+<div class="row">
+
 <div class="gallery">
   <a target="_blank" href="assets/hummingbird.JPG">
     <img src="assets/hummingbird.JPG" alt="Hummingbird Cake" width="400">
   </a>
   <div class="desc">Hummingbird Cake. </div>
 </div>
-</div>
 
-
-<div class="row">
-    <div class="gallery">
+<div class="gallery">
   <a target="_blank" href="assets/MintChocChip.jpeg">
     <img src="assets/MintChocChip.jpeg" alt="Mint Chocolate Chip Cake" width="400">
   </a>
@@ -192,8 +192,8 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   </a>
   <div class="desc">S'mores Cake, take 2. </div>
 </div>
-</div>
 
+</div>
 
 
 </body>
