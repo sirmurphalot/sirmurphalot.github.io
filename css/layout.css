@@ -87,15 +87,17 @@ header {
 /*****************************************************************************/
 .container {
     /* dimensions */
-    max-width: 950px;
+    max-width: 1150px;
     margin: auto;
 }
 
 .bgSizeCover {
   background-image: url('background.png');
   background-size: cover;
+/*
   width: 160px;
   height: 160px;
+*/
   border: 2px solid;
   color: white;
   resize: horizontal;
