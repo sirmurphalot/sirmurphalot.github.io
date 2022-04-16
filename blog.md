@@ -193,6 +193,21 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   <div class="desc">S'mores Cake, take 2. </div>
 </div>
 
+<div class="gallery">
+  <a target="_blank" href="assets/blackberry_pie.JPG">
+    <img src="assets/blackberry_pie.JPG" alt="Blackberry Pie" width="400">
+  </a>
+  <div class="desc">Blackberry Pie with a Buttermilk Crust.  I was really proud of this one :) </div>
+</div>
+    <div class="gallery">
+  <a target="_blank" href="assets/bourbon_stout.JPG">
+    <img src="assets/bourbon_stout.JPG" alt="Chocolate Stout" width="400">
+  </a>
+  <div class="desc">Chocolate Stout Cake with Bourbon-Vanilla Icing.  For my Uncle's Birthday (hey, Bill!) </div>
+</div>
+
+
+
 </div>
 
 
