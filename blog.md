@@ -86,16 +86,16 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   </a>
   <div class="desc">Carrot Cake with cream cheese icing and marzipan carrots. </div>
 </div>
-    </div>
-
-    
-  <div class="row">
 <div class="gallery">
   <a target="_blank" href="assets/StoutCake.JPG">
     <img src="assets/StoutCake.JPG" alt="Stout Cake" width="400">
   </a>
   <div class="desc">Guiness Stout Cake: Deep chocolate layer cake. </div>
 </div>
+    </div>
+
+    
+  <div class="row">
 
 <div class="gallery">
   <a target="_blank" href="assets/SmoresCake.JPG">
