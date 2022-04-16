@@ -53,7 +53,6 @@ div.desc {
 </style>
 </head>
 <h3>Baking</h3>
-<br>
 My first year at Chapel Hill was pretty stressful; I found baking to be a relaxing hobby.  Here are some of my creations.
 <br>
 <body>
