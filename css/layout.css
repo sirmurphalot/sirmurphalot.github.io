@@ -97,14 +97,14 @@ header {
   width: 160px;
   height: 160px;
   border: 2px solid;
-  color: pink;
-  resize: both;
+  color: white;
+  resize: horizontal;
   overflow: scroll;
 }
 
 /* Site */
 .site { 
-    padding: 0em 2em 0em 2em;
+    padding: 0em 1em 0em 1em;
     margin: auto;
     /* font display */
     text-align: justify;
@@ -120,7 +120,7 @@ header {
 /* Create two equal columns that sits next to each other */
 .column {
   flex: 50%;
-  padding: 0 4px;
+  padding: 0 2px;
 }
 
 .column img {
