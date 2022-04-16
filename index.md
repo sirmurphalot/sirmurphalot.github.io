@@ -12,8 +12,9 @@ permalink:
     </div>
     <div class="contact">
         <font size="+2">Alexander C. Murph</font> <br>
-        Statistics and Operations Research PhD Candidate<br>
+        UNC Statistics and Operations Research PhD Candidate<br>
         Visiting Graduate Student at the Mayo Clinic<br>
+        Chapel Hill, NC <br>
         <a href="mailto:acmurph@live.unc.edu"> <img src="{{site.url}}css/icons/gmail.jpg"  class="icon"> </a>
         <a href="https://www.linkedin.com/in/alexander-murph-a39772b0/"><img src="{{site.url}}css/icons/linkedin.jpg"  class="icon"> </a>
         <a href="https://github.com/sirmurphalot"><img src="{{site.url}}css/icons/github.png" class="icon"></a>
@@ -47,5 +48,5 @@ permalink:
     <h3>Brief Bio</h3>
     I'm a born-and-raised Pittsburgh-er who traveled down south to pursue my dream of being a Statistics professor.  When I'm not thinking about math and coding, I'm swimming, dancing, and singing loudly in the shower.
     </p>
-    <br> <u>Erdös-Bacon Number</u>: 5
+    <b>Erdös-Bacon Number</b>: 5
 </div>
