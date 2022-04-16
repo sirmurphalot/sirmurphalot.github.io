@@ -45,7 +45,7 @@
     }
 
     .navbar li {
-        padding: 0em 1em 0em 1em;
+        padding: 0em 0.35em 0em 0.35em;
         display:inline;
     }
 
@@ -56,7 +56,7 @@
     }
 
     .navbar li a.extra {
-        padding: 0em 1em 0em 1em;
+        padding: 0em 0.35em 0em 0.35em;
     }
     
     .container {
