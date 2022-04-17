@@ -30,6 +30,19 @@
     .site .content .background {
         color: white;
     }
+    
+    .bgSizeCover {
+      background-image: none;
+      background-size: cover;
+      width: 160px;
+      height: 160px;
+      border: 2px solid;
+      color: white;
+      resize: both;
+      overflow: scroll;
+    }
+    
+    
 
     #myNavbar { padding: 0; }
     
@@ -61,19 +74,8 @@
     
     .container {
         /* dimensions */
-        max-width: 950px;
+        max-width: 850px;
         margin: auto;
-    }
-
-    .bgSizeCover {
-      background-image: none;
-      background-size: cover;
-      width: 160px;
-      height: 160px;
-      border: 2px solid;
-      color: white;
-      resize: both;
-      overflow: scroll;
     }
     
 
