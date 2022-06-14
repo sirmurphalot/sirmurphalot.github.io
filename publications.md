@@ -8,10 +8,10 @@ title: Alexander Murph | Publications
 <u>Graduate Papers</u>:
 <ul>
     <li>
-    <b>A. Murph</b> and C. Storlie (2021+).  Bayesian Changepoint Detection for Mixed Data with Missing Values. <br> <i>Late draft.</i>
+    <b>A. Murph</b> and C. Storlie (2021+).  Bayesian Changepoint Detection for Mixed Data with Missing Values. <br> <i>Late draft.</i> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IEEE_ICHI_2022_Poster.pdf">Poster at ICHI IEEE 10.</a>
   </li>
   <li>
-    <b>A. Murph</b>, J. Hannig, and J. P. Williams (2021+). Generalized Fiducial Inference on Differentiable Manifolds. <br> <i>Late draft.</i>
+    <b>A. Murph</b>, J. Hannig, and J. P. Williams (2021+). Generalized Fiducial Inference on Differentiable Manifolds. <br> <i>Late draft.</i> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/BFF_poster_2022.pdf">Poster at BFF7.</a>
   </li>
   <li>
     <b>A. Murph</b>, J. Hannig, and J. P. Williams (2021). Introduction to Generalized Fiducial Inference. Accepted to Chapman &#38; Hall <i>Handbook on Bayesian, Frequentist, and Fiducial Inference.</i> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IntroductionGFI.pdf">Preprint.</a> <a id="raw-url" href="https://github.com/sirmurphalot/IntroductionGFI">Code Repository.</a>
