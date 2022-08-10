@@ -8,7 +8,7 @@ permalink:
 ---
 <div class="banner">
     <div class="photo">
-        <img src="https://sirmurphalot.github.io/assets/me.jpg" width="170px" height="200px">
+        <img src="https://sirmurphalot.github.io/assets/me.jpg" width="207px" height="200px">
     </div>
     <div class="contact">
         <font size="+2">Alexander C. Murph</font> <br>
