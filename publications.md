@@ -11,10 +11,10 @@ title: Alexander Murph | Publications
     <b>A. Murph</b> and C. Storlie (2022+).  Bayesian Changepoint Detection for Mixed Data with Missing Values. <i>In progress.</i> <br> <b>Links:</b>  <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IEEE_ICHI_2022_Poster.pdf">Poster at ICHI IEEE 10.</a>
   </li>
   <li>
-    <b>A. Murph</b>, J. Hannig, and J. P. Williams (2022+). Generalized Fiducial Inference on Differentiable Manifolds. <i>In progress.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2209.15473">Manuscript.</a> <a id="raw-url" href="https://github.com/sirmurphalot/GFI_onManifolds"> Code Repository.</a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/BFF_poster_2022.pdf">Poster at BFF7.</a>
+    <b>A. Murph</b>, J. Hannig, and J. P. Williams (2022+). Generalized Fiducial Inference on Differentiable Manifolds. <i>In progress.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2209.15473">Manuscript.</a> <a id="raw-url" href="https://github.com/sirmurphalot/GFI_onManifolds"> Code Repository.</a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/BFF_poster_2022.pdf">Poster at BFF7.</a> 
   </li>
   <li>
-    Y. Liu, J. Hannig, and <b>A. Murph</b> (2022+). A Differential Geometric Perspective on Generalized Fiducial Inference. <br>
+    Y. Liu, J. Hannig, and <b>A. Murph</b> (2022+). A Differential Geometric Perspective on Generalized Fiducial Inference. <i>In progress.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2210.05462">Manuscript.</a>
   </li>
   <li>
     <b>A. Murph</b>, J. Hannig, and J. P. Williams (2021). Introduction to Generalized Fiducial Inference. Accepted to Chapman &#38; Hall <i>Handbook on Bayesian, Frequentist, and Fiducial Inference.</i> <br> <b>Links:</b> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IntroductionGFI.pdf">Manuscript.</a> <a id="raw-url" href="https://github.com/sirmurphalot/IntroductionGFI">Code Repository.</a>
