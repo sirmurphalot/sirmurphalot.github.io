@@ -208,9 +208,19 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   <div class="desc">Chocolate Stout Cake with Bourbon-Vanilla Icing.  For my Uncle's Birthday (hey, Bill!) </div>
 </div>
 
-
-
 </div>
+
+<div class="row">
+<div class="gallery">
+  <a target="_blank" href="assets/MintChocChip2.jpeg">
+    <img src="assets/MintChocChip2.jpeg" alt="Mint Chocolate Chip Cake 2" width="400">
+  </a>
+  <div class="desc">Mint Chocolate Chip Cake 2. </div>
+</div>
+    
+</div>
+
+
 
 
 </body>
