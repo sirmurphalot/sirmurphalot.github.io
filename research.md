@@ -71,12 +71,12 @@ href="#Xlenkoski2011">5</a>].
 Our changepoint detection system learns a rich array of models in addition to determining changepoints. We make
 use of these models in our development of a fault detection system, which identifies and describes the causes of a
 changepoint.
-    
+    </p>   
 <ul>
 <br>
 <h3>Generalized Fiducial Inference on Differentiable Manifolds [<a 
 href="#Xmurph2022">8</a>]</h3>
-&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span 
+<!--l. 442--><p class="noindent" >&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span 
 class="cmbx-10"></span> I am broadly interested in the intersection of statistics
 and Riemannian Geometry. In this project, we introduce a novel approach to inference on parameters that take values in a
 Riemannian manifold embedded in a Euclidean space. Specifically, on a manifold, embedded in <span 
@@ -110,14 +110,17 @@ constrained space to an unconstrained Euclidean space. The proposed methodology,
 distribution (CGFD), is obtained by using mathematical tools from Riemannian geometry. A Bernstein-von Mises-type result for the
 CGFD is provided, which shows how the desirable asymptotic qualities of the unconstrained GFD are inherited by the
 CGFD.
-<!--l. 442--><p class="noindent" >&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;Similar to the Bayesian posterior, the CGFD must often be estimated using MCMC methods. This introduces the need for
+    </p>
+<!--l. 442--><p class="noindent" >&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span 
+class="cmbx-10"></span> Similar to the Bayesian posterior, the CGFD must often be estimated using MCMC methods. This introduces the need for
 sampling parameter values on a manifold. As part of this project, we extend existing methodology to sample from the CGFD,
 including manifold-variants of a random-walk Metropolis-Hastings algorithm and a Hamiltonian Monte Carlo algorithm. In the
 experiment in Figure <a 
 href="#x1-21">1<!--tex4ht:ref: fig:brain_eigen --></a>, we apply different manifold MCMC algorithms and numerical approximation methods to take
 samples from the CGFD when the mean parameters of a multivariate normal distribution are assumed to be on a
 sphere. <br>
-
+    </p>
+    
 <center>
 <img 
 src="https://sirmurphalot.github.io/assets/FourSpheres-.png" alt="PIC" width="600" 
@@ -139,16 +142,13 @@ class="cmr-9">MCMC algorithms.</span></span></div><!--tex4ht:label?: x1-21 -->
    
 <h3>Future Work</h3>
 <!--l. 442--><p class="noindent" >&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span 
-class="cmbx-10"></span>I am interested in developing the <span 
+class="cmbx-10"></span> I am interested in developing the <span 
 class="cmmi-10">&#x03F5;</span>-admissibility (EAS) methodology of [<a 
 href="#Xwilliams2019">11</a>] for model selection with GGMs,
 which will introduce a creative new means for graphical selection in GGMs as well as a novel method to predict general precision
 matrices. The EAS methodology leverages notions of redundancy to manage the size of the sample space of possible models.
 Furthermore, this problem presents an interesting application for the CGFD; the fixed zero structure of a GGM can be expressed as a
-differentiable level set. The beauty of this approach is that it realistically expects and addresses the ubiquitous issue
-                                                                                                       
-                                                                                                       
-of huge numbers of variables <span 
+differentiable level set. The beauty of this approach is that it realistically expects and addresses the ubiquitous issue of huge numbers of variables <span 
 class="cmmi-10">p </span>and sample sets <span 
 class="cmmi-10">n</span>, a problem that causes the probability of every possible model
 (including the true model <span 
