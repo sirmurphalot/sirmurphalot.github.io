@@ -36,7 +36,7 @@ qualities.
 <ul>
 <br>
 <h3>Bayesian Changepoint Detection for Mixed Data with Missing Values</h3> <!--l. 442--><p class="noindent" >&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span 
-class="cmbx-10"></span>: This project is motivated by monitoring issues
+class="cmbx-10"></span> This project is motivated by monitoring issues
 which were observed after the implementation of Murphree et al.&#8217;s [<a 
 href="#Xmurphree2021">9</a>] model at the Mayo Clinic in Rochester, MN. Over the past few
 years, stark changes in patient hospital data (such as major influxes of missing values due to data pipeline issues) have been
@@ -110,7 +110,7 @@ constrained space to an unconstrained Euclidean space. The proposed methodology,
 distribution (CGFD), is obtained by using mathematical tools from Riemannian geometry. A Bernstein-von Mises-type result for the
 CGFD is provided, which shows how the desirable asymptotic qualities of the unconstrained GFD are inherited by the
 CGFD.
-<!--l. 453--><p class="noindent" >&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;Similar to the Bayesian posterior, the CGFD must often be estimated using MCMC methods. This introduces the need for
+<!--l. 442--><p class="noindent" >&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;Similar to the Bayesian posterior, the CGFD must often be estimated using MCMC methods. This introduces the need for
 sampling parameter values on a manifold. As part of this project, we extend existing methodology to sample from the CGFD,
 including manifold-variants of a random-walk Metropolis-Hastings algorithm and a Hamiltonian Monte Carlo algorithm. In the
 experiment in Figure <a 
@@ -138,7 +138,7 @@ class="cmr-9">MCMC algorithms.</span></span></div><!--tex4ht:label?: x1-21 -->
 <br>
    
 <h3>Future Work</h3>
-<!--l. 455--><p class="noindent" >&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span 
+<!--l. 442--><p class="noindent" >&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span 
 class="cmbx-10"></span>I am interested in developing the <span 
 class="cmmi-10">&#x03F5;</span>-admissibility (EAS) methodology of [<a 
 href="#Xwilliams2019">11</a>] for model selection with GGMs,
