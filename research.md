@@ -17,7 +17,7 @@ permalink: research
 <div class="center" 
 >
 <!--l. 435--><p class="noindent" >
-<!--l. 435--><p class="noindent" ><span 
+<!--l. 435--><p class="noindent" >
 
 <div><h2>Research Interests</h2><br></div>
 <!--l. 438--><p class="noindent" >&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;My research focuses on developing statistical methodologies that are theoretically attractive and broadly applicable, often taking
@@ -35,7 +35,6 @@ qualities.
     
 <ul>
 <br>
-<li> 
 <h3>Bayesian Changepoint Detection for Mixed Data with Missing Values</h3> <!--l. 442--><p class="noindent" >&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span 
 class="cmbx-10"></span>: This project is motivated by monitoring issues
 which were observed after the implementation of Murphree et al.&#8217;s [<a 
@@ -73,10 +72,8 @@ Our changepoint detection system learns a rich array of models in addition to de
 use of these models in our development of a fault detection system, which identifies and describes the causes of a
 changepoint.
     </p>
-    </li>
 <ul>
 <br>
-<li>  
 <h3>Generalized Fiducial Inference on Differentiable Manifolds</h3>
 &#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span 
 class="cmbx-10"></span>[<a 
@@ -139,10 +136,7 @@ class="cmr-9">using multiple manifold-sampling</span>
 class="cmr-9">MCMC algorithms.</span></span></div><!--tex4ht:label?: x1-21 -->
 </center>
 <br>
-   </li>
    
-<br>
-<li>  
 <h3>Future Work</h3>
 <!--l. 455--><p class="noindent" >&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span 
 class="cmbx-10"></span>I am interested in developing the <span 
@@ -188,7 +182,6 @@ class="cmmi-10">n,p </span><span
 class="cmsy-10">&#x2192;&#x221E;</span>
 [<a 
 href="#Xwilliams2022">12</a>].
-</li>
 
 <h3 class="likesectionHead"><a 
  id="x1-1000"></a>References</h3>
