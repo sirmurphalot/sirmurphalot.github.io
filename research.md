@@ -74,10 +74,10 @@ changepoint.
     </p>
 <ul>
 <br>
-<h3>Generalized Fiducial Inference on Differentiable Manifolds</h3>
+<h3>Generalized Fiducial Inference on Differentiable Manifolds [<a 
+href="#Xmurph2022">8</a>]</h3>
 &#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span 
-class="cmbx-10"></span>[<a 
-href="#Xmurph2022">8</a>]: I am broadly interested in the intersection of statistics
+class="cmbx-10"></span> I am broadly interested in the intersection of statistics
 and Riemannian Geometry. In this project, we introduce a novel approach to inference on parameters that take values in a
 Riemannian manifold embedded in a Euclidean space. Specifically, on a manifold, embedded in <span 
 class="msbm-10">&#x211D;</span><sup><span 
