@@ -18,8 +18,8 @@ permalink: research
 >
 <!--l. 435--><p class="noindent" >
 <!--l. 435--><p class="noindent" ><span 
-class="cmbx-12x-x-144">RESEARCH STATEMENT</span><br />
-Alexander C. Murph</div>
+
+<div><h2>Research Interests</h2><br></div>
 <!--l. 438--><p class="noindent" >&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;My research focuses on developing statistical methodologies that are theoretically attractive and broadly applicable, often taking
 a Bayesian or Generalized Fiducial perspective. I believe a &#8220;sweet spot&#8221; exists where my passion for theoretical statistics research
 leads to positive human impacts, and I am looking for complicated and unique applications in pursuit of this intersection.
@@ -32,8 +32,12 @@ href="#Xhannig2016">3</a>]. My theoretical work uses
 differential geometry to define a Generalized Fiducial Distribution (GFD) on smooth manifolds. This distribution has
 strong inferential capabilities on a large class of constrained parameter spaces and exhibits many useful theoretical
 qualities.
-<!--l. 442--><p class="noindent" >&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span 
-class="cmbx-10">Bayesian Changepoint Detection for Mixed Data with Missing Values</span>: This project is motivated by monitoring issues
+    
+<ul>
+<br>
+<li> 
+<h3>Bayesian Changepoint Detection for Mixed Data with Missing Values</h3> <!--l. 442--><p class="noindent" >&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span 
+class="cmbx-10"></span>: This project is motivated by monitoring issues
 which were observed after the implementation of Murphree et al.&#8217;s [<a 
 href="#Xmurphree2021">9</a>] model at the Mayo Clinic in Rochester, MN. Over the past few
 years, stark changes in patient hospital data (such as major influxes of missing values due to data pipeline issues) have been
@@ -68,10 +72,14 @@ href="#Xlenkoski2011">5</a>].
 Our changepoint detection system learns a rich array of models in addition to determining changepoints. We make
 use of these models in our development of a fault detection system, which identifies and describes the causes of a
 changepoint.
-<br />
-<br />
+    </p>
+    </li>
+<ul>
+<br>
+<li>  
+<h3>Generalized Fiducial Inference on Differentiable Manifolds</h3>
 &#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span 
-class="cmbx-10">Generalized Fiducial Inference on Differentiable Manifolds </span>[<a 
+class="cmbx-10"></span>[<a 
 href="#Xmurph2022">8</a>]: I am broadly interested in the intersection of statistics
 and Riemannian Geometry. In this project, we introduce a novel approach to inference on parameters that take values in a
 Riemannian manifold embedded in a Euclidean space. Specifically, on a manifold, embedded in <span 
@@ -80,7 +88,7 @@ class="cmmi-7">d</span></sup>, that can be determined completely
 by the level set of some everywhere differentiable function <span 
 class="cmmi-10">g</span>, i.e. <span 
 class="cmsy-10"><img 
-src="cmsy10-4d.png" alt="M" class="10x-x-4d" /> </span>= <span 
+src="https://sirmurphalot.github.io/assets/cmsy10-4d.png" alt="M" class="10x-x-4d" /> </span>= <span 
 class="cmsy-10">{</span><span 
 class="cmmi-10">&#x03B8; </span><span 
 class="cmsy-10">&#x2208; </span><span 
@@ -115,7 +123,7 @@ sphere. <br>
 
 <center>
 <img 
-src="FourSpheres-.png" alt="PIC" width="600" 
+src="https://sirmurphalot.github.io/assets/FourSpheres-.png" alt="PIC" width="600" 
      height="400"  
 >
 <br /> 
@@ -131,9 +139,13 @@ class="cmr-9">using multiple manifold-sampling</span>
 class="cmr-9">MCMC algorithms.</span></span></div><!--tex4ht:label?: x1-21 -->
 </center>
 <br>
-    
+   </li>
+   
+<br>
+<li>  
+<h3>Future Work</h3>
 <!--l. 455--><p class="noindent" >&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span 
-class="cmbx-10">Future Work: </span>I am interested in developing the <span 
+class="cmbx-10"></span>I am interested in developing the <span 
 class="cmmi-10">&#x03F5;</span>-admissibility (EAS) methodology of [<a 
 href="#Xwilliams2019">11</a>] for model selection with GGMs,
 which will introduce a creative new means for graphical selection in GGMs as well as a novel method to predict general precision
@@ -169,13 +181,15 @@ class="cmbx-10">Y</span>) <span
 class="cmsy-10">&#x2192;&#x221E; </span>for all <span 
 class="cmmi-10">M </span><span 
 class="cmsy-10">&#x2208;<img 
-src="cmsy10-4d.png" alt="M" class="10x-x-4d" />\ </span><span 
+src="https://sirmurphalot.github.io/assets/cmsy10-4d.png" alt="M" class="10x-x-4d" />\ </span><span 
 class="cmmi-10">M</span><sub><span 
 class="cmr-7">0</span></sub> as <span 
 class="cmmi-10">n,p </span><span 
 class="cmsy-10">&#x2192;&#x221E;</span>
 [<a 
 href="#Xwilliams2022">12</a>].
+</li>
+
 <h3 class="likesectionHead"><a 
  id="x1-1000"></a>References</h3>
 <!--l. 1--><p class="noindent" >
@@ -255,6 +269,3 @@ class="cmti-10">The Annals of Statistics</span>, 47(3):1723 &#8211; 1753, 2019.
 class="cmti-10">Canadian Journal of Statistics</span>, n/a(n/a), 2022.
 </p>
     </div>
- 
- 
-</body></html> 
