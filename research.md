@@ -71,7 +71,7 @@ href="#Xlenkoski2011">5</a>].
 Our changepoint detection system learns a rich array of models in addition to determining changepoints. We make
 use of these models in our development of a fault detection system, which identifies and describes the causes of a
 changepoint.
-    </p>
+    
 <ul>
 <br>
 <h3>Generalized Fiducial Inference on Differentiable Manifolds [<a 
@@ -182,6 +182,7 @@ class="cmmi-10">n,p </span><span
 class="cmsy-10">&#x2192;&#x221E;</span>
 [<a 
 href="#Xwilliams2022">12</a>].
+</p>
 
 <h3 class="likesectionHead"><a 
  id="x1-1000"></a>References</h3>
