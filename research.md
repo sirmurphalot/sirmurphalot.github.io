@@ -2,10 +2,11 @@
 layout: default
 title: Alexander Murph | Research
 permalink: research
+bibliography: assets/references.bib  
 ---
 
 <div><h2>Research Interests</h2><br></div>
-<p>I develop novel approaches to data analysis that are mathematically sound and can be applied in generality. </p>
+<p>~~~~~My research focuses on developing statistical methodologies that are theoretically attractive and broadly applicable, often taking a Bayesian or Generalized Fiducial perspective.  I believe a ``sweet spot" exists where my passion for theoretical statistics research leads to positive human impacts, and I am looking for complicated and unique applications in pursuit of this intersection.  In my consulting work for the Mayo Clinic, I develop a novel Bayesian changepoint detection system that meets a real need for the in-process models in its hospitals.  This method detects a broad class of changes in longitudinal data while simultaneously determining a changepoint's cause.  An additional research interest of mine is Generalized Fiducial Inference (GFI), which is a modern perspective on Fisher's fiducial argument [@-fisher1935; @-hannig2016].  My theoretical work uses differential geometry to define a Generalized Fiducial Distribution (GFD) on smooth manifolds.  This distribution has strong inferential capabilities on a large class of constrained parameter spaces and exhibits many useful theoretical qualities. </p>
 <div><br><hr><hr><br><h2>Current Projects</h2></div>
 <ul>
 <br>
