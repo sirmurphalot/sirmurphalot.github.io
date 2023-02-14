@@ -8,7 +8,7 @@ title: Alexander Murph | Publications
 <u>Graduate Papers</u>:
 <ul>
     <li>
-    <b>A. Murph</b> and C. Storlie (2022+).  Bayesian Changepoint Detection for Mixed Data with Missing Values. <i>In progress.</i> <br> <b>Links:</b>  <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IEEE_ICHI_2022_Poster.pdf">Poster at ICHI IEEE 10.</a>
+    <b>A. Murph</b> and C. Storlie (2022+).  Bayesian Change-point Detection for Process Monitoring with Fault Detection. <i>In progress.</i> <br> <b>Links:</b>  <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IEEE_ICHI_2022_Poster.pdf">Poster at ICHI IEEE 10.</a>
   </li>
   <li>
     <b>A. Murph</b>, J. Hannig, and J. P. Williams (2022+). Generalized Fiducial Inference on Differentiable Manifolds. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2209.15473">Manuscript.</a> <a id="raw-url" href="https://github.com/sirmurphalot/GFI_onManifolds"> Code Repository.</a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/BFF_poster_2022.pdf">Poster at BFF7.</a> 
