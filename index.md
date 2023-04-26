@@ -11,8 +11,8 @@ permalink:
         <img src="https://sirmurphalot.github.io/assets/me.jpg" width="207px" height="200px">
     </div>
     <div class="contact">
-        <font size="+2">Alexander C. Murph</font> <br>
-        UNC Statistics and Operations Research PhD Candidate<br>
+        <font size="+2">Alexander C. Murph, Ph.D.</font> <br>
+        UNC Statistics and Operations Research<br>
         Visiting Graduate Student at the Mayo Clinic<br>
         Chapel Hill, NC <br>
         <a href="mailto:acmurph@live.unc.edu"> <img src="{{site.url}}css/icons/gmail.jpg"  class="icon"> </a>
