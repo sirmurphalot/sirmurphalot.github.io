@@ -217,7 +217,12 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   </a>
   <div class="desc">Mint Chocolate Chip Cake 2. </div>
 </div>
-    
+<div class="gallery">
+  <a target="_blank" href="assets/hummingbird2.png">
+    <img src="assets/hummingbird2.png" alt="Hummingbird Cake 2" width="400">
+  </a>
+  <div class="desc">My second attempt at the Hummingbird Cake. </div>
+</div>
 </div>
 
 
