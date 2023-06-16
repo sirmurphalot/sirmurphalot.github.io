@@ -12,9 +12,9 @@ permalink:
     </div>
     <div class="contact">
         <font size="+2">Alexander C. Murph, Ph.D.</font> <br>
-        UNC Statistics and Operations Research<br>
-        Visiting Graduate Student at the Mayo Clinic<br>
-        Chapel Hill, NC <br>
+        Postdoc at Los Alamos National Lab<br>
+        Research Consultant at the Mayo Clinic<br>
+        Santa Fe, NM <br>
         <a href="mailto:acmurph@live.unc.edu"> <img src="{{site.url}}css/icons/gmail.jpg"  class="icon"> </a>
         <a href="https://www.linkedin.com/in/alexander-murph-a39772b0/"><img src="{{site.url}}css/icons/linkedin.jpg"  class="icon"> </a>
         <a href="https://github.com/sirmurphalot"><img src="{{site.url}}css/icons/github.png" class="icon"></a>
