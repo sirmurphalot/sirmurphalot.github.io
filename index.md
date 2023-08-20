@@ -11,7 +11,7 @@ permalink:
         <img src="https://sirmurphalot.github.io/assets/me.jpg" width="207px" height="200px">
     </div>
     <div class="contact">
-        <font size="+2">Alexander C. Murph, Ph.D.</font> <br>
+        <font size="+2">Alexander C. Murph</font> <br>
         Postdoc at Los Alamos National Lab<br>
         Research Consultant at the Mayo Clinic<br>
         Santa Fe, NM <br>
