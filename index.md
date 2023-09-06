@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-title: Alexander Murph
+title: Alexander C. Murph
 permalink: 
 ---
 <div class="banner">
@@ -46,7 +46,7 @@ permalink:
     </p>
     <p>
     <h3>Brief Bio</h3>
-    I'm a born-and-raised Pittsburgh-er who traveled down south to pursue my dream of being a Statistics professor.  When I'm not thinking about math and coding, I'm swimming, dancing, and singing loudly in the shower.
+    I'm a born-and-raised Pittsburgh-er who traveled down south to pursue my dream of being a Statistics professor.  When that dream changed, I headed westward.  When I'm not thinking about math and coding, I'm swimming, dancing, and singing loudly in the shower.
     </p>
     <b>Erdös-Bacon Number</b>: 5
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Alexander Murph | Blog
+title: Alexander C. Murph | Blog
 ---
 <head>
 <style>

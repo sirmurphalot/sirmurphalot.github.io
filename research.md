@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Alexander Murph | Research
+title: Alexander C. Murph | Research
 permalink: research 
 ---
 
