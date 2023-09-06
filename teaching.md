@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Alexander C. Murph | teaching
+title: Alexander C Murph | teaching
 ---
 <div class="teaching">
 <h3>IDST 290: Data Science for COVID-19, Fall Semester 2020</h3><br>

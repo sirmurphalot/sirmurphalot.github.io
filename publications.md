@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Alexander C. Murph | Publications
+title: Alexander C Murph | Publications
 ---
 <div class="publications">
 <h3>Preprint/Under Submission</h3>

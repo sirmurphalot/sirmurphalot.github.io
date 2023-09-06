@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Alexander C. Murph | News
+title: Alexander C Murph | News
 ---
 <h3>News</h3>
 <table class="news">
