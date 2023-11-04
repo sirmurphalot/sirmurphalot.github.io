@@ -5,10 +5,9 @@ title: Alexander C Murph | Publications
 <div class="publications">
 <h3>Preprint/Under Submission</h3>
 
-<u>Graduate Papers</u>:
 <ul>
     <li>
-    <b>A. C. Murph</b> and C. Storlie (2022+).  Bayesian Change-point Detection for Process Monitoring with Fault Detection. <i>In progress.</i> <br> <b>Links:</b>  <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IEEE_ICHI_2022_Poster.pdf">Poster at ICHI IEEE 10.</a>
+    <b>A. C. Murph</b> and C. Storlie (2022+).  Bayesian Change-point Detection for Process Monitoring with Fault Detection. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2310.02940">Manuscript.</a> <a id="raw-url" href="https://cran.r-project.org/web/packages/bayesWatch/index.html">CRAN Package.</a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IEEE_ICHI_2022_Poster.pdf">Poster at ICHI IEEE 10.</a> 
   </li>
   <li>
     <b>A. C. Murph</b>, J. Hannig, and J. P. Williams (2022+). Generalized Fiducial Inference on Differentiable Manifolds. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2209.15473">Manuscript.</a> <a id="raw-url" href="https://github.com/sirmurphalot/GFI_onManifolds"> Code Repository.</a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/BFF_poster_2022.pdf">Poster at BFF7.</a> 
@@ -21,7 +20,7 @@ title: Alexander C Murph | Publications
   </li>
     <br>
     </ul>
-<u>Undergraduate Papers</u>:
+<u>Manuscripts appearing in journals with non-statistical focus</u>:
 <ul>
   <li>
       <b>A. C. Murph</b>, A. Flynt, B. R. King (2021). Comparing finite sequences of discrete events with non-uniform time intervals, <i><a id="raw-url" href="https://www.tandfonline.com/doi/full/10.1080/07474946.2021.1940491">Sequential Analysis</a></i>,  40(3), 291-313.  <br> <b>Links:</b> <a id="raw-url" href=" https://github.com/cran/sawnuti">Code Repository.</a> <a id="raw-url" href="https://cran.r-project.org/web/packages/sawnuti/sawnuti.pdf">CRAN Package.</a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/SAWNUTI_poster_murph2021.pdf">Poster at The Classification Society.</a>

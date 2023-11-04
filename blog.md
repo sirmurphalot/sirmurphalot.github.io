@@ -229,6 +229,18 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   </a>
   <div class="desc">Another chocolate stout cake with bourbon vanilla cream cheese icing. </div>
 </div>
+<div class="gallery">
+  <a target="_blank" href="assets/RaspberryChocolate3.JPEG">
+    <img src="assets/RaspberryChocolate3.JPEG" alt="Raspberry Chocolate 3" width="400">
+  </a>
+  <div class="desc">Raspberry chocolate cake with an (honestly failed) attempt at a mirror glaze. </div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="assets/StrawberryShortcake.png">
+    <img src="assets/strawberryShortcake.png" alt="Strawberry Shortcake" width="400">
+  </a>
+  <div class="desc">(Gluten-free) Strawberry Shortcake. </div>
+</div>
 </div>
 
 
