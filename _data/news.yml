@@ -42,4 +42,6 @@
   description: I successfully defended my dissertation!
 - date: 2023-06-12
   description: My first day of my postdoc at LANL.
+- date: 2023-06-12
+  description: I have sent off my work with the Mayo Clinic for publication!  Check out the paper [here](https://arxiv.org/abs/2310.02940) and the R package [here](https://cran.r-project.org/web/packages/bayesWatch/index.html).
    
