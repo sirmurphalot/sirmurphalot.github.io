@@ -236,8 +236,8 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   <div class="desc">Raspberry chocolate cake with an (honestly failed) attempt at a mirror glaze. </div>
 </div>
 <div class="gallery">
-  <a target="_blank" href="assets/StrawberryShortcake.png">
-    <img src="assets/strawberryShortcake.png" alt="Strawberry Shortcake" width="400">
+  <a target="_blank" href="assets/StrawberryShortcake.JPEG">
+    <img src="assets/StrawberryShortcake.JPEG" alt="Strawberry Shortcake" width="400">
   </a>
   <div class="desc">(Gluten-free) Strawberry Shortcake. </div>
 </div>
