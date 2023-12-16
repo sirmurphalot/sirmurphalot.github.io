@@ -6,7 +6,13 @@ title: Alexander C Murph | Publications
 
 <ul>
     <li>
-    <b>A. C. Murph</b> and C. Storlie (2022+).  Bayesian Change-point Detection for Process Monitoring with Fault Detection. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2310.02940">Manuscript.</a> <a id="raw-url" href="https://cran.r-project.org/web/packages/bayesWatch/index.html">CRAN Package.</a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IEEE_ICHI_2022_Poster.pdf">Poster at ICHI IEEE 10.</a> 
+    <b>A. C. Murph</b>, J.D. Strait, K.R. Moran, J.D. Hyman, and P.H. Stauffer (2024).  Visualization and Outlier Detection for Probability Density Function Ensembles. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/pdf_boxplots.pdf">Manuscript.</a> <a id="raw-url" href="https://github.com/lanl/deboinr">R Package.</a>
+  </li>
+    <li>
+    <b>A. C. Murph</b> J.D. Strait, K.R. Moran, J.D. Hyman, H.S. Viswanatha, and P.H. Stauffer (2024).  Sensitivity Analysis in the Presence of Intrinsic Stochasticity for Discrete Fracture Network Simulations <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2312.04722">Manuscript.</a>
+  </li>
+    <li>
+    <b>A. C. Murph</b>, C.B. Storlie, P.M. Wilson, J.P. Williams, and J. Hannig (2024).  Bayes Watch: Bayesian Change-point Detection for Process Monitoring with Fault Detection. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2310.02940">Manuscript.</a> <a id="raw-url" href="https://cran.r-project.org/web/packages/bayesWatch/index.html">CRAN Package.</a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IEEE_ICHI_2022_Poster.pdf">Poster at ICHI IEEE 10.</a> 
   </li>
   <li>
     <b>A. C. Murph</b>, J. Hannig, and J. P. Williams (2022+). Generalized Fiducial Inference on Differentiable Manifolds. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2209.15473">Manuscript.</a> <a id="raw-url" href="https://github.com/sirmurphalot/GFI_onManifolds"> Code Repository.</a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/BFF_poster_2022.pdf">Poster at BFF7.</a> 
