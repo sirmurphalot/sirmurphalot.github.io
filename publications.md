@@ -25,7 +25,7 @@ title: Alexander C Murph | Publications
   </li>
     <br>
     </ul>
-<u>Manuscripts appearing in journals with non-statistical focus</u>:
+<u>Manuscripts appearing in journals with a non-statistical focus</u>:
 <ul>
   <li>
       <b>A. C. Murph</b>, A. Flynt, B. R. King (2021). Comparing finite sequences of discrete events with non-uniform time intervals, <i><a id="raw-url" href="https://www.tandfonline.com/doi/full/10.1080/07474946.2021.1940491">Sequential Analysis</a></i>,  40(3), 291-313.  <br> <b>Links:</b> <a id="raw-url" href=" https://github.com/cran/sawnuti">Code Repository.</a> <a id="raw-url" href="https://cran.r-project.org/web/packages/sawnuti/sawnuti.pdf">CRAN Package.</a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/SAWNUTI_poster_murph2021.pdf">Poster at The Classification Society.</a>
