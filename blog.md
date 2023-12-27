@@ -248,9 +248,9 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
 
 <div class="gallery">
   <a target="_blank" href="assets/choc_raspberry.JPEG">
-    <img src="assets/choc_raspberry.JPEG" alt=Chocolate Raspberry 3" width="400">
+    <img src="assets/choc_raspberry.JPEG" alt="Chco Rasp 3" width="400">
   </a>
-  <div class="desc">Another freaking chocolate raspberry cake. </div>
+  <div class="desc">Another freaking chocolate raspberry cake :) </div>
 </div>
 
 <div class="gallery">
