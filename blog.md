@@ -244,6 +244,38 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
 </div>
 
 
+<div class="row">
+
+<div class="gallery">
+  <a target="_blank" href="assets/choc_raspberry.JPEG">
+    <img src="assets/choc_raspberry.JPEG" alt=Chocolate Raspberry 3" width="400">
+  </a>
+  <div class="desc">Another freaking chocolate raspberry cake. </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/applepie2.JPEG">
+    <img src="assets/applepie2.JPEG" alt="APPLE PIE 2" width="400">
+  </a>
+  <div class="desc">Apple Pie, Thanksgiving 2023. </div>
+</div>
+    <div class="gallery">
+  <a target="_blank" href="assets/mint_choc_chip3.JPEG">
+    <img src="assets/mint_choc_chip3.JPEG" alt="Third Mint Chocolate Chip Cake" width="400">
+  </a>
+  <div class="desc">Mint Chocolate Chip Cake, take 3. </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/finnish_cookies.JPEG">
+    <img src="assets/finnish_cookies.JPEG" alt="Finnish Cookies" width="400">
+  </a>
+  <div class="desc">Joulutorttu!  Happy Finnish Independence Day! </div>
+</div>
+
+
+</div>
+
 
 
 </body>
