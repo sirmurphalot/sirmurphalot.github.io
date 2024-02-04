@@ -24,7 +24,7 @@ title: Alexander C Murph | Publications
     G. Demuth, C.B. Storlie, G. Schaeferle, P. Wilson, F. Sunyang, <b>A. C. Murph</b>, X. Ruan, J. Pringnitz, and L. Hongfang (2023). A Joint Longitudinal Model for Ongoing Prediction of Post Surgical Complication <i>Accepted to the Journal of the American Statistical Association.</i>
   </li>
   <li>
-    <b>A. C. Murph</b>, J. Hannig, and J. P. Williams (2021). Introduction to Generalized Fiducial Inference. In J. Berger, X. Meng, N. Reid, \& M. Xie (Eds.) <i>Handbook of Bayesian, Fiducial, and Frequentist Inference</i> (Ch. 13).  Chapman &amp Hall.  <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2302.14598">Manuscript.</a> <a id="raw-url" href="https://github.com/sirmurphalot/IntroductionGFI">Code Repository.</a>
+    <b>A. C. Murph</b>, J. Hannig, and J. P. Williams (2021). Introduction to Generalized Fiducial Inference. In J. Berger, X. Meng, N. Reid, & M. Xie (Eds.) <i>Handbook of Bayesian, Fiducial, and Frequentist Inference</i> (Ch. 13).  Chapman & Hall.  <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2302.14598">Manuscript.</a> <a id="raw-url" href="https://github.com/sirmurphalot/IntroductionGFI">Code Repository.</a>
   </li>
     <br>
     </ul>
