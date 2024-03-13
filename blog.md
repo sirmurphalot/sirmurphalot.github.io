@@ -245,7 +245,6 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
 
 
 <div class="row">
-
 <div class="gallery">
   <a target="_blank" href="assets/choc_raspberry.JPEG">
     <img src="assets/choc_raspberry.JPEG" alt="Chco Rasp 3" width="400">
@@ -273,7 +272,21 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   <div class="desc">Joulutorttu!  Happy Finnish Independence Day! </div>
 </div>
 
+<div class="gallery">
+  <a target="_blank" href="assets/bourbon_stout2.jpeg">
+    <img src="assets/bourbon_stout2.jpeg" alt="Bourbon Stout 2" width="400">
+  </a>
+  <div class="desc">And yet another chocolate stout cake with bourbon vanilla cream cheese icing.  This one is getting popular... </div>
+</div>
+</div>
 
+<div class="row">
+<div class="gallery">
+  <a target="_blank" href="assets/carrot_cake2.jpeg">
+    <img src="assets/carrot_cake2.jpeg" alt="Carrot Cake 2" width="400">
+  </a>
+  <div class="desc">Another take on my carrot cake (this time at altitude).  My carrot cakes might be my personal favorite. </div>
+</div>
 </div>
 
 
