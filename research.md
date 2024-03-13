@@ -48,7 +48,7 @@ title: Alexander C Murph | Research
 <h3><i>Conference Presentations</i></h3>
 <ul>
   <li>
-        <i>Uncertainty quantification in the presence of intrinsic stochasticity for multifidelity discrete fracture network simulations. </i>  Given at SIAM Conference on Uncertainty Quantification (2024) in Trieste, Italy. <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_ppresentations/siam_UQ24_murph.pdf">Presentation Slides.</a>
+        <i>Uncertainty Quantification in the Presence of Intrinsic Stochasticity for Multifidelity Discrete Fracture Network Simulations. </i>  Given at SIAM Conference on Uncertainty Quantification (2024) in Trieste, Italy. <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_ppresentations/siam_UQ24_murph.pdf">Presentation Slides.</a>
   </li>
   <li>
         <i>Bayesian Change Point Detection for Mixed Data ith Missing Values. </i>  Given at IEEE International Conference on Healthcare Informatics 10 (2022) in Rochester, MN. <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_ppresentations/IEEE_ICHI_2022_Poster.pdf">Poster.</a>

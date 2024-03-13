@@ -131,8 +131,7 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   <div class="desc">Black Forest Cake 2: Although I felt this one looks better, it did not taste as good. </div>
 </div>
 
-
-    </div>
+</div>
 
 
 <div class="row">
@@ -151,7 +150,7 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   <div class="desc">Chocolate with chocolate buttercream and chocolate ganache.  A small cake made with the scraps leftover from the wedding cake. </div>
 </div>
 
-    <div class="gallery">
+<div class="gallery">
   <a target="_blank" href="assets/DutchApple.jpeg">
     <img src="assets/DutchApple.jpeg" alt="Dutch Apple Pie" width="400">
   </a>
