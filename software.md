@@ -24,7 +24,7 @@ Further details: <b>A. C. Murph</b>, A. Flynt, B. R. King (2021). Comparing fini
 
 <h3><i>Statistical Software</i></h3>
 <ul> 
-<li> autoGFD: Code to use autodifferentiation software to calculate a Generalized Fiducial Distribution from user-defined Python functions. See: <a id="raw-url" href="https://github.com/sirmurphalot/autoGFD"><b>Github Respository</b></a>. 
+<li> <b>autoGFD</b>: Code to use autodifferentiation software to calculate a Generalized Fiducial Distribution from user-defined Python functions. See: <a id="raw-url" href="https://github.com/sirmurphalot/autoGFD"><b>Github Respository</b></a>. 
 <br/>
     It is an ongoing interest of mine to debug and expand this code, and hopefully write a paper on it.  If you are interested (or perhaps have an interested student), please reach out!
 </li>	
