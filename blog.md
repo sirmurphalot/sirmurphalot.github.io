@@ -280,12 +280,14 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
 </div>
 
 <div class="row">
+    
 <div class="gallery">
   <a target="_blank" href="assets/carrot_cake2.jpeg">
     <img src="assets/carrot_cake2.jpeg" alt="Carrot Cake 2" width="400">
   </a>
   <div class="desc">Another take on my carrot cake (this time at altitude).  My carrot cakes might be my personal favorite. </div>
 </div>
+    
 </div>
 
 
