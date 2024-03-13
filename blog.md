@@ -277,6 +277,7 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   </a>
   <div class="desc">And yet another chocolate stout cake with bourbon vanilla cream cheese icing.  This one is getting popular... </div>
 </div>
+
 </div>
 
 <div class="row">
