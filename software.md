@@ -5,10 +5,7 @@ permalink: software
 ---
   
 <h3><i>R Packages</i></h3>
-<br>
-
 <ul> 
-
 <li> Bayes Watch fits an array of Gaussian Graphical Mixture Models to groupings of homogeneous data in time, called regimes, which are modeled as the observed states of a Markov process with unknown transition probabilities. In doing so, Bayes Watch defines a posterior distribution on a vector of regime assignments, which gives meaningful expressions on the probability of every possible change-point. Bayes Watch also allows for an effective and efficient fault detection system that assesses what features in the data where the most responsible for a given change-point.  See: <a id="raw-url" href="https://CRAN.R-project.org/package=bayesWatch"><b>CRAN Package</b></a>.
 <br/> 
     Further details: <b>A. C. Murph</b>, C.B. Storlie, P.M. Wilson, J.P. Williams, and J. Hannig (2024).  Bayes Watch: Bayesian Change-point Detection for Process Monitoring with Fault Detection.  </li>	
@@ -26,8 +23,6 @@ Further details: <b>A. C. Murph</b>, A. Flynt, B. R. King (2021). Comparing fini
 </ul>
 
 <h3><i>Statistical Software</i></h3>
-<br>
-
 <ul> 
 <li> autoGFD: Code to use autodifferentiation software to calculate a Generalized Fiducial Distribution from user-defined Python functions. See: <a id="raw-url" href="https://github.com/sirmurphalot/autoGFD"><b>Github Respository</b></a>. 
 <br/>

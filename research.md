@@ -4,6 +4,7 @@ title: Alexander C Murph | Research
 ---
 <div class="research">
 
+<h3><i>Publications</i></h3>
 <ul>
     <li>
         <b>Murph, A.C.</b>, Strait, J.D., Moran, K.R., Hyman, J.D., & Stauffer, P.H. (2024) Visualisation and Outlier Detection for Probability Density Function Ensembles, <i>Stat</i>, 13(2), e662.<br> <b>Links:</b> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/pdf_boxplots.pdf">Manuscript.</a> <a id="raw-url" href="https://github.com/lanl/deboinr">R Package.</a>
@@ -26,7 +27,6 @@ title: Alexander C Murph | Research
   <li>
     <b>A. C. Murph</b>, J. Hannig, and J. P. Williams (2021). Introduction to Generalized Fiducial Inference. In J. Berger, X. Meng, N. Reid, & M. Xie (Eds.) <i>Handbook of Bayesian, Fiducial, and Frequentist Inference</i> (Ch. 13).  Chapman & Hall.  <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2302.14598">Manuscript.</a> <a id="raw-url" href="https://github.com/sirmurphalot/IntroductionGFI">Code Repository.</a>
   </li>
-    <br>
     </ul>
 <u>Manuscripts appearing in journals with a non-statistical focus</u>:
 <ul>
@@ -37,7 +37,6 @@ title: Alexander C Murph | Research
     Faden, E., Mitchel, <b>A., Murph</b>, A., Myers, T., and Ryan, N. C. (2021). Mr. Hulot’s Invisible Gorilla, <i><a id="raw-url" href="https://doi.org/10.3167/proj.2021.150201%20">Projections</a></i>, 15(2), 1-29.  <br> <b>Links:</b> <a id="raw-url" href="https://github.com/sirmurphalot/VisualDisturbances">Code Repository.</a>
   </li>
   </ul>
-<br>
 
 <u>Dissertation</u>:
 <ul>
@@ -45,6 +44,22 @@ title: Alexander C Murph | Research
       Successfully defended on April 21st, 2023 at UNC Chapel Hill.  Advised by Jan Hannig, Jon P. Williams, and Curt Storlie.  See: <a id="raw-url" href="https://github.com/sirmurphalot/dissertation">Manuscript and Presentation</a>
   </li>
   </ul>
-<br>
+
+<h3><i>Conference Presentations</i></h3>
+<ul>
+  <li>
+        <i>Uncertainty quantification in the presence of intrinsic stochasticity for multifidelity discrete fracture network simulations. </i>  Given at SIAM Conference on Uncertainty Quantification (2024) in Trieste, Italy. <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_ppresentations/siam_UQ24_murph.pdf">Presentation Slides.</a>
+  </li>
+  <li>
+        <i>Bayesian Change Point Detection for Mixed Data ith Missing Values. </i>  Given at IEEE International Conference on Healthcare Informatics 10 (2022) in Rochester, MN. <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_ppresentations/IEEE_ICHI_2022_Poster.pdf">Poster.</a>
+  </li>
+  <li>
+        <i>Generalized Fiducial Inference on Riemannian Manifolds.</i>  Given at Bayesian, Fiducial, & Frequentist 7 (2022) in Toronto, Canada. <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_ppresentations/BFF_poster_2022.pdf">Poster.</a>
+  </li>
+  <li>
+      <i>Comparing Finite Sequences of Discrete Events with Non-uniform Time Intervals. </i> Given at The Classification Society Annual Meeting (2021) in Lewisburg, PA. <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_ppresentations/SAWNUTI_poster_murph2021.pdf">Poster.</a>
+  </li>
+</ul>
+
 
 </div>
