@@ -37,6 +37,18 @@ title: Alexander C Murph | Research
           Faden, E., Mitchel, <b>A., Murph</b>, A., Myers, T., and Ryan, N. C. (2021). Mr. Hulot’s Invisible Gorilla, <i><a id="raw-url" href="https://doi.org/10.3167/proj.2021.150201%20">Projections</a></i>, 15(2), 1-29.  <br> <b>Links:</b> <a id="raw-url" href="https://github.com/sirmurphalot/VisualDisturbances"><b>Code Repository.</b></a>
   </li>
   </ul>
+<u>Late Drafts/In Process Manuscripts</u>:
+<ul>
+  <li>
+      <b>Murph, A.C.,</b> Gibson, G.C., VanDervort, L.B., Panda, N., Castro, L.A., Del Valle, S., and Osthus, D.A. Incorporating Incidence Peak and Time Data for SIR Forecasting Applications. <i>Late Draft.</i>
+  </li>
+  <li>
+      Lawrence, E.C., <b>Murph, A.C.</b>, Vander Wiel, S, Liu, C, and Zhang, J. A New Method for Multinomial Inference using Dempster-Shafer Theory. <i>Late Draft</i>
+  </li>
+    <li>
+          Hyman, J.D., Boampong, L., <b>Murph, A.C.</b>, Navarre-Sitchler, A., Srinivasan, G., Carey, J.W., Viswanathan, H.S. Determining the dominant factors for carbon mineralization in three-dimensional fracture networks. <i>Late Draft.</i>
+    </li>
+  </ul>
 
 <u>Dissertation</u>:
 <ul>
