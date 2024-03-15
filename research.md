@@ -10,31 +10,31 @@ title: Alexander C Murph | Research
         <b>Murph, A.C.</b>, Strait, J.D., Moran, K.R., Hyman, J.D., & Stauffer, P.H. (2024) Visualisation and Outlier Detection for Probability Density Function Ensembles, <i>Stat</i>, 13(2), e662.<br> <b>Links:</b> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/pdf_boxplots.pdf"><b>Manuscript.</b></a> <a id="raw-url" href="https://github.com/lanl/deboinr"><b>R Package.</b></a>
   </li>
     <li>
-        <b>A. C. Murph</b> J.D. Strait, K.R. Moran, J.D. Hyman, H.S. Viswanatha, and P.H. Stauffer (2024).  Sensitivity Analysis in the Presence of Intrinsic Stochasticity for Discrete Fracture Network Simulations <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2312.04722"><b>Manuscript.</b></a>
+        <b>Murph, A. C.</b> Strait, J.D., Moran, K.R., Hyman, J.D., Viswanatha, H.S., and Stauffer, P.H. (2024).  Sensitivity Analysis in the Presence of Intrinsic Stochasticity for Discrete Fracture Network Simulations <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2312.04722"><b>Manuscript.</b></a>
   </li>
     <li>
-        <b>A. C. Murph</b>, C.B. Storlie, P.M. Wilson, J.P. Williams, and J. Hannig (2024).  Bayes Watch: Bayesian Change-point Detection for Process Monitoring with Fault Detection. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2310.02940"><b>Manuscript.</b></a> <a id="raw-url" href="https://cran.r-project.org/web/packages/bayesWatch/index.html"><b>CRAN Package.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IEEE_ICHI_2022_Poster.pdf"><b>Poster at ICHI IEEE 10.</b></a> 
+        <b>Murph, A.C.</b>, Storlie, C.B., Wilson, P.M., Williams, J.P., and Hannig, J. (2024).  Bayes Watch: Bayesian Change-point Detection for Process Monitoring with Fault Detection. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2310.02940"><b>Manuscript.</b></a> <a id="raw-url" href="https://cran.r-project.org/web/packages/bayesWatch/index.html"><b>CRAN Package.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IEEE_ICHI_2022_Poster.pdf"><b>Poster at ICHI IEEE 10.</b></a> 
   </li>
   <li>
-      <b>A. C. Murph</b>, J. Hannig, and J. P. Williams (2024). Generalized Fiducial Inference on Differentiable Manifolds. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2209.15473"><b>Manuscript.</b></a> <a id="raw-url" href="https://github.com/sirmurphalot/GFI_onManifolds"> <b>Code Repository.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/BFF_poster_2022.pdf"><b>Poster.</b></a> 
+      <b>Murph, A. C.</b>, Hannig, J., and Williams, J. P. (2024). Generalized Fiducial Inference on Differentiable Manifolds. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2209.15473"><b>Manuscript.</b></a> <a id="raw-url" href="https://github.com/sirmurphalot/GFI_onManifolds"> <b>Code Repository.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/BFF_poster_2022.pdf"><b>Poster.</b></a> 
   </li>
   <li>
-      Y. Liu, J. Hannig, and <b>A. C. Murph</b> (2023). A Geometric Perspective on Bayesian and Generalized Fiducial Inference. <i>Accepted to Statistical Sciences.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2210.05462"><b>Manuscript.</b></a>
+      Liu, Y., Hannig, J., and <b>Murph, A. C.</b> (2023). A Geometric Perspective on Bayesian and Generalized Fiducial Inference. <i>Accepted to Statistical Sciences.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2210.05462"><b>Manuscript.</b></a>
   </li>
   <li>
-    G. Demuth, C.B. Storlie, G. Schaeferle, P. Wilson, F. Sunyang, <b>A. C. Murph</b>, X. Ruan, J. Pringnitz, and L. Hongfang (2023). A Joint Longitudinal Model for Ongoing Prediction of Post Surgical Complication <i>Accepted to the Journal of the American Statistical Association.</i>
+    Demuth, G., Storlie, C.B., Schaeferle, G., Wilson, P., Sunyang, F., <b>Murph, A. C. </b>, Ruan, X., Pringnitz, J., and Hongfang, L. (2023). A Joint Longitudinal Model for Ongoing Prediction of Post Surgical Complication <i>Accepted to the Journal of the American Statistical Association.</i>
   </li>
   <li>
-      <b>A. C. Murph</b>, J. Hannig, and J. P. Williams (2021). Introduction to Generalized Fiducial Inference. In J. Berger, X. Meng, N. Reid, & M. Xie (Eds.) <i>Handbook of Bayesian, Fiducial, and Frequentist Inference</i> (Ch. 13).  Chapman & Hall.  <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2302.14598"><b>Manuscript.</b></a> <a id="raw-url" href="https://github.com/sirmurphalot/IntroductionGFI"><b>Code Repository.</b></a>
+      <b>Murph, A. C.</b>, Hannig, J., and Williams, J. P. (2021). Introduction to Generalized Fiducial Inference. In J. Berger, X. Meng, N. Reid, & M. Xie (Eds.) <i>Handbook of Bayesian, Fiducial, and Frequentist Inference</i> (Ch. 13).  Chapman & Hall.  <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2302.14598"><b>Manuscript.</b></a> <a id="raw-url" href="https://github.com/sirmurphalot/IntroductionGFI"><b>Code Repository.</b></a>
   </li>
     </ul>
 <u>Manuscripts appearing in journals with a non-statistical focus</u>:
 <ul>
   <li>
-      <b>A. C. Murph</b>, A. Flynt, B. R. King (2021). Comparing finite sequences of discrete events with non-uniform time intervals, <i><a id="raw-url" href="https://www.tandfonline.com/doi/full/10.1080/07474946.2021.1940491">Sequential Analysis</a></i>,  40(3), 291-313.  <br> <b>Links:</b> <a id="raw-url" href=" https://github.com/cran/sawnuti"><b>Code Repository.</b></a> <a id="raw-url" href="https://cran.r-project.org/web/packages/sawnuti/sawnuti.pdf"><b>CRAN Package.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/SAWNUTI_poster_murph2021.pdf"><b>Poster.</b></a>
+      <b>Murph, A. C.</b>, Flynt, A., King, B. R. (2021). Comparing finite sequences of discrete events with non-uniform time intervals, <i><a id="raw-url" href="https://www.tandfonline.com/doi/full/10.1080/07474946.2021.1940491">Sequential Analysis</a></i>,  40(3), 291-313.  <br> <b>Links:</b> <a id="raw-url" href=" https://github.com/cran/sawnuti"><b>Code Repository.</b></a> <a id="raw-url" href="https://cran.r-project.org/web/packages/sawnuti/sawnuti.pdf"><b>CRAN Package.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/SAWNUTI_poster_murph2021.pdf"><b>Poster.</b></a>
   </li>
       <li>
-          Faden, E., Mitchel, <b>A., Murph</b>, A., Myers, T., and Ryan, N. C. (2021). Mr. Hulot’s Invisible Gorilla, <i><a id="raw-url" href="https://doi.org/10.3167/proj.2021.150201%20">Projections</a></i>, 15(2), 1-29.  <br> <b>Links:</b> <a id="raw-url" href="https://github.com/sirmurphalot/VisualDisturbances"><b>Code Repository.</b></a>
+          Faden, E., Mitchel, A., <b>Murph, A.</b>, Myers, T., and Ryan, N. C. (2021). Mr. Hulot’s Invisible Gorilla, <i><a id="raw-url" href="https://doi.org/10.3167/proj.2021.150201%20">Projections</a></i>, 15(2), 1-29.  <br> <b>Links:</b> <a id="raw-url" href="https://github.com/sirmurphalot/VisualDisturbances"><b>Code Repository.</b></a>
   </li>
   </ul>
 <u>Late Drafts/In Process Manuscripts</u>:
@@ -46,7 +46,10 @@ title: Alexander C Murph | Research
       Lawrence, E.C., <b>Murph, A.C.</b>, Vander Wiel, S, Liu, C, and Zhang, J. A New Method for Multinomial Inference using Dempster-Shafer Theory. <i>Late Draft</i>
   </li>
     <li>
-          Hyman, J.D., Boampong, L., <b>Murph, A.C.</b>, Navarre-Sitchler, A., Srinivasan, G., Carey, J.W., Viswanathan, H.S. Determining the dominant factors for carbon mineralization in three-dimensional fracture networks. <i>Late Draft.</i>
+          Hyman, J.D., Boampong, L., <b>Murph, A.C.</b>, Navarre-Sitchler, A., Srinivasan, G., Carey, J.W., and Viswanathan, H.S. Determining the dominant factors for carbon mineralization in three-dimensional fracture networks. <i>Late Draft.</i>
+    </li>
+    <li>
+          Strait, J.D., Moran, K.R., <b>Murph, A.C.</b>, Hyman, J.D., and Stauffer, P. (202x) Covariate-Informed Multi-Fidelity Bias Correction of Distributions, <i>Late Draft.</i>
     </li>
   </ul>
 
