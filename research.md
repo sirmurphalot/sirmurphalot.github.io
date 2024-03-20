@@ -8,7 +8,7 @@ title: Alexander C Murph | Research
 <u>Accepted Manuscripts</u>:
 <ul>
   <li>
-        <b>Murph, A.C.</b>, Strait, J.D., Moran, K.R., Hyman, J.D., & Stauffer, P.H. (2024) Visualisation and Outlier Detection for Probability Density Function Ensembles, <i>Stat</i>, 13(2), e662.<br> <b>Links:</b> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/pdf_boxplots.pdf"><b>Manuscript.</b></a> <a id="raw-url" href="https://github.com/lanl/deboinr"><b>R Package.</b></a>
+        <b>Murph, A.C.</b>, Strait, J.D., Moran, K.R., Hyman, J.D., & Stauffer, P.H. (2024) Visualisation and Outlier Detection for Probability Density Function Ensembles, <i>Stat</i>, 13(2), e662.<br> <b>Links:</b> <a id="raw-url" href="https://onlinelibrary.wiley.com/doi/10.1002/sta4.662"><b>Manuscript.</b></a> <a id="raw-url" href="https://CRAN.R-project.org/package=DeBoinR"><b>CRAN Package.</b></a>
   </li>
   <li>
       Liu, Y., Hannig, J., and <b>Murph, A. C.</b> (2023). A Geometric Perspective on Bayesian and Generalized Fiducial Inference. <i>Accepted to Statistical Sciences.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2210.05462"><b>Manuscript.</b></a>
@@ -29,7 +29,7 @@ title: Alexander C Murph | Research
         <b>Murph, A. C.</b> Strait, J.D., Moran, K.R., Hyman, J.D., Viswanatha, H.S., and Stauffer, P.H. (202x).  Sensitivity Analysis in the Presence of Intrinsic Stochasticity for Discrete Fracture Network Simulations <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2312.04722"><b>Manuscript.</b></a>
   </li>
   <li>
-        <b>Murph, A.C.</b>, Storlie, C.B., Wilson, P.M., Williams, J.P., and Hannig, J. (202x).  Bayes Watch: Bayesian Change-point Detection for Process Monitoring with Fault Detection. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2310.02940"><b>Manuscript.</b></a> <a id="raw-url" href="https://cran.r-project.org/web/packages/bayesWatch/index.html"><b>CRAN Package.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IEEE_ICHI_2022_Poster.pdf"><b>Poster at ICHI IEEE 10.</b></a> 
+        <b>Murph, A.C.</b>, Storlie, C.B., Wilson, P.M., Williams, J.P., and Hannig, J. (202x).  Bayes Watch: Bayesian Change-point Detection for Process Monitoring with Fault Detection. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2310.02940"><b>Manuscript.</b></a> <a id="raw-url" href="https://CRAN.R-project.org/package=bayesWatch"><b>CRAN Package.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IEEE_ICHI_2022_Poster.pdf"><b>Poster at ICHI IEEE 10.</b></a> 
   </li>
   <li>
       <b>Murph, A.C.,</b> Gibson, G.C., VanDervort, L.B., Panda, N., Castro, L.A., Del Valle, S., and Osthus, D.A. (202x) Incorporating Incidence Peak and Time Data for SIR Forecasting Applications. <i>Late Draft.</i>
@@ -47,7 +47,7 @@ title: Alexander C Murph | Research
 <u>Manuscripts appearing in journals with a non-statistical focus</u>:
 <ul>
   <li>
-      <b>Murph, A. C.</b>, Flynt, A., King, B. R. (2021). Comparing finite sequences of discrete events with non-uniform time intervals, <i><a id="raw-url" href="https://www.tandfonline.com/doi/full/10.1080/07474946.2021.1940491">Sequential Analysis</a></i>,  40(3), 291-313.  <br> <b>Links:</b> <a id="raw-url" href=" https://github.com/cran/sawnuti"><b>Code Repository.</b></a> <a id="raw-url" href="https://cran.r-project.org/web/packages/sawnuti/sawnuti.pdf"><b>CRAN Package.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/SAWNUTI_poster_murph2021.pdf"><b>Poster.</b></a>
+      <b>Murph, A. C.</b>, Flynt, A., King, B. R. (2021). Comparing finite sequences of discrete events with non-uniform time intervals, <i><a id="raw-url" href="https://www.tandfonline.com/doi/full/10.1080/07474946.2021.1940491">Sequential Analysis</a></i>,  40(3), 291-313.  <br> <b>Links:</b> <a id="raw-url" href=" https://github.com/cran/sawnuti"><b>Code Repository.</b></a> <a id="raw-url" href="https://CRAN.R-project.org/package=sawnuti"><b>CRAN Package.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/SAWNUTI_poster_murph2021.pdf"><b>Poster.</b></a>
   </li>
   <li>
           Faden, E., Mitchel, A., <b>Murph, A.</b>, Myers, T., and Ryan, N. C. (2021). Mr. Hulot’s Invisible Gorilla, <i><a id="raw-url" href="https://doi.org/10.3167/proj.2021.150201%20">Projections</a></i>, 15(2), 1-29.  <br> <b>Links:</b> <a id="raw-url" href="https://github.com/sirmurphalot/VisualDisturbances"><b>Code Repository.</b></a>
