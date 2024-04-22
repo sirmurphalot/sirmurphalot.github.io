@@ -32,7 +32,7 @@ title: Alexander C Murph | Research
         <b>Murph, A.C.</b>, Storlie, C.B., Wilson, P.M., Williams, J.P., and Hannig, J. (202x).  Bayes Watch: Bayesian Change-point Detection for Process Monitoring with Fault Detection. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2310.02940"><b>Manuscript.</b></a> <a id="raw-url" href="https://CRAN.R-project.org/package=bayesWatch"><b>CRAN Package.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IEEE_ICHI_2022_Poster.pdf"><b>Poster at ICHI IEEE 10.</b></a> 
   </li>
   <li>
-      <b>Murph, A.C.,</b> Gibson, G.C., VanDervort, L.B., Panda, N., Castro, L.A., Del Valle, S., and Osthus, D.A. (202x) Incorporating Incidence Peak and Time Data for SIR Forecasting Applications. <i>Late Draft.</i>
+      <b>Murph, A.C.,</b> Gibson, G.C., VanDervort, L.B., Panda, N., Castro, L.A., Del Valle, S., and Osthus, D.A. (202x) Mapping Incidence and Prevalence Peak Data for SIR Forecasting Applications. <i>In review.</i>
   </li>
   <li>
       Lawrence, E.C., <b>Murph, A.C.</b>, Vander Wiel, S, Liu, C, and Zhang, J. (202x) A New Method for Multinomial Inference using Dempster-Shafer Theory. <i>Late Draft</i>
