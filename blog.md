@@ -288,6 +288,20 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   </a>
   <div class="desc">Another take on my carrot cake (this time at altitude).  My carrot cakes might be my personal favorite. </div>
 </div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/WeddingCake2.jpg">
+    <img src="assets/WeddingCake2.jpg" alt="Wedding Cake 2" width="400">
+  </a>
+  <div class="desc">Another wedding cake, this time for my sister. Stout cake with coffee swiss meringue buttercream and gum paste roses. </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/HermitCups.jpg">
+    <img src="assets/HermitCups.jpg" alt="Hermit Cups" width="400">
+  </a>
+  <div class="desc">My (winning!) submission to the TABLE Magazine amatuer baking competition. Deep molasses cookie soaked in rum with topped with lemon curd and whipped cream. </div>
+</div>
     
 </div>
 
