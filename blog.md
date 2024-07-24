@@ -300,7 +300,7 @@ My first year at Chapel Hill was pretty stressful; I found baking to be a relaxi
   <a target="_blank" href="assets/HermitCups.jpg">
     <img src="assets/HermitCups.jpg" alt="Hermit Cups" width="400">
   </a>
-  <div class="desc">My (winning!) submission to the TABLE Magazine amatuer baking competition. Deep molasses cookie soaked in rum with topped with lemon curd and whipped cream. </div>
+  <div class="desc">My (winning!) submission to the TABLE Magazine amatuer baking competition. Deep molasses cookies soaked in rum, topped with lemon curd and whipped cream. </div>
 </div>
     
 </div>
