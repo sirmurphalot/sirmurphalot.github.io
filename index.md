@@ -12,7 +12,7 @@ permalink:
     </div>
     <div class="contact">
         <font size="+2">Alexander C. Murph</font> <br>
-        Postdoc at Los Alamos National Lab<br>
+        Scientist at Los Alamos National Laboratory<br>
         Research Consultant at the Mayo Clinic<br>
         Santa Fe, NM <br>
         <a href="mailto:murph290@gmail.com"> <img src="{{site.url}}css/icons/gmail.jpg"  class="icon"> </a>
