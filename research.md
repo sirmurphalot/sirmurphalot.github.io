@@ -8,6 +8,9 @@ title: Alexander C Murph | Research
 <u>Accepted Manuscripts</u>:
 <ul>
   <li>
+        <b>Murph, A. C.</b> Strait, J.D., Moran, K.R., Hyman, J.D., Viswanatha, H.S., and Stauffer, P.H. (2024).  Sensitivity Analysis in the Presence of Intrinsic Stochasticity for Discrete Fracture Network Simulations <i>Journal of Geophysical Research: Machine Learning and Computation</i>, 1, e2023JH000113. <br> <b>Links:</b> <a id="raw-url" href="https://doi.org/10.1029/2023JH000113"><b>Manuscript.</b></a> <a id="raw-url" href="https://zenodo.org/records/12550308"> <b>Zenodo Repository.</b></a>
+  </li>
+  <li>
         <b>Murph, A.C.</b>, Strait, J.D., Moran, K.R., Hyman, J.D., & Stauffer, P.H. (2024) Visualisation and Outlier Detection for Probability Density Function Ensembles, <i>Stat</i>, 13(2), e662.<br> <b>Links:</b> <a id="raw-url" href="https://onlinelibrary.wiley.com/doi/10.1002/sta4.662"><b>Manuscript.</b></a> <a id="raw-url" href="https://CRAN.R-project.org/package=DeBoinR"><b>CRAN Package.</b></a>
   </li>
   <li>
@@ -24,9 +27,6 @@ title: Alexander C Murph | Research
 <ul>
  <li>
       <b>Murph, A. C.</b>, Hannig, J., and Williams, J. P. (202x). Generalized Fiducial Inference on Differentiable Manifolds. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2209.15473"><b>Manuscript.</b></a> <a id="raw-url" href="https://github.com/sirmurphalot/GFI_onManifolds"> <b>Code Repository.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/BFF_poster_2022.pdf"><b>Poster.</b></a> 
-  </li>
-  <li>
-        <b>Murph, A. C.</b> Strait, J.D., Moran, K.R., Hyman, J.D., Viswanatha, H.S., and Stauffer, P.H. (202x).  Sensitivity Analysis in the Presence of Intrinsic Stochasticity for Discrete Fracture Network Simulations <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2312.04722"><b>Manuscript.</b></a> <a id="raw-url" href="https://github.com/lanl/sa_for_dfns"> <b>Code Repository.</b></a>
   </li>
   <li>
         <b>Murph, A.C.</b>, Storlie, C.B., Wilson, P.M., Williams, J.P., and Hannig, J. (202x).  Bayes Watch: Bayesian Change-point Detection for Process Monitoring with Fault Detection. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2310.02940"><b>Manuscript.</b></a> <a id="raw-url" href="https://CRAN.R-project.org/package=bayesWatch"><b>CRAN Package.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IEEE_ICHI_2022_Poster.pdf"><b>Poster at ICHI IEEE 10.</b></a> 
