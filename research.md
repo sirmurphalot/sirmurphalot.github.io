@@ -47,7 +47,7 @@ title: Alexander C Murph | Research
           Strait, J.D., Moran, K.R., <b>Murph, A.C.</b>, Hyman, J.D., and Stauffer, P. (202x) Covariate-Informed Multi-Fidelity Bias Correction of Distributions, <i>In Review.</i>
     </li>
  <li>
-      <b>Murph, A. C.</b>, Beesley, L., Gibson, G.C., Castro, L.A., Del Valle, S., and Osthus, D. (202x). EpiFFORMA: Disease-Agnostic Ensemble Weighting for Forecasting Emerging Epidemic Time Series without Historical Data. <i>In review.</i> <br> 
+      <b>Murph, A. C.</b>, Beesley, L., Gibson, G.C., Castro, L.A., Del Valle, S., and Osthus, D. (202x). EpiFFORMA: Disease-Agnostic Ensemble Weighting for Forecasting Emerging Epidemic Time Series without Historical Data. <i>Late Draft.</i> <br> 
   </li>
 </ul>
 <u>Manuscripts appearing in journals with a non-statistical focus</u>:
