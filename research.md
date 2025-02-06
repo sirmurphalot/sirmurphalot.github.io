@@ -69,17 +69,20 @@ title: Alexander C Murph | Research
 
 <h3><i>Conference Presentations</i></h3>
 <ul>
-  <li>
-      <i>Uncertainty Quantification in the Presence of Intrinsic Stochasticity for Multifidelity Discrete Fracture Network Simulations. </i>  Given at SIAM Conference on Uncertainty Quantification (2024) in Trieste, Italy. <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_ppresentations/siam_UQ24_murph.pdf"><b>Presentation Slides.</b></a>
+ <li>
+      <i>EpiFFORMA: Ensemble Weighting for Forecasting Emerging Epidemic Time Series without Historical Data. </i>  Given at Joint Mathematics Meetings (2025) in Seattle, WA. <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_presentations/murph_JMM_2025.pdf"><b>Presentation Slides.</b></a>
   </li>
   <li>
-      <i>Bayesian Change Point Detection for Mixed Data ith Missing Values. </i>  Given at IEEE International Conference on Healthcare Informatics 10 (2022) in Rochester, MN. <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_ppresentations/IEEE_ICHI_2022_Poster.pdf"><b>Poster.</b></a>
+      <i>Uncertainty Quantification in the Presence of Intrinsic Stochasticity for Multifidelity Discrete Fracture Network Simulations. </i>  Given at SIAM Conference on Uncertainty Quantification (2024) in Trieste, Italy. <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_presentations/siam_UQ24_murph.pdf"><b>Presentation Slides.</b></a>
   </li>
   <li>
-      <i>Generalized Fiducial Inference on Riemannian Manifolds.</i>  Given at Bayesian, Fiducial, & Frequentist 7 (2022) in Toronto, Canada. <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_ppresentations/BFF_poster_2022.pdf"><b>Poster.</b></a>
+      <i>Bayesian Change Point Detection for Mixed Data ith Missing Values. </i>  Given at IEEE International Conference on Healthcare Informatics 10 (2022) in Rochester, MN. <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_presentations/IEEE_ICHI_2022_Poster.pdf"><b>Poster.</b></a>
   </li>
   <li>
-      <i>Comparing Finite Sequences of Discrete Events with Non-uniform Time Intervals. </i> Given at The Classification Society Annual Meeting (2021) in Lewisburg, PA. <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_ppresentations/SAWNUTI_poster_murph2021.pdf"><b>Poster.</b></a>
+      <i>Generalized Fiducial Inference on Riemannian Manifolds.</i>  Given at Bayesian, Fiducial, & Frequentist 7 (2022) in Toronto, Canada. <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_presentations/BFF_poster_2022.pdf"><b>Poster.</b></a>
+  </li>
+  <li>
+      <i>Comparing Finite Sequences of Discrete Events with Non-uniform Time Intervals. </i> Given at The Classification Society Annual Meeting (2021) in Lewisburg, PA. <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_presentations/SAWNUTI_poster_murph2021.pdf"><b>Poster.</b></a>
   </li>
 </ul>
 
