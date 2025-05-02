@@ -17,7 +17,7 @@ title: Alexander C Murph | Research
         <b class="emerald-text">A.C. Murph</b>, J.D. Strait, K.R. Moran, J.D. Hyman, H.S. Viswanatha, and P.H. Stauffer (2024).  Sensitivity Analysis in the Presence of Intrinsic Stochasticity for Discrete Fracture Network Simulations, <i>Journal of Geophysical Research: Machine Learning and Computation</i>, 1, e2023JH000113. <br> <b>Links:</b> <a id="raw-url" href="https://doi.org/10.1029/2023JH000113"><b>Manuscript.</b></a> <a id="raw-url" href="https://zenodo.org/records/12550308"> <b>Zenodo Repository.</b></a>
   </li>
   <li>
-        <b class="emerald-text">A.C. Murph</b>, J.D. Strait, K.R. Moran, J.D. Hyman, & P.H. Stauffer (2024) Visualisation and Outlier Detection for Probability Density Function Ensembles, <i>Stat</i>, 13(2), e662.<br> <b>Links:</b> <a id="raw-url" href="https://onlinelibrary.wiley.com/doi/10.1002/sta4.662"><b>Manuscript.</b></a> <a id="raw-url" href="https://CRAN.R-project.org/package=DeBoinR"><b>CRAN Package.</b></a>
+        <b class="emerald-text">A.C. Murph</b>, J.D. Strait, K.R. Moran, J.D. Hyman, & P.H. Stauffer (2024). Visualisation and Outlier Detection for Probability Density Function Ensembles, <i>Stat</i>, 13(2), e662.<br> <b>Links:</b> <a id="raw-url" href="https://onlinelibrary.wiley.com/doi/10.1002/sta4.662"><b>Manuscript.</b></a> <a id="raw-url" href="https://CRAN.R-project.org/package=DeBoinR"><b>CRAN Package.</b></a>
   </li>
   <li>
       Y. Liu, J. Hannig, and <b class="emerald-text">A.C. Murph</b> (2023). A Geometric Perspective on Bayesian and Generalized Fiducial Inference. <i>Accepted to Statistical Sciences.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2210.05462"><b>Manuscript.</b></a>
