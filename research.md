@@ -14,7 +14,7 @@ title: Alexander C Murph | Research
 <u>Accepted Manuscripts</u>:
 <ol reversed>
   <li>
-        <p class="emerald-text">A.C. Murph</p>, J.D. Strait, K.R. Moran, J.D. Hyman, H.S. Viswanatha, and P.H. Stauffer (2024).  Sensitivity Analysis in the Presence of Intrinsic Stochasticity for Discrete Fracture Network Simulations, <i>Journal of Geophysical Research: Machine Learning and Computation</i>, 1, e2023JH000113. <br> <b>Links:</b> <a id="raw-url" href="https://doi.org/10.1029/2023JH000113"><b>Manuscript.</b></a> <a id="raw-url" href="https://zenodo.org/records/12550308"> <b>Zenodo Repository.</b></a>
+        <b class="emerald-text">A.C. Murph</b>, J.D. Strait, K.R. Moran, J.D. Hyman, H.S. Viswanatha, and P.H. Stauffer (2024).  Sensitivity Analysis in the Presence of Intrinsic Stochasticity for Discrete Fracture Network Simulations, <i>Journal of Geophysical Research: Machine Learning and Computation</i>, 1, e2023JH000113. <br> <b>Links:</b> <a id="raw-url" href="https://doi.org/10.1029/2023JH000113"><b>Manuscript.</b></a> <a id="raw-url" href="https://zenodo.org/records/12550308"> <b>Zenodo Repository.</b></a>
   </li>
   <li>
         <b>A.C. Murph</b>, J.D. Strait, K.R. Moran, J.D. Hyman, & P.H. Stauffer (2024) Visualisation and Outlier Detection for Probability Density Function Ensembles, <i>Stat</i>, 13(2), e662.<br> <b>Links:</b> <a id="raw-url" href="https://onlinelibrary.wiley.com/doi/10.1002/sta4.662"><b>Manuscript.</b></a> <a id="raw-url" href="https://CRAN.R-project.org/package=DeBoinR"><b>CRAN Package.</b></a>
