@@ -14,7 +14,7 @@ title: Alexander C Murph | Research
 <u>Accepted Manuscripts</u>:
 <ol reversed>
   <li>
-      Y. Liu, J. Hannig, and <b class="emerald-text">A.C. Murph</b> (2025). A Geometric Perspective on Bayesian and Generalized Fiducial Inference. <i>Accepted to Statistical Sciences.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2210.05462"><b>Manuscript.</b></a>
+      Y. Liu, J. Hannig, and <b class="emerald-text">A.C. Murph</b> (2025). A Geometric Perspective on Bayesian and Generalized Fiducial Inference. <i>Statistical Sciences</i>, 40(2), p. 219-234 <br> <b>Links:</b> <a id="raw-url" href="https://projecteuclid.org/journals/statistical-science/volume-40/issue-2/A-Geometric-Perspective-on-Bayesian-and-Generalized-Fiducial-Inference/10.1214/24-STS928.full"><b>Manuscript.</b></a>
   </li>
   <li>
       J.D. Strait, K.R. Moran, <b class="emerald-text">A.C. Murph</b>, J.D. Hyman, H.S. Viswanathan, and P. Stauffer (2025). Covariate-informed multi-fidelity bias correction of distributions, <i>Accepted to SIAM/ASA Journal on Uncertainty Quantification.</i>
