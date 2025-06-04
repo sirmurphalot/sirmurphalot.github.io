@@ -14,25 +14,28 @@ title: Alexander C Murph | Research
 <u>Accepted Manuscripts</u>:
 <ol reversed>
   <li>
-        <b class="emerald-text">A.C. Murph</b>, J.D. Strait, K.R. Moran, J.D. Hyman, H.S. Viswanatha, and P.H. Stauffer (2024).  Sensitivity Analysis in the Presence of Intrinsic Stochasticity for Discrete Fracture Network Simulations, <i>Journal of Geophysical Research: Machine Learning and Computation</i>, 1, e2023JH000113. <br> <b>Links:</b> <a id="raw-url" href="https://doi.org/10.1029/2023JH000113"><b>Manuscript.</b></a> <a id="raw-url" href="https://zenodo.org/records/12550308"> <b>Zenodo Repository.</b></a>
+      Y. Liu, J. Hannig, and <b class="emerald-text">A.C. Murph</b> (2025). A Geometric Perspective on Bayesian and Generalized Fiducial Inference. <i>Accepted to Statistical Sciences.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2210.05462"><b>Manuscript.</b></a>
   </li>
   <li>
-        <b class="emerald-text">A.C. Murph</b>, J.D. Strait, K.R. Moran, J.D. Hyman, & P.H. Stauffer (2024). Visualisation and Outlier Detection for Probability Density Function Ensembles, <i>Stat</i>, 13(2), e662.<br> <b>Links:</b> <a id="raw-url" href="https://onlinelibrary.wiley.com/doi/10.1002/sta4.662"><b>Manuscript.</b></a> <a id="raw-url" href="https://CRAN.R-project.org/package=DeBoinR"><b>CRAN Package.</b></a>
-  </li>
-  <li>
-      Y. Liu, J. Hannig, and <b class="emerald-text">A.C. Murph</b> (2023). A Geometric Perspective on Bayesian and Generalized Fiducial Inference. <i>Accepted to Statistical Sciences.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2210.05462"><b>Manuscript.</b></a>
+      J.D. Strait, K.R. Moran, <b class="emerald-text">A.C. Murph</b>, J.D. Hyman, H.S. Viswanathan, and P. Stauffer (2025). Covariate-informed multi-fidelity bias correction of distributions, <i>Accepted to SIAM/ASA Journal on Uncertainty Quantification.</i>
   </li>
     <li>
           J.D. Hyman, <b class="emerald-text">A.C. Murph</b>, L. Boampong, A. Navarre-Sitchler, G. Srinivasan, J.W. Carey, and H.S. Viswanathan (2024). Determining the dominant factors for carbon mineralization in three-dimensional fracture networks, <i>International Journal of Greenhouse Gas Control</i>, 139, p. 104265, ISSN: 1750-5836. <b>Links:</b> <a id="raw-url" href="https://www.sciencedirect.com/science/article/abs/pii/S1750583624002081?via%3Dihub"><b>Manuscript.</b></a>
     </li>
+   <li>
+        <b class="emerald-text">A.C. Murph</b>, J.D. Strait, K.R. Moran, J.D. Hyman, H.S. Viswanatha, and P.H. Stauffer (2024).  Sensitivity Analysis in the Presence of Intrinsic Stochasticity for Discrete Fracture Network Simulations, <i>Journal of Geophysical Research: Machine Learning and Computation</i>, 1, e2023JH000113. <br> <b>Links:</b> <a id="raw-url" href="https://doi.org/10.1029/2023JH000113"><b>Manuscript.</b></a> <a id="raw-url" href="https://zenodo.org/records/12550308"> <b>Zenodo Repository.</b></a>
+  </li>
+<li>
+        <b class="emerald-text">A.C. Murph</b>, J.D. Strait, K.R. Moran, J.D. Hyman, and P.H. Stauffer (2024).  Visualisation and outlier detection for probability density function ensembles, <i>Stat</i>, 13(2), e662. <br> <b>Links:</b> <a id="raw-url" href="https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.662"><b>Manuscript.</b></a> <a id="raw-url" href="https://CRAN.R-project.org/package=DeBoinR"> <b>CRAN Package.</b></a>
+  </li>
   <li>
       <b class="emerald-text">A.C. Murph</b>, J. Hannig, and J.P. Williams (2021). Introduction to Generalized Fiducial Inference. In J. Berger, X. Meng, N. Reid, & M. Xie (Eds.) <i>Handbook of Bayesian, Fiducial, and Frequentist Inference</i> (Ch. 13).  Chapman & Hall.  <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2302.14598"><b>Manuscript.</b></a> <a id="raw-url" href="https://github.com/sirmurphalot/IntroductionGFI"><b>Code Repository.</b></a>
   </li>
+   <li>
+ E. Faden, A. Mitchel, <b class="emerald-text">A.C. Murph</b>, T. Myers, and N.C. Ryan (2021). Mr. Hulot’s Invisible Gorilla, <i><a id="raw-url" href="https://doi.org/10.3167/proj.2021.150201%20">Projections</a></i>, 15(2), 1-29.  <br> <b>Links:</b> <a id="raw-url" href="https://github.com/sirmurphalot/VisualDisturbances"><b>Code Repository.</b></a>
+  </li>
     <li>
       <b class="emerald-text">A.C. Murph</b>, A. Flynt, B.R. King (2021). Comparing finite sequences of discrete events with non-uniform time intervals, <i><a id="raw-url" href="https://www.tandfonline.com/doi/full/10.1080/07474946.2021.1940491">Sequential Analysis</a></i>,  40(3), 291-313.  <br> <b>Links:</b> <a id="raw-url" href=" https://github.com/cran/sawnuti"><b>Code Repository.</b></a> <a id="raw-url" href="https://CRAN.R-project.org/package=sawnuti"><b>CRAN Package.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/SAWNUTI_poster_murph2021.pdf"><b>Poster.</b></a>
-  </li>
-  <li>
-          E. Faden, A. Mitchel, <b class="emerald-text">A.C. Murph</b>, T. Myers, and N.C. Ryan (2021). Mr. Hulot’s Invisible Gorilla, <i><a id="raw-url" href="https://doi.org/10.3167/proj.2021.150201%20">Projections</a></i>, 15(2), 1-29.  <br> <b>Links:</b> <a id="raw-url" href="https://github.com/sirmurphalot/VisualDisturbances"><b>Code Repository.</b></a>
   </li>
     </ol>
 <u>Manuscripts in review/preparation</u>:
