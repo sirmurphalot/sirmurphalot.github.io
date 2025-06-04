@@ -55,9 +55,6 @@ title: Alexander C Murph | Research
   <li>
       E.C. Lawrence, <b class="emerald-text">A.C. Murph</b>, S. Vander Wiel, and J. Zhang (202x) A New Method for Multinomial Inference using Dempster-Shafer Theory. <i>In Review</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/pdf/2410.05512"><b>Manuscript.</b></a>
   </li>
-    <li>
-          J.D. Strait, K.R. Moran, <b class="emerald-text">A.C. Murph</b>, J.D. Hyman, and P. Stauffer, P. (202x) Covariate-Informed Multi-Fidelity Bias Correction of Distributions, <i>In Review.</i>
-    </li>
  <li>
       <b class="emerald-text">A.C. Murph</b>, L.J. Beesley, G.C. Gibson, L.A. Castro, S. Del Valle, and D. Osthus (202x). EpiFFORMA: Disease-Agnostic Ensemble Weighting for Forecasting Emerging Epidemic Time Series without Historical Data. <i>Late Draft.</i> <br> 
   </li>
