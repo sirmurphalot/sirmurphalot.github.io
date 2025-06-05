@@ -13,6 +13,9 @@ title: Alexander C Murph | Research
 <h3><i>Publications</i></h3>
 <u>Accepted Manuscripts</u>:
 <ol reversed>
+ <li>
+      <b class="emerald-text">A.C. Murph</b>, G.C. Gibson, E.B. Amona, L.J. Beesley, L.A. Castro, S. Del Valle, and D. Osthus (202x). Synthetic Method of Analogues for Emerging Infectious Disease Forecasting. <i>Accepted to PLOS Computational Biology.</i> <br> 
+  </li>
   <li>
       Y. Liu, J. Hannig, and <b class="emerald-text">A.C. Murph</b> (2025). A Geometric Perspective on Bayesian and Generalized Fiducial Inference. <i>Statistical Sciences</i>, 40(2), p. 219-234 <br> <b>Links:</b> <a id="raw-url" href="https://projecteuclid.org/journals/statistical-science/volume-40/issue-2/A-Geometric-Perspective-on-Bayesian-and-Generalized-Fiducial-Inference/10.1214/24-STS928.full"><b>Manuscript.</b></a>
   </li>
@@ -40,9 +43,6 @@ title: Alexander C Murph | Research
     </ol>
 <u>Manuscripts in review/preparation</u>:
 <ul>
- <li>
-      <b class="emerald-text">A.C. Murph</b>, G.C. Gibson, E.B. Amona, L.J. Beesley, L.A. Castro, S. Del Valle, and D. Osthus (202x). Synthetic Method of Analogues for Emerging Infectious Disease Forecasting. <i>In review.</i> <br> 
-  </li>
  <li>
       <b class="emerald-text">A.C. Murph</b>, J. Hannig, and J.P. Williams (202x). Generalized Fiducial Inference on Differentiable Manifolds. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2209.15473"><b>Manuscript.</b></a> <a id="raw-url" href="https://github.com/sirmurphalot/GFI_onManifolds"> <b>Code Repository.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/BFF_poster_2022.pdf"><b>Poster.</b></a> 
   </li>
