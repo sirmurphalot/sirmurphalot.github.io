@@ -14,7 +14,7 @@ title: Alexander C Murph | Research
 <u>Accepted Manuscripts</u>:
 <ol reversed>
  <li>
-      <b class="emerald-text">A.C. Murph</b>, G.C. Gibson, E.B. Amona, L.J. Beesley, L.A. Castro, S. Del Valle, and D. Osthus (202x). Synthetic Method of Analogues for Emerging Infectious Disease Forecasting. <i>Accepted to PLOS Computational Biology.</i> <br> 
+      <b class="emerald-text">A.C. Murph</b>, G.C. Gibson, E.B. Amona, L.J. Beesley, L.A. Castro, S. Del Valle, and D. Osthus (202x). Synthetic Method of Analogues for Emerging Infectious Disease Forecasting. <i>PLOS Computational Biology</i>, 21(6), e1013203. <br> <b>Links:</b> <a id="raw-url" href="https://doi.org/10.1371/journal.pcbi.1013203"><b>Manuscript.</b></a> <a id="raw-url" href="https://github.com/lanl/precog/tree/main/smoa"> <b>Code Repository.</b></a> 
   </li>
   <li>
       Y. Liu, J. Hannig, and <b class="emerald-text">A.C. Murph</b> (2025). A Geometric Perspective on Bayesian and Generalized Fiducial Inference. <i>Statistical Sciences</i>, 40(2), p. 219-234 <br> <b>Links:</b> <a id="raw-url" href="https://projecteuclid.org/journals/statistical-science/volume-40/issue-2/A-Geometric-Perspective-on-Bayesian-and-Generalized-Fiducial-Inference/10.1214/24-STS928.full"><b>Manuscript.</b></a>
