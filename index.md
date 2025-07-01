@@ -30,7 +30,7 @@ permalink:
     <h3>Research Interests</h3>
     I develop novel fiducial approaches to classical inferential problems and illustrate the usefulness in context to current methods.  I am broadly interested in the intersection between classical Geometry and modern Statistics, especially from the fiducial perspective.  My research often also involves Gaussian Graphical Models (GGMs); under this wide umbrella, I am currently engaged in projects that are both purely theoretical and applied.  My applied work on GGMs is with the Mayo Clinic and involves detecting drift or abrupt changes to data. <br>
     <br>
-    My work has recently taken a shift more towards the applied with my position at Los Alamos National Lab.  I have taken an interest in heteroskedastic sensitivity analyses for large-scale gas transport simulations through underground discrete fracture networks.  I have also begun working with a team of disease forcasting researchers hoping to better prepare for the <i>next</i> pandemic.
+    My work has recently taken a shift more towards the applied with my position at Los Alamos National Lab.  I have taken an interest in heteroskedastic sensitivity analyses for large-scale gas transport simulations through underground discrete fracture networks, I've joined a team of disease forecasting researchers hoping to better prepare for the <i>next</i> pandemic, and I've recently begun studying statistics applications in space weather events.
     </p>
 <!--
 <p>
