@@ -14,6 +14,9 @@ title: Alexander C Murph | Research
 <u>Accepted Manuscripts</u>:
 <ol reversed>
  <li>
+      <b class="emerald-text">A.C. Murph</b>, G.C. Gibson, L.J. Beesley, L.A. Castro, S.Y. Del Valle, C.A. Manore Valle, and D. Osthus (2025). Mapping incidence and prevalence peak data for SIR forecasting applications. <i>Journal of Mathematical Biology</i>, 91(70) <br> <b>Links:</b> <a id="raw-url" href="https://doi.org/10.1007/s00285-025-02299-6"><b>Manuscript.</b></a> <a id="raw-url" href="https://github.com/lanl/precog"> <b>Code Repository.</b></a> 
+  </li>
+ <li>
       <b class="emerald-text">A.C. Murph</b>, G.C. Gibson, E.B. Amona, L.J. Beesley, L.A. Castro, S. Del Valle, and D. Osthus (2025). Synthetic Method of Analogues for Emerging Infectious Disease Forecasting. <i>PLOS Computational Biology</i>, 21(6), e1013203. <br> <b>Links:</b> <a id="raw-url" href="https://doi.org/10.1371/journal.pcbi.1013203"><b>Manuscript.</b></a> <a id="raw-url" href="https://github.com/lanl/precog/tree/main/smoa"> <b>Code Repository.</b></a> 
   </li>
   <li>
