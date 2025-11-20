@@ -14,6 +14,9 @@ title: Alexander C Murph | Research
 <u>Accepted Manuscripts</u>:
 <ol reversed>
  <li>
+      <b class="emerald-text">A.C. Murph</b>, M.F. Dorn, S. Bhat, A. Nachtsheim, K.J. Kuhn, A.C. Olson, S.M. Andrade, and L. Tandon (2025). Unique and challenging aspects of plutonium metal standards exchange program for actinide measurements. <i>Journal of Radioanalytical and Nuclear Chemistry.</i><br> <b>Links:</b> <a id="raw-url" href="https://doi.org/10.1007/s10967-025-10564-7"><b>Manuscript.</b></a> 
+  </li>
+ <li>
       <b class="emerald-text">A.C. Murph</b>, G.C. Gibson, L.J. Beesley, L.A. Castro, S.Y. Del Valle, C.A. Manore Valle, and D. Osthus (2025). Mapping incidence and prevalence peak data for SIR forecasting applications. <i>Journal of Mathematical Biology</i>, 91(70) <br> <b>Links:</b> <a id="raw-url" href="https://doi.org/10.1007/s00285-025-02299-6"><b>Manuscript.</b></a> <a id="raw-url" href="https://github.com/lanl/precog"> <b>Code Repository.</b></a> 
   </li>
  <li>
@@ -51,9 +54,6 @@ title: Alexander C Murph | Research
   </li>
   <li>
         <b class="emerald-text">A.C. Murph</b>, C.B. Storlie, P.M. Wilson, J.P. Williams, and J. Hannig (202x).  Bayes Watch: Bayesian Change-point Detection for Process Monitoring with Fault Detection. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2310.02940"><b>Manuscript.</b></a> <a id="raw-url" href="https://CRAN.R-project.org/package=bayesWatch"><b>CRAN Package.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IEEE_ICHI_2022_Poster.pdf"><b>Poster at ICHI IEEE 10.</b></a> 
-  </li>
-  <li>
-      <b class="emerald-text">A.C. Murph</b>, G.C. Gibson, L.J. Beesley, N. Panda, L.A. Castro, S. Del Valle, and D. Osthus (202x) Mapping Incidence and Prevalence Peak Data for SIR Forecasting Applications. <i>In review.</i> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2404.15572"><b>Manuscript.</b></a>
   </li>
   <li>
       E.C. Lawrence, <b class="emerald-text">A.C. Murph</b>, S. Vander Wiel, and J. Zhang (202x) A New Method for Multinomial Inference using Dempster-Shafer Theory. <i>In Review</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/pdf/2410.05512"><b>Manuscript.</b></a>
