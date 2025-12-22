@@ -14,6 +14,12 @@ title: Alexander C Murph | Research
 <u>Accepted Manuscripts</u>:
 <ol reversed>
  <li>
+      <b class="emerald-text">A.C. Murph</b>, J. Hannig, and J.P. Williams (2025). Generalized Fiducial Inference on Differentiable Manifolds. <i>International Journal of Approximate Reasoning,</i>  p.109618, ISSN 0888-613X<br> <b>Links:</b> <a id="raw-url" href="https://doi.org/10.1016/j.ijar.2025.109618"><b>Manuscript.</b></a> <a id="raw-url" href="https://github.com/sirmurphalot/GFI_onManifolds"> <b>Code Repository.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/BFF_poster_2022.pdf"><b>Poster.</b></a> 
+  </li>
+ <li>
+      <b class="emerald-text">A.C. Murph</b>, M.F. Dorn, S. Bhat, A. Nachtsheim, K.J. Kuhn, A.C. Olson, S.M. Andrade, and L. Tandon (2025). Unique and challenging aspects of plutonium metal standards exchange program for actinide measurements. <i>Journal of Radioanalytical and Nuclear Chemistry.</i><br> <b>Links:</b> <a id="raw-url" href="https://doi.org/10.1007/s10967-025-10564-7"><b>Manuscript.</b></a> 
+  </li>
+ <li>
       <b class="emerald-text">A.C. Murph</b>, M.F. Dorn, S. Bhat, A. Nachtsheim, K.J. Kuhn, A.C. Olson, S.M. Andrade, and L. Tandon (2025). Unique and challenging aspects of plutonium metal standards exchange program for actinide measurements. <i>Journal of Radioanalytical and Nuclear Chemistry.</i><br> <b>Links:</b> <a id="raw-url" href="https://doi.org/10.1007/s10967-025-10564-7"><b>Manuscript.</b></a> 
   </li>
  <li>
@@ -49,10 +55,7 @@ title: Alexander C Murph | Research
     </ol>
 <u>Manuscripts in review/preparation</u>:
 <ul>
- <li>
-      <b class="emerald-text">A.C. Murph</b>, J. Hannig, and J.P. Williams (202x). Generalized Fiducial Inference on Differentiable Manifolds. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2209.15473"><b>Manuscript.</b></a> <a id="raw-url" href="https://github.com/sirmurphalot/GFI_onManifolds"> <b>Code Repository.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/BFF_poster_2022.pdf"><b>Poster.</b></a> 
-  </li>
-  <li>
+<li>
         <b class="emerald-text">A.C. Murph</b>, C.B. Storlie, P.M. Wilson, J.P. Williams, and J. Hannig (202x).  Bayes Watch: Bayesian Change-point Detection for Process Monitoring with Fault Detection. <i>In review.</i> <br> <b>Links:</b> <a id="raw-url" href="https://arxiv.org/abs/2310.02940"><b>Manuscript.</b></a> <a id="raw-url" href="https://CRAN.R-project.org/package=bayesWatch"><b>CRAN Package.</b></a> <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/_papers/IEEE_ICHI_2022_Poster.pdf"><b>Poster at ICHI IEEE 10.</b></a> 
   </li>
   <li>
