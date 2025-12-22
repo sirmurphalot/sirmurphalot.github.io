@@ -20,9 +20,6 @@ title: Alexander C Murph | Research
       <b class="emerald-text">A.C. Murph</b>, M.F. Dorn, S. Bhat, A. Nachtsheim, K.J. Kuhn, A.C. Olson, S.M. Andrade, and L. Tandon (2025). Unique and challenging aspects of plutonium metal standards exchange program for actinide measurements. <i>Journal of Radioanalytical and Nuclear Chemistry.</i><br> <b>Links:</b> <a id="raw-url" href="https://doi.org/10.1007/s10967-025-10564-7"><b>Manuscript.</b></a> 
   </li>
  <li>
-      <b class="emerald-text">A.C. Murph</b>, M.F. Dorn, S. Bhat, A. Nachtsheim, K.J. Kuhn, A.C. Olson, S.M. Andrade, and L. Tandon (2025). Unique and challenging aspects of plutonium metal standards exchange program for actinide measurements. <i>Journal of Radioanalytical and Nuclear Chemistry.</i><br> <b>Links:</b> <a id="raw-url" href="https://doi.org/10.1007/s10967-025-10564-7"><b>Manuscript.</b></a> 
-  </li>
- <li>
       <b class="emerald-text">A.C. Murph</b>, G.C. Gibson, L.J. Beesley, L.A. Castro, S.Y. Del Valle, C.A. Manore Valle, and D. Osthus (2025). Mapping incidence and prevalence peak data for SIR forecasting applications. <i>Journal of Mathematical Biology</i>, 91(70) <br> <b>Links:</b> <a id="raw-url" href="https://doi.org/10.1007/s00285-025-02299-6"><b>Manuscript.</b></a> <a id="raw-url" href="https://github.com/lanl/precog"> <b>Code Repository.</b></a> 
   </li>
  <li>
