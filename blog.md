@@ -332,56 +332,94 @@ title: Alexander C Murph | Blog
 
 <h3>Personal Projects and Media (click images)</h3>
 
-<div class="grid-container">
-  <div class="grid-item">
+<style>
+  .projects-grid{
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 16px;
+    padding: 10px 0;
+    align-items:start;
+  }
+  .project-card{
+    border:1px solid #ddd;
+    border-radius:8px;
+    overflow:hidden;
+    background:#fff;
+    text-align:left;
+  }
+  .project-card a{
+    display:block;
+  }
+  .project-card img{
+    width:100%;
+    height:auto;
+    display:block;
+  }
+  .project-body{
+    padding: 12px 14px;
+    font-size:14px;
+    line-height:1.35;
+  }
+  .project-title{
+    font-style: italic;
+    display:block;
+    margin-bottom:6px;
+  }
+</style>
+
+<div class="projects-grid">
+
+  <div class="project-card">
     <a id="raw-url" href="https://raw.githubusercontent.com/sirmurphalot/sirmurphalot.github.io/master/assets/PokemonOrangeAndBlue.jar">
-      <img src="https://sirmurphalot.github.io/assets/GreatBall.png" alt="Pokemon Orange & Blue"
-           loading="lazy" decoding="async" width="140" height="140">
+      <img src="https://sirmurphalot.github.io/assets/GreatBall.png"
+           alt="Pokémon Orange & Blue"
+           loading="lazy" decoding="async" width="600" height="600">
     </a>
+    <div class="project-body">
+      <span class="project-title">Pokémon Orange &amp; Blue</span>
+      is a version of the Pokémon games themed around my undergraduate university: Bucknell. It is written in Java and was created by myself and three good friends of mine. As we are all avid fans of Pokémon, our goal was to create something that looked and felt like one of the original games. Among other things, this project was an exercise in the Agile Scrum methodology. The Pokéball links to a .jar file of the game, which requires an updated version of Java to run.
+    </div>
   </div>
 
-  <div class="grid-item">
+  <div class="project-card">
     <a href="http://antiguamills.bucknell.edu">
-      <img src="https://sirmurphalot.github.io/assets/AntiguaMap.png" alt="Antigua Mills Map"
-           loading="lazy" decoding="async" width="110" height="140">
+      <img src="https://sirmurphalot.github.io/assets/AntiguaMap.png"
+           alt="Antigua Mills interactive map"
+           loading="lazy" decoding="async" width="600" height="780">
     </a>
+    <div class="project-body">
+      <span class="project-title">Antigua Mills Map</span>
+      I worked on a software team with three other coders on a project commissioned by Bucknell's Griot Institute (for Africana Studies) to help create an interactive map to creatively display the history of the sugar mills of Antigua. This was done using an agile/scrum methodology and relied heavily on the previous expertise of our team members. The main vision of this project was to provide a visually pleasing way to present the history of the African Diaspora in Antigua.
+    </div>
   </div>
 
-  <div class="grid-item">
+  <div class="project-card">
     <a href="http://videographicessay.org/works/videographic-essay/visual-disturbances">
-      <img src="https://sirmurphalot.github.io/assets/Tati.png" alt="Visual Disturbances"
-           loading="lazy" decoding="async" width="110" height="140">
+      <img src="https://sirmurphalot.github.io/assets/Tati.png"
+           alt="Visual Disturbances"
+           loading="lazy" decoding="async" width="600" height="760">
     </a>
+    <div class="project-body">
+      <span class="project-title">Visual Disturbances</span>
+      was an interdisciplinary project amongst people in Mathematics, Computer Science, Psychology, and Film &amp; Media Studies. I was in charge of the data analysis and visualizations for this project and provided major contributions to the upcoming paper (see publications).
+    </div>
   </div>
 
-  <div class="grid-item">
-    <i>Pokémon Orange & Blue</i> is a version of the Pokémon games themed around my undergraduate university: Bucknell. It is written in Java and was created by myself and three good friends of mine. As we are all avid fans of Pokémon, our goal was to create something that looked and felt like one of the original games. Among other things, this project was an exercise in the Agile Scrum methodology. The Pokéball links to a .jar file of the game, which requires an updated version of Java to run.
-  </div>
-
-  <div class="grid-item">
-    I worked on a software team with three other coders on a project commissioned by Bucknell's Griot Institute (for Africana Studies) to help create an interactive map to creatively display the history of the sugar mills of Antigua. This was done using an agile/scrum methodology and relied heavily on the previous expertise of our team members. The main vision of this project was to provide a visually pleasing way to present the history of the African Diaspora in Antigua.
-  </div>
-
-  <div class="grid-item">
-    <i>Visual Disturbances</i> was an interdisciplinary project amongst people in the Mathematics, Computer Science, Psychology, and Film & Media Studies fields. I was in charge of the data analysis and visualizations for this project and provided major contributions to the upcoming paper (see publications).
-  </div>
-
-  <div class="grid-item">
+  <div class="project-card">
     <a id="raw-url" href="https://www.youtube.com/watch?v=XTYeBxrdG-Y">
-      <img src="https://sirmurphalot.github.io/assets/Caught.png" alt="Caught"
-           loading="lazy" decoding="async" width="220" height="140">
+      <img src="https://sirmurphalot.github.io/assets/Caught.png"
+           alt="Caught (short film)"
+           loading="lazy" decoding="async" width="900" height="600">
     </a>
+    <div class="project-body">
+      <span class="project-title">Caught</span>
+      is a short film written, directed, and produced by myself and my good friend
+      <a href="https://www.facebook.com/profile.php?id=100006014850247&lst=1738819438%3A100006014850247%3A1590249633&sk=timeline">Alex Gao</a>
+      for a 24-hour horror film competition. A very special thanks to our leading lady:
+      <a href="https://www.facebook.com/hannah.brigette">Hannah Rickertsen</a>!
+      After a very fun and very late night, we won first place (and the cash prize)! Our film was screened at the beautiful
+      <a href="https://www.campustheatre.org">campus theatre</a> and can be watched on YouTube (click image).
+    </div>
   </div>
 
-  <div class="grid-item"></div>
-  <div class="grid-item"></div>
-
-  <div class="grid-item">
-    <i>Caught</i> is a short film written, directed, and produced by myself and my good friend
-    <a href="https://www.facebook.com/profile.php?id=100006014850247&lst=1738819438%3A100006014850247%3A1590249633&sk=timeline">Alex Gao</a>
-    for a 24-hour horror film competition. A very special thanks to our leading lady:
-    <a href="https://www.facebook.com/hannah.brigette">Hannah Rickertsen</a>!
-    After a very fun and very late night, we won first place (and the cash prize)! Our film was screened at the beautiful
-    <a href="https://www.campustheatre.org">campus theatre</a> and can be watched on YouTube (click image).
-  </div>
 </div>
