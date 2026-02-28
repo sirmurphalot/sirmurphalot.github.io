@@ -20,7 +20,7 @@ title: Alexander C Murph | Research
 <u>Accepted Manuscripts</u>:
 <ol reversed>
   <li>
-      A.C. Murph<sup>★</sup>, L.J. Beesley<sup>★</sup>, G.C. Gibson, L.A. Castro, S.Y. Del Valle, and D.A. Osthus (2026). Beyond Equal Weights: A Disease-agnostic Approach to Ensemble Learning for Infectious Disease Forecasting. <b>Accepted to Nature Communications.</b>
+      <b class="emerald-text">A.C. Murph</b><sup>★</sup>, L.J. Beesley<sup>★</sup>, G.C. Gibson, L.A. Castro, S.Y. Del Valle, and D.A. Osthus (2026). Beyond Equal Weights: A Disease-agnostic Approach to Ensemble Learning for Infectious Disease Forecasting. <b>Accepted to Nature Communications.</b>
   </li>
   <li>
       <b class="emerald-text">A.C. Murph</b>, J.P. Williams, and J. Hannig (2025). Generalized fiducial inference on differentiable manifolds. <b>International Journal of Approximate Reasoning</b>, p.109618, ISSN 0888-613X
@@ -32,7 +32,7 @@ title: Alexander C Murph | Research
       <b class="emerald-text">A.C. Murph</b>, G.C. Gibson, L.B. VanDervort, N. Panda, L.A. Castro, S.Y. Del Valle, C.A. Manore, and D.A. Osthus (2025). Mapping incidence and prevalence peak data for SIR forecasting applications. <b>Journal of Mathematical Biology</b>, 91(70).
   </li>
   <li>
-      A.C. Murph<sup>★</sup>, G.C. Gibson<sup>★</sup>, E.B. Amona<sup>†</sup>, L.B. VanDervort, L.A. Castro, S. Y. Del Valle, and D.A. Osthus (2025). Synthetic method of analogues for emerging infectious disease forecasting. <b>PLOS Computational Biology</b>, 21(6): e1013203.
+      <b class="emerald-text">A.C. Murph</b><sup>★</sup>, G.C. Gibson<sup>★</sup>, E.B. Amona<sup>†</sup>, L.B. VanDervort, L.A. Castro, S. Y. Del Valle, and D.A. Osthus (2025). Synthetic method of analogues for emerging infectious disease forecasting. <b>PLOS Computational Biology</b>, 21(6): e1013203.
   </li>
   <li>
       Y. Liu, J. Hannig, and <b class="emerald-text">A.C. Murph</b> (2025). A Geometric Perspective on Bayesian and Generalized Fiducial Inference, <b>Statistical Sciences</b> 40(2), 219-234.

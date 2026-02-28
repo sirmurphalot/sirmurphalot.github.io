@@ -102,12 +102,13 @@ def latex_basic_to_html(s: str) -> str:
 
 def emphasize_name(html: str) -> str:
     """
-    Wrap your name in <b class="emerald-text">...</b> wherever it appears.
+    Wrap your name in <b class="emerald-text">...</b> wherever it appears,
+    including when immediately followed by tags like <sup>★</sup>.
+    Avoid double-wrapping if it's already emerald.
     """
-    # We do a conservative replace to avoid wrapping inside tags repeatedly.
     for nv in sorted(NAME_VARIANTS, key=len, reverse=True):
         html = re.sub(
-            rf"(?<![>\w]){re.escape(nv)}(?![\w<])",
+            rf'(?<!emerald-text\">)(?<![>\w]){re.escape(nv)}(?!\w)',
             rf'<b class="emerald-text">{nv}</b>',
             html,
         )
