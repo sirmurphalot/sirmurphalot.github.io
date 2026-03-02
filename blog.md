@@ -326,6 +326,54 @@ title: Alexander C Murph | Blog
     <div class="gallery-desc">My (winning!) <a href="https://newmexico.tablemagazine.com/blog/lemon-curd-cookie-cups/">submission to the TABLE Magazine</a> amateur baking competition. Deep molasses cookies soaked in rum, topped with lemon curd and whipped cream.</div>
   </div>
 
+  <div class="gallery-card">
+    <a target="_blank" href="assets/chai_tea_cake.jpeg">
+      <img src="assets/chai_tea_cake.webp" alt="Chai Tea Cake"
+           width="480" height="360" loading="lazy" decoding="async">
+    </a>
+    <div class="gallery-desc">Chai Tea Cake.</div>
+  </div>
+
+  <div class="gallery-card">
+    <a target="_blank" href="assets/chocolate_blood.jpeg">
+      <img src="assets/chocolate_blood.webp" alt="Chocolate Blood Cake"
+           width="480" height="360" loading="lazy" decoding="async">
+    </a>
+    <div class="gallery-desc">Chocolate Blood Cake for a friends vampire party.</div>
+  </div>
+
+  <div class="gallery-card">
+    <a target="_blank" href="assets/i_forget.jpeg">
+      <img src="assets/i_forget.webp" alt="I Forget Cake"
+           width="480" height="360" loading="lazy" decoding="async">
+    </a>
+    <div class="gallery-desc">I actually forget what flavor cake this was.  I think it was a chocolate stout cake.</div>
+  </div>
+
+  <div class="gallery-card">
+    <a target="_blank" href="assets/i_forget.jpeg">
+      <img src="assets/i_forget.webp" alt="I Forget Cake"
+           width="480" height="360" loading="lazy" decoding="async">
+    </a>
+    <div class="gallery-desc">I actually forget what flavor cake this was.  I think it was a chocolate stout cake.</div>
+  </div>
+
+  <div class="gallery-card">
+    <a target="_blank" href="assets/samoa_cake.jpeg">
+      <img src="assets/samoa_cake.webp" alt="Caramel deLite"
+           width="480" height="360" loading="lazy" decoding="async">
+    </a>
+    <div class="gallery-desc">Caramel deLite Cake. </div>
+  </div>
+
+  <div class="gallery-card">
+    <a target="_blank" href="assets/sweet_potato.jpeg">
+      <img src="assets/sweet_potato.webp" alt="Sweet Potato Cake"
+           width="480" height="360" loading="lazy" decoding="async">
+    </a>
+    <div class="gallery-desc">Sweet Potato Cake. </div>
+  </div>
+
 </div>
 
 <br><br>
