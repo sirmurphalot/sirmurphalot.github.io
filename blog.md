@@ -351,14 +351,6 @@ title: Alexander C Murph | Blog
   </div>
 
   <div class="gallery-card">
-    <a target="_blank" href="assets/i_forget.jpeg">
-      <img src="assets/i_forget.webp" alt="I Forget Cake"
-           width="480" height="360" loading="lazy" decoding="async">
-    </a>
-    <div class="gallery-desc">I actually forget what flavor cake this was.  I think it was a chocolate stout cake.</div>
-  </div>
-
-  <div class="gallery-card">
     <a target="_blank" href="assets/samoa_cake.jpeg">
       <img src="assets/samoa_cake.webp" alt="Caramel deLite"
            width="480" height="360" loading="lazy" decoding="async">
