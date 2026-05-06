@@ -365,6 +365,14 @@ title: Alexander C Murph | Blog
     </a>
     <div class="gallery-desc">Sweet Potato Cake. </div>
   </div>
+  
+  <div class="gallery-card">
+    <a target="_blank" href="assets/aries.jpeg">
+      <img src="assets/aries.webp" alt="Camp Aries Cake"
+           width="480" height="360" loading="lazy" decoding="async">
+    </a>
+    <div class="gallery-desc">Cake for a friend's Summer Camp-themed birthday. </div>
+  </div>
 
 </div>
 
