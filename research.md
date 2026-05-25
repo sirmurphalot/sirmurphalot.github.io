@@ -20,7 +20,10 @@ title: Alexander C Murph | Research
 <u>Accepted Manuscripts</u>:
 <ol reversed>
   <li>
-      <b class="emerald-text">A.C. Murph</b><sup>★</sup>, L.J. Beesley<sup>★</sup>, G.C. Gibson, L.A. Castro, S.Y. Del Valle, and D.A. Osthus (2026). A Disease-agnostic Approach to Ensemble Learning for Infectious Disease Forecasting. <b>Nature Communications,</b> 17, 4255 (2026).
+      L.O. Boampong, <b class="emerald-text">A.C. Murph</b>, J.D. Hyman, A. Navarre-Sitchler, H.S. Viswanathan (2026). Unravelling Controls on Carbon Mineralization in Fractures: Insights from 3D Reactive Transport Simulations in Olivine. <b>Chemical Geology,</b> 717.
+  </li>
+  <li>
+      <b class="emerald-text">A.C. Murph</b><sup>★</sup>, L.J. Beesley<sup>★</sup>, G.C. Gibson, L.A. Castro, S.Y. Del Valle, and D.A. Osthus (2026). A Disease-agnostic Approach to Ensemble Learning for Infectious Disease Forecasting. <b>Nature Communications,</b> 17, 4255.
   </li>
   <li>
       <b class="emerald-text">A.C. Murph</b>, J.P. Williams, and J. Hannig (2025). Generalized fiducial inference on differentiable manifolds. <b>International Journal of Approximate Reasoning</b>, p.109618, ISSN 0888-613X
@@ -64,9 +67,6 @@ title: Alexander C Murph | Research
 <ul>
   <li>
       E.C. Lawrence, <b class="emerald-text">A.C. Murph</b>, S.A. Vander Wiel, and C. Liu (202x). A New Method for Multinomial Inference using Dempster-Shafer Theory. <span style="font-variant: small-caps;">R and R at JRSS-B.</span>
-  </li>
-  <li>
-      L.O. Boampong, <b class="emerald-text">A.C. Murph</b>, J.D. Hyman, A. Navarre-Sitchler, H.S. Viswanathan (202x). Unravelling Controls on Carbon Mineralization in Fractures: Insights from 3D Reactive Transport Simulations in Olivine, <span style="font-variant: small-caps;">In Review</span>.
   </li>
   <li>
       D. Osthus, <b class="emerald-text">A.C. Murph</b>, E.E. Goldberg, L.J. Beesley, W.M. Fisher, N.K. Parikh, L.A. Castro (202x). Leveraging Synthetic and Genetic Data to Improve Epidemic Forecasting, <span style="font-variant: small-caps;">In Review</span>.
