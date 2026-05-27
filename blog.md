@@ -327,7 +327,7 @@ title: Alexander C Murph | Blog
   </div>
 
   <div class="gallery-card">
-    <a target="_blank" href="assets/chai_tea_cake.jpeg">
+    <a target="_blank" href="assets/chai_tea_cake.jpg">
       <img src="assets/chai_tea_cake.webp" alt="Chai Tea Cake"
            width="480" height="360" loading="lazy" decoding="async">
     </a>
@@ -335,7 +335,7 @@ title: Alexander C Murph | Blog
   </div>
 
   <div class="gallery-card">
-    <a target="_blank" href="assets/chocolate_blood.jpeg">
+    <a target="_blank" href="assets/chocolate_blood.jpg">
       <img src="assets/chocolate_blood.webp" alt="Chocolate Blood Cake"
            width="480" height="360" loading="lazy" decoding="async">
     </a>
@@ -343,7 +343,7 @@ title: Alexander C Murph | Blog
   </div>
 
   <div class="gallery-card">
-    <a target="_blank" href="assets/i_forget.jpeg">
+    <a target="_blank" href="assets/i_forget.jpg">
       <img src="assets/i_forget.webp" alt="I Forget Cake"
            width="480" height="360" loading="lazy" decoding="async">
     </a>
@@ -351,7 +351,7 @@ title: Alexander C Murph | Blog
   </div>
 
   <div class="gallery-card">
-    <a target="_blank" href="assets/samoa_cake.jpeg">
+    <a target="_blank" href="assets/samoa_cake.jpg">
       <img src="assets/samoa_cake.webp" alt="Caramel deLite"
            width="480" height="360" loading="lazy" decoding="async">
     </a>
@@ -359,7 +359,7 @@ title: Alexander C Murph | Blog
   </div>
 
   <div class="gallery-card">
-    <a target="_blank" href="assets/sweet_potato.jpeg">
+    <a target="_blank" href="assets/sweet_potato.jpg">
       <img src="assets/sweet_potato.webp" alt="Sweet Potato Cake"
            width="480" height="360" loading="lazy" decoding="async">
     </a>
