@@ -69,7 +69,10 @@ title: Alexander C Murph | Research
       E.C. Lawrence, <b class="emerald-text">A.C. Murph</b>, S.A. Vander Wiel, and C. Liu (202x). A New Method for Multinomial Inference using Dempster-Shafer Theory. <span style="font-variant: small-caps;">R and R at JRSS-B.</span>
   </li>
   <li>
-      D. Osthus, <b class="emerald-text">A.C. Murph</b>, E.E. Goldberg, L.J. Beesley, W.M. Fisher, N.K. Parikh, L.A. Castro (202x). Leveraging Synthetic and Genetic Data to Improve Epidemic Forecasting, <span style="font-variant: small-caps;">In Review</span>.
+      D. Osthus, <b class="emerald-text">A.C. Murph</b>, E.E. Goldberg, L.J. Beesley, W.M. Fisher, N.K. Parikh, L.A. Castro (202x). Leveraging Synthetic and Genetic Data to Improve Epidemic Forecasting, <span style="font-variant: small-caps;">R and R at PLOS Computational Biology</span>.
+  </li>
+  <li>
+      L. J. Beesley, <b class="emerald-text">A.C. Murph</b>, D. Osthus, L. A. Castro (202x). Transfer Learning using 66 Diseases for Disease Forecasting Applications, <span style="font-variant: small-caps;">In Review</span>.
   </li>
   <li>
       <b class="emerald-text">A.C. Murph</b>, C.B. Storlie, P.M. Wilson, J.P. Williams, and J. Hannig (202x). Bayes Watch: Bayesian change-point detection for process monitoring with fault detection, <span style="font-variant: small-caps;">In Review</span>.
