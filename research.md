@@ -20,7 +20,7 @@ title: Alexander C Murph | Research
 <u>Accepted Manuscripts</u>:
 <ol reversed>
   <li>
-      D. Osthus, <b class="emerald-text">A.C. Murph</b>, E.E. Goldberg, L.J. Beesley, W.M. Fisher, N.K. Parikh, L.A. Castro (2026). Leveraging Synthetic and Genetic Data to Improve Epidemic Forecasting, <b>Accepted to PLOS Computational Biology</b>.
+      D. Osthus, <b class="emerald-text">A.C. Murph</b>, E.E. Goldberg, L.J. Beesley, W.M. Fisher, N.K. Parikh, L.A. Castro (2026). Leveraging Synthetic and Genetic Data to Improve Epidemic Forecasting, <b>PLOS Computational Biology</b> 22(8): e1014630.
   </li>
   <li>
       L.O. Boampong, <b class="emerald-text">A.C. Murph</b>, J.D. Hyman, A. Navarre-Sitchler, H.S. Viswanathan (2026). Unravelling Controls on Carbon Mineralization in Fractures: Insights from 3D Reactive Transport Simulations in Olivine. <b>Chemical Geology,</b> 717.
@@ -72,7 +72,7 @@ title: Alexander C Murph | Research
       E.C. Lawrence, <b class="emerald-text">A.C. Murph</b>, S.A. Vander Wiel, and C. Liu (202x). A New Method for Multinomial Inference using Dempster-Shafer Theory. <span style="font-variant: small-caps;">R and R at JRSS-B.</span>
   </li>
   <li>
-      L. J. Beesley, <b class="emerald-text">A.C. Murph</b>, D. Osthus, L. A. Castro (202x). Transfer Learning using 66 Diseases for Disease Forecasting Applications, <span style="font-variant: small-caps;">In Review</span>.
+      L. J. Beesley, <b class="emerald-text">A.C. Murph</b>, D. Osthus, L. A. Castro (202x). Transfer Learning using 66 Diseases for Disease Forecasting Applications, <span style="font-variant: small-caps;">R and R at PLOS One</span>.
   </li>
   <li>
       <b class="emerald-text">A.C. Murph</b>, C.B. Storlie, P.M. Wilson, J.P. Williams, and J. Hannig (202x). Bayes Watch: Bayesian change-point detection for process monitoring with fault detection, <span style="font-variant: small-caps;">In Review</span>.
