@@ -4,9 +4,13 @@ title: Alexander C Murph
 permalink: 
 ---
 <div class="banner">
-    <div class="photo">
-        <img src="https://sirmurphalot.github.io/assets/me.jpg" width="207px" height="200px">
-    </div>
+<div class="photo">
+    <img
+        src="https://sirmurphalot.github.io/assets/me.jpg"
+        alt="Alexander C. Murph"
+        style="width: 207px; max-width: 100%; height: auto;"
+    >
+</div>
     <div class="contact">
         <font size="+2">Alexander C. Murph</font> <br>
         Assistant Professor at the University of Pittsburgh<br>
