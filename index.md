@@ -13,7 +13,8 @@ permalink:
 </div>
     <div class="contact">
         <font size="+2">Alexander C. Murph</font> <br>
-        Assistant Professor at the University of Pittsburgh<br>
+        Asst. Professor at the University of Pittsburgh, Dept. of Psychiatry<br>
+        Director of Collaborative Statistics and Quantitative Methods in Neuroscience<br>
         Guest Scientist at Los Alamos National Laboratory<br>
         Pittsburgh, PA <br>
         <a href="mailto:murph290@gmail.com"> <img src="{{site.url}}css/icons/gmail.jpg"  class="icon"> </a>
@@ -51,7 +52,7 @@ permalink:
     </p>
     <p>
     <h3>Brief Bio</h3>
-    A born-and-raised Pittsburgh-er, I followed my dream of becoming a statistics professor south and then west, only to find myself back home again.  When I'm not thinking about math and coding, I'm swimming, dancing, and singing loudly in the shower.
+    A born-and-raised Pittsburgh-er, I followed my dream of becoming a statistics professor south and then westward, only to find myself back home again.  When I'm not thinking about math and coding, I'm swimming, dancing, and singing loudly in the shower.
     </p>
     <b>Erdös-Bacon Number</b>: 5
 </div>
