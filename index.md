@@ -52,7 +52,7 @@ permalink:
     </p>
     <p>
     <h3>Brief Bio</h3>
-    A born-and-raised Pittsburgh-er, I followed my dream of becoming a statistics professor south and then westward, only to find myself back home again.  When I'm not thinking about math and coding, I'm swimming, dancing, and singing loudly in the shower.
+    A born-and-raised Pittsburgh-er, I followed my dream of becoming a professor south and then westward, only to find myself back home again.  When I'm not thinking about math and coding, I'm swimming, dancing, and singing loudly in the shower.
     </p>
     <b>Erdös-Bacon Number</b>: 5
 </div>
